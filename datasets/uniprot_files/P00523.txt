@@ -1,0 +1,903 @@
+ID   SRC_CHICK               Reviewed;         533 AA.
+AC   P00523; Q90992; Q90993; Q91343; Q91345; Q92013; Q98915;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 4.
+DT   03-AUG-2022, entry version 235.
+DE   RecName: Full=Proto-oncogene tyrosine-protein kinase Src;
+DE            EC=2.7.10.2;
+DE   AltName: Full=Proto-oncogene c-Src;
+DE   AltName: Full=pp60c-src;
+DE            Short=p60-Src;
+GN   Name=SRC;
+OS   Gallus gallus (Chicken).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+OC   Coelurosauria; Aves; Neognathae; Galloanserae; Galliformes; Phasianidae;
+OC   Phasianinae; Gallus.
+OX   NCBI_TaxID=9031;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RX   PubMed=6299580; DOI=10.1016/0092-8674(83)90073-9;
+RA   Takeya T., Hanafusa H.;
+RT   "Structure and sequence of the cellular gene homologous to the RSV src gene
+RT   and the mechanism for generating the transforming virus.";
+RL   Cell 32:881-890(1983).
+RN   [2]
+RP   ERRATUM OF PUBMED:6299580, AND SEQUENCE REVISION TO 526.
+RA   Takeya T., Hanafusa H.;
+RL   Cell 34:319-319(1983).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 2).
+RC   TISSUE=Pectoralis muscle;
+RX   PubMed=2115117; DOI=10.1128/mcb.10.8.4068-4079.1990;
+RA   Dorai T., Wang L.-H.;
+RT   "An alternative non-tyrosine protein kinase product of the c-src gene in
+RT   chicken skeletal muscle.";
+RL   Mol. Cell. Biol. 10:4068-4079(1990).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND PHOSPHORYLATION AT TYR-416 AND
+RP   TYR-436.
+RX   PubMed=8856081; DOI=10.1111/j.1432-1033.1996.0756h.x;
+RA   Weijland A., Neubauer G., Courtneidge S.A., Mann M., Wierenga R.K.,
+RA   Superti-Furga G.;
+RT   "The purification and characterization of the catalytic domain of Src
+RT   expressed in Schizosaccharomyces pombe. Comparison of unphosphorylated and
+RT   tyrosine phosphorylated species.";
+RL   Eur. J. Biochem. 240:756-764(1996).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-7.
+RX   PubMed=6292480; DOI=10.1128/jvi.44.1.12-18.1982;
+RA   Takeya T., Hanafusa H.;
+RT   "DNA sequence of the viral and cellular src gene of chickens. II.
+RT   Comparison of the src genes of two strains of Avian sarcoma virus and of
+RT   the cellular homolog.";
+RL   J. Virol. 44:12-18(1982).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 1-19 AND 485-534 (ISOFORM 1).
+RX   PubMed=1712905; DOI=10.1128/mcb.11.8.4165-4176.1991;
+RA   Dorai T., Levy J.B., Kang L., Brugge J.S., Wang L.-H.;
+RT   "Analysis of cDNAs of the proto-oncogene c-src: heterogeneity in 5' exons
+RT   and possible mechanism for the genesis of the 3' end of v-src.";
+RL   Mol. Cell. Biol. 11:4165-4176(1991).
+RN   [7]
+RP   ATP-BINDING SITE.
+RX   PubMed=6431300; DOI=10.1038/310589a0;
+RA   Kamps M.P., Taylor S.S., Sefton B.M.;
+RT   "Direct evidence that oncogenic tyrosine kinases and cyclic AMP-dependent
+RT   protein kinase have homologous ATP-binding sites.";
+RL   Nature 310:589-592(1984).
+RN   [8]
+RP   PHOSPHORYLATION AT SER-12.
+RX   PubMed=2996780; DOI=10.1016/0092-8674(85)90281-8;
+RA   Gould K.L., Woodgett J.R., Cooper J.A., Buss J.E., Shalloway D., Hunter T.;
+RT   "Protein kinase C phosphorylates pp60src at a novel site.";
+RL   Cell 42:849-857(1985).
+RN   [9]
+RP   PHOSPHORYLATION AT TYR-416.
+RX   PubMed=6273838; DOI=10.1073/pnas.78.10.6013;
+RA   Smart J.E., Oppermann H., Czernilofsky A.P., Purchio A.F., Erikson R.L.,
+RA   Bishop J.M.;
+RT   "Characterization of sites for tyrosine phosphorylation in the transforming
+RT   protein of Rous sarcoma virus (pp60v-src) and its normal cellular homologue
+RT   (pp60c-src).";
+RL   Proc. Natl. Acad. Sci. U.S.A. 78:6013-6017(1981).
+RN   [10]
+RP   PHOSPHORYLATION AT TYR-527.
+RX   PubMed=2420005; DOI=10.1126/science.2420005;
+RA   Cooper J.A., Gould K.L., Cartwright C.A., Hunter T.;
+RT   "Tyr527 is phosphorylated in pp60c-src: implications for regulation.";
+RL   Science 231:1431-1434(1986).
+RN   [11]
+RP   PHOSPHORYLATION AT THR-34; THR-46 AND SER-72.
+RX   PubMed=2470512; DOI=10.1016/0092-8674(89)90791-5;
+RA   Shenoy S., Choi J.K., Bagrodia S., Copeland T.D., Maller J.L.,
+RA   Shalloway D.;
+RT   "Purified maturation promoting factor phosphorylates pp60c-src at the sites
+RT   phosphorylated during fibroblast mitosis.";
+RL   Cell 57:763-774(1989).
+RN   [12]
+RP   FUNCTION IN THE NGF AND FGF SIGNALING PATHWAYS.
+RX   PubMed=1717492; DOI=10.1083/jcb.115.3.809;
+RA   Kremer N.E., D'Arcangelo G., Thomas S.M., DeMarco M., Brugge J.S.,
+RA   Halegoua S.;
+RT   "Signal transduction by nerve growth factor and fibroblast growth factor in
+RT   PC12 cells requires a sequence of src and ras actions.";
+RL   J. Cell Biol. 115:809-819(1991).
+RN   [13]
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=1378446; DOI=10.1083/jcb.118.2.321;
+RA   Kaplan K.B., Swedlow J.R., Varmus H.E., Morgan D.O.;
+RT   "Association of p60c-src with endosomal membranes in mammalian
+RT   fibroblasts.";
+RL   J. Cell Biol. 118:321-333(1992).
+RN   [14]
+RP   SUBCELLULAR LOCATION, AND INTERACTION WITH PXN.
+RX   PubMed=8325872; DOI=10.1016/s0021-9258(18)82425-5;
+RA   Weng Z., Taylor J.A., Turner C.E., Brugge J.S., Seidel-Dugan C.;
+RT   "Detection of Src homology 3-binding proteins, including paxillin, in
+RT   normal and v-Src-transformed Balb/c 3T3 cells.";
+RL   J. Biol. Chem. 268:14956-14963(1993).
+RN   [15]
+RP   FUNCTION IN THE EDN1 SIGNALING PATHWAY, AND SUBCELLULAR LOCATION.
+RX   PubMed=8550628; DOI=10.1074/jbc.271.1.77;
+RA   Simonson M.S., Wang Y., Herman W.H.;
+RT   "Nuclear signaling by endothelin-1 requires Src protein-tyrosine kinases.";
+RL   J. Biol. Chem. 271:77-82(1996).
+RN   [16]
+RP   INTERACTION WITH AFAP-110.
+RX   PubMed=9655255;
+RX   DOI=10.1002/(sici)1098-2744(199806)22:2<110::aid-mc6>3.0.co;2-q;
+RA   Guappone A.C., Weimer T., Flynn D.C.;
+RT   "Formation of a stable src-AFAP-110 complex through either an amino-
+RT   terminal or a carboxy-terminal SH2-binding motif.";
+RL   Mol. Carcinog. 22:110-119(1998).
+RN   [17]
+RP   INTERACTION WITH GJA1.
+RX   PubMed=15492000; DOI=10.1074/jbc.m409552200;
+RA   Sorgen P.L., Duffy H.S., Sahoo P., Coombs W., Delmar M., Spray D.C.;
+RT   "Structural changes in the carboxyl terminus of the gap junction protein
+RT   connexin43 indicates signaling between binding domains for c-Src and zonula
+RT   occludens-1.";
+RL   J. Biol. Chem. 279:54695-54701(2004).
+RN   [18]
+RP   FUNCTION, AND MUTAGENESIS OF TYR-527.
+RX   PubMed=19307596; DOI=10.1083/jcb.200810155;
+RA   Zhang Y., Tu Y., Zhao J., Chen K., Wu C.;
+RT   "Reversion-induced LIM interaction with Src reveals a novel Src
+RT   inactivation cycle.";
+RL   J. Cell Biol. 184:785-792(2009).
+RN   [19]
+RP   S-NITROSYLATION AT CYS-498, AND MUTAGENESIS OF CYS-498.
+RX   PubMed=19948721; DOI=10.1074/jbc.m109.059782;
+RA   Rahman M.A., Senga T., Ito S., Hyodo T., Hasegawa H., Hamaguchi M.;
+RT   "S-nitrosylation at cysteine 498 of c-Src tyrosine kinase regulates nitric
+RT   oxide-mediated cell invasion.";
+RL   J. Biol. Chem. 285:3806-3814(2010).
+RN   [20]
+RP   REVIEW ON FUNCTION.
+RX   PubMed=8672527; DOI=10.1016/0304-419x(96)00003-0;
+RA   Brown M.T., Cooper J.A.;
+RT   "Regulation, substrates and functions of src.";
+RL   Biochim. Biophys. Acta 1287:121-149(1996).
+RN   [21]
+RP   REVIEW ON FUNCTION.
+RX   PubMed=9442882; DOI=10.1146/annurev.cellbio.13.1.513;
+RA   Thomas S.M., Brugge J.S.;
+RT   "Cellular functions regulated by Src family kinases.";
+RL   Annu. Rev. Cell Dev. Biol. 13:513-609(1997).
+RN   [22]
+RP   REVIEW ON FUNCTION.
+RX   PubMed=11964124; DOI=10.1007/s00018-002-8438-2;
+RA   Ma Y.C., Huang X.Y.;
+RT   "Novel regulation and function of Src tyrosine kinase.";
+RL   Cell. Mol. Life Sci. 59:456-462(2002).
+RN   [23]
+RP   X-RAY CRYSTALLOGRAPHY (2.35 ANGSTROMS) OF 83-533.
+RX   PubMed=9405157; DOI=10.1006/jmbi.1997.1426;
+RA   Williams J.C., Weijland A., Gonfloni S., Thompson A., Courtneidge S.A.,
+RA   Superti-Furga G., Wierenga R.K.;
+RT   "The 2.35 A crystal structure of the inactivated form of chicken Src: a
+RT   dynamic molecule with multiple regulatory interactions.";
+RL   J. Mol. Biol. 274:757-775(1997).
+RN   [24]
+RP   STRUCTURE BY NMR OF 81-140.
+RX   PubMed=8504863; DOI=10.1016/0014-5793(93)81538-b;
+RA   Yu H., Rosen M.K., Schreiber S.L.;
+RT   "1H and 15N assignments and secondary structure of the Src SH3 domain.";
+RL   FEBS Lett. 324:87-92(1993).
+CC   -!- FUNCTION: Non-receptor protein tyrosine kinase which is activated
+CC       following engagement of many different classes of cellular receptors
+CC       including immune response receptors, integrins and other adhesion
+CC       receptors, receptor protein tyrosine kinases, G protein-coupled
+CC       receptors as well as cytokine receptors. Participates in signaling
+CC       pathways that control a diverse spectrum of biological activities
+CC       including gene transcription, immune response, cell adhesion, cell
+CC       cycle progression, apoptosis, migration, and transformation. Due to
+CC       functional redundancy between members of the SRC kinase family,
+CC       identification of the specific role of each SRC kinase is very
+CC       difficult. SRC appears to be one of the primary kinases activated
+CC       following engagement of receptors and plays a role in the activation of
+CC       other protein tyrosine kinase (PTK) families. Receptor clustering or
+CC       dimerization leads to recruitment of SRC to the receptor complexes
+CC       where it phosphorylates the tyrosine residues within the receptor
+CC       cytoplasmic domains. Plays an important role in the regulation of
+CC       cytoskeletal organization through phosphorylation of specific
+CC       substrates involved in this process (Probable). When cells adhere via
+CC       focal adhesions to the extracellular matrix, signals are transmitted by
+CC       integrins into the cell resulting in tyrosine phosphorylation of a
+CC       number of focal adhesion proteins, including PTK2/FAK1 and paxillin
+CC       (PXN) (By similarity). Also active at the sites of cell-cell contact
+CC       adherens junctions and at gap junctions. Implicated in the regulation
+CC       of pre-mRNA-processing (Probable). Might be involved not only in
+CC       mediating the transduction of mitogenic signals at the level of the
+CC       plasma membrane but also in controlling progression through the cell
+CC       cycle via interaction with regulatory proteins in the nucleus
+CC       (PubMed:1717492, PubMed:8550628). Involved in anchorage-independent
+CC       cell growth (PubMed:19307596). {ECO:0000250|UniProtKB:P12931,
+CC       ECO:0000269|PubMed:1717492, ECO:0000269|PubMed:19307596,
+CC       ECO:0000269|PubMed:8550628, ECO:0000305|PubMed:11964124,
+CC       ECO:0000305|PubMed:8672527, ECO:0000305|PubMed:9442882}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=ATP + L-tyrosyl-[protein] = ADP + H(+) + O-phospho-L-tyrosyl-
+CC         [protein]; Xref=Rhea:RHEA:10596, Rhea:RHEA-COMP:10136, Rhea:RHEA-
+CC         COMP:10137, ChEBI:CHEBI:15378, ChEBI:CHEBI:30616, ChEBI:CHEBI:46858,
+CC         ChEBI:CHEBI:82620, ChEBI:CHEBI:456216; EC=2.7.10.2;
+CC         Evidence={ECO:0000255|PROSITE-ProRule:PRU10028};
+CC   -!- ACTIVITY REGULATION: Becomes activated when its major tyrosine
+CC       phosphorylation site is not phosphorylated. It can also be activated by
+CC       point mutations as well as by truncations at the C-terminal end or by
+CC       other mutations. Heme regulates its activity by enhancing the
+CC       phosphorylation on Tyr-527 (By similarity). {ECO:0000250}.
+CC   -!- SUBUNIT: Forms a complex with polyoma virus middle T antigen. Interacts
+CC       with AFAP-110. Interacts with GJA1 and PXN.
+CC       {ECO:0000269|PubMed:15492000, ECO:0000269|PubMed:8325872,
+CC       ECO:0000269|PubMed:9655255}.
+CC   -!- INTERACTION:
+CC       P00523; Q90738: AFAP1; NbExp=3; IntAct=EBI-848039, EBI-8562073;
+CC       P00523; Q00944: PTK2; NbExp=3; IntAct=EBI-848039, EBI-2896409;
+CC       P00523; Q9QWY8-1: Asap1; Xeno; NbExp=3; IntAct=EBI-848039, EBI-698517;
+CC       P00523; Q9QWY8-2: Asap1; Xeno; NbExp=2; IntAct=EBI-848039, EBI-698524;
+CC       P00523; Q9NZA1: CLIC5; Xeno; NbExp=2; IntAct=EBI-848039, EBI-5658997;
+CC       P00523; P41240: CSK; Xeno; NbExp=7; IntAct=EBI-848039, EBI-1380630;
+CC       P00523; Q9Y4D1: DAAM1; Xeno; NbExp=3; IntAct=EBI-848039, EBI-2817289;
+CC       P00523; P03372: ESR1; Xeno; NbExp=2; IntAct=EBI-848039, EBI-78473;
+CC       P00523; O88703: Hcn2; Xeno; NbExp=5; IntAct=EBI-848039, EBI-771231;
+CC       P00523; P18052: Ptpra; Xeno; NbExp=2; IntAct=EBI-848039, EBI-6597520;
+CC       P00523; P18433: PTPRA; Xeno; NbExp=4; IntAct=EBI-848039, EBI-2609645;
+CC       P00523; Q9QWI6-2: Srcin1; Xeno; NbExp=2; IntAct=EBI-848039, EBI-775607;
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000269|PubMed:1378446,
+CC       ECO:0000269|PubMed:8325872}; Lipid-anchor
+CC       {ECO:0000250|UniProtKB:P05480}. Mitochondrion inner membrane
+CC       {ECO:0000250|UniProtKB:P05480}. Endosome membrane
+CC       {ECO:0000269|PubMed:1378446}; Peripheral membrane protein
+CC       {ECO:0000269|PubMed:1378446}. Nucleus {ECO:0000269|PubMed:8550628}.
+CC       Cytoplasm, cytoskeleton {ECO:0000269|PubMed:8325872}. Cell junction,
+CC       focal adhesion {ECO:0000250|UniProtKB:P05480}. Cytoplasm, perinuclear
+CC       region {ECO:0000250|UniProtKB:P12931}. Note=Localizes to focal adhesion
+CC       sites following integrin engagement (By similarity). Localization to
+CC       focal adhesion sites requires myristoylation and the SH3 domain.
+CC       {ECO:0000250|UniProtKB:P05480, ECO:0000250|UniProtKB:P12931}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=P00523-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=P00523-2; Sequence=VSP_011844, VSP_011845;
+CC   -!- TISSUE SPECIFICITY: Expressed to high levels, and with a high degree of
+CC       kinase activity, in certain fully differentiated cells such as neurons,
+CC       platelets and macrophages. Isoform 1 is widely expressed. Isoform 2 is
+CC       expressed only in the muscle.
+CC   -!- PTM: Myristoylated at Gly-2, and this is essential for targeting to
+CC       membranes. {ECO:0000250}.
+CC   -!- PTM: Dephosphorylated at Tyr-527 by PTPRJ. Phosphorylated on Tyr-527 by
+CC       c-Src kinase (CSK). The phosphorylated form is termed pp60c-src.
+CC       Dephosphorylated by PTPRJ at Tyr-416. Normally maintained in an
+CC       inactive conformation with the SH2 domain engaged with Tyr-527, the SH3
+CC       domain engaged with the SH2-kinase linker, and Tyr-416
+CC       dephosphorylated. Dephosphorylation of Tyr-527 as a result of protein
+CC       tyrosine phosphatase (PTP) action disrupts the intramolecular
+CC       interaction between the SH2 domain and Tyr-527, Tyr-416 can then become
+CC       autophosphorylated, resulting in SRC activation. Phosphorylation of
+CC       Tyr-527 by CSK allows this interaction to reform, resulting in SRC
+CC       inactivation (By similarity). {ECO:0000250}.
+CC   -!- PTM: S-nitrosylation is important for activation of its kinase
+CC       activity. {ECO:0000269|PubMed:19948721}.
+CC   -!- MISCELLANEOUS: [Isoform 2]: Membrane-bound. {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the protein kinase superfamily. Tyr protein
+CC       kinase family. SRC subfamily. {ECO:0000255|PROSITE-ProRule:PRU00159}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; V00402; CAA23696.1; -; Genomic_DNA.
+DR   EMBL; J00908; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; M57290; AAA49078.1; -; mRNA.
+DR   EMBL; S43604; AAD13831.1; -; mRNA.
+DR   EMBL; S43616; AAD13835.1; -; mRNA.
+DR   EMBL; S43587; AAD13830.1; -; mRNA.
+DR   EMBL; S43609; AAD13832.1; -; mRNA.
+DR   EMBL; S43614; AAD13834.1; -; mRNA.
+DR   EMBL; S43579; AAB19353.2; -; mRNA.
+DR   PIR; A00630; TVCHS.
+DR   RefSeq; NP_990788.2; NM_205457.2.
+DR   RefSeq; XP_015151834.1; XM_015296348.1. [P00523-1]
+DR   PDB; 1F1W; X-ray; 2.10 A; A=145-247.
+DR   PDB; 1F2F; X-ray; 1.70 A; A=145-247.
+DR   PDB; 1NLO; NMR; -; C=81-140.
+DR   PDB; 1NLP; NMR; -; C=81-140.
+DR   PDB; 1P13; X-ray; 1.63 A; A/B=145-246.
+DR   PDB; 1PRL; NMR; -; C=77-140.
+DR   PDB; 1PRM; NMR; -; C=77-140.
+DR   PDB; 1RLP; NMR; -; C=77-140.
+DR   PDB; 1RLQ; NMR; -; C=77-140.
+DR   PDB; 1SRL; NMR; -; A=77-140.
+DR   PDB; 1SRM; NMR; -; A=77-140.
+DR   PDB; 2HWO; X-ray; 2.50 A; A/B=251-533.
+DR   PDB; 2HWP; X-ray; 2.48 A; A/B=251-533.
+DR   PDB; 2OIQ; X-ray; 2.07 A; A/B=251-533.
+DR   PDB; 2PTK; X-ray; 2.35 A; A=81-533.
+DR   PDB; 2QI8; X-ray; 2.32 A; A/B=251-533.
+DR   PDB; 2QLQ; X-ray; 2.33 A; A/B=251-533.
+DR   PDB; 2QQ7; X-ray; 2.38 A; A/B=251-533.
+DR   PDB; 3D7T; X-ray; 2.90 A; B=251-533.
+DR   PDB; 3D7U; X-ray; 4.11 A; B/D=260-523.
+DR   PDB; 3DQW; X-ray; 2.02 A; A/B/C/D=251-533.
+DR   PDB; 3DQX; X-ray; 2.30 A; A/B=251-533.
+DR   PDB; 3EL7; X-ray; 2.80 A; A=251-533.
+DR   PDB; 3EL8; X-ray; 2.30 A; A/B=251-533.
+DR   PDB; 3EN4; X-ray; 2.55 A; A/B=251-533.
+DR   PDB; 3EN5; X-ray; 2.66 A; A/B=251-533.
+DR   PDB; 3EN6; X-ray; 2.39 A; A/B=251-533.
+DR   PDB; 3EN7; X-ray; 2.81 A; A/B=251-533.
+DR   PDB; 3F3T; X-ray; 2.50 A; A/B=251-533.
+DR   PDB; 3F3U; X-ray; 2.50 A; A/B=251-533.
+DR   PDB; 3F3V; X-ray; 2.60 A; A/B=251-533.
+DR   PDB; 3F3W; X-ray; 2.60 A; A/B=251-533.
+DR   PDB; 3F6X; X-ray; 2.35 A; A/B/C/D=251-533.
+DR   PDB; 3FJ5; X-ray; 1.65 A; A/B=85-140.
+DR   PDB; 3G5D; X-ray; 2.20 A; A/B=251-533.
+DR   PDB; 3G6G; X-ray; 2.31 A; A/B=251-533.
+DR   PDB; 3G6H; X-ray; 2.35 A; A/B=251-533.
+DR   PDB; 3GEQ; X-ray; 2.20 A; A/B=251-533.
+DR   PDB; 3LOK; X-ray; 2.48 A; A/B=251-533.
+DR   PDB; 3OEZ; X-ray; 2.40 A; A/B=251-533.
+DR   PDB; 3OF0; X-ray; 2.70 A; A/B=251-533.
+DR   PDB; 3QLF; X-ray; 2.75 A; A/B=251-533.
+DR   PDB; 3QLG; X-ray; 2.75 A; A/B=251-533.
+DR   PDB; 3SVV; X-ray; 2.20 A; A/B=251-533.
+DR   PDB; 3TZ7; X-ray; 3.30 A; A/B=251-533.
+DR   PDB; 3TZ8; X-ray; 2.70 A; A/B=251-533.
+DR   PDB; 3TZ9; X-ray; 3.10 A; A/B=251-533.
+DR   PDB; 3U4W; X-ray; 1.90 A; A=259-533.
+DR   PDB; 3U51; X-ray; 2.24 A; A/B=259-533.
+DR   PDB; 3UQF; X-ray; 2.27 A; A/B=251-533.
+DR   PDB; 3UQG; X-ray; 2.20 A; A/B=251-533.
+DR   PDB; 4AGW; X-ray; 2.60 A; A/B=251-533.
+DR   PDB; 4DGG; X-ray; 2.65 A; A/B=251-533.
+DR   PDB; 4FIC; X-ray; 2.50 A; A/B=251-533.
+DR   PDB; 4HVU; X-ray; 0.98 A; A=85-141.
+DR   PDB; 4HVV; X-ray; 1.10 A; A=85-140.
+DR   PDB; 4HVW; X-ray; 0.98 A; A=85-141.
+DR   PDB; 4JZ3; X-ray; 1.85 A; A=85-141.
+DR   PDB; 4JZ4; X-ray; 1.56 A; A/B=85-141.
+DR   PDB; 4LE9; X-ray; 1.34 A; A=85-141.
+DR   PDB; 4LGG; X-ray; 2.41 A; A/B=264-533.
+DR   PDB; 4LGH; X-ray; 2.84 A; A/B=257-533.
+DR   PDB; 4MCV; X-ray; 2.73 A; A/B=256-533.
+DR   PDB; 4O2P; X-ray; 2.10 A; A/B=251-533.
+DR   PDB; 4OML; X-ray; 1.60 A; A=85-141.
+DR   PDB; 4OMM; X-ray; 1.90 A; A=85-140.
+DR   PDB; 4OMN; X-ray; 1.50 A; A=85-140.
+DR   PDB; 4OMO; X-ray; 1.04 A; A/B=85-141.
+DR   PDB; 4OMP; X-ray; 2.00 A; A=85-139.
+DR   PDB; 4OMQ; X-ray; 2.00 A; A=85-140.
+DR   PDB; 4QT7; X-ray; 1.55 A; A=85-141.
+DR   PDB; 4RTU; X-ray; 2.45 A; A=85-141.
+DR   PDB; 4RTV; X-ray; 1.37 A; A=85-141.
+DR   PDB; 4RTW; X-ray; 1.24 A; A/C=85-141.
+DR   PDB; 4RTX; X-ray; 1.32 A; A/B/C/D=85-141.
+DR   PDB; 4RTY; X-ray; 1.28 A; A=85-141.
+DR   PDB; 4RTZ; X-ray; 0.98 A; A=85-141.
+DR   PDB; 4U5J; X-ray; 2.26 A; A/B=251-533.
+DR   PDB; 4YBJ; X-ray; 2.61 A; A/B=251-533.
+DR   PDB; 4YBK; X-ray; 2.50 A; A=251-533.
+DR   PDB; 5BMM; X-ray; 2.50 A; A/B=251-533.
+DR   PDB; 5D10; X-ray; 2.70 A; A/B=251-533.
+DR   PDB; 5D11; X-ray; 2.30 A; A/B=251-533.
+DR   PDB; 5D12; X-ray; 3.00 A; A/B=251-533.
+DR   PDB; 5EC7; X-ray; 1.65 A; A/B/C=85-140.
+DR   PDB; 5ECA; X-ray; 1.16 A; A=85-141.
+DR   PDB; 5I11; X-ray; 1.95 A; A=85-141.
+DR   PDB; 5J5S; X-ray; 2.15 A; A/B=251-533.
+DR   PDB; 5K9I; X-ray; 2.50 A; A/B=251-533.
+DR   PDB; 5OAV; X-ray; 0.95 A; A/C=85-141.
+DR   PDB; 5OB0; X-ray; 1.17 A; A=85-141.
+DR   PDB; 5OB1; X-ray; 1.17 A; A=85-141.
+DR   PDB; 5OB2; X-ray; 1.80 A; A/C=85-141.
+DR   PDB; 5SWH; X-ray; 2.50 A; A/B=252-533.
+DR   PDB; 5SYS; X-ray; 2.80 A; A/B=251-533.
+DR   PDB; 5T0P; X-ray; 2.50 A; A/B=251-533.
+DR   PDB; 5TEH; X-ray; 2.99 A; A/B=251-533.
+DR   PDB; 5XP5; X-ray; 2.10 A; A/B=251-533.
+DR   PDB; 5XP7; X-ray; 2.01 A; A/B=251-533.
+DR   PDB; 6HVE; X-ray; 1.90 A; A/B=251-533.
+DR   PDB; 6HVF; X-ray; 2.10 A; A/B=251-533.
+DR   PDB; 6L8L; X-ray; 2.89 A; A/B/C/D=251-533.
+DR   PDB; 6WIW; X-ray; 2.30 A; A/B=251-533.
+DR   PDB; 6XVM; X-ray; 0.90 A; A/B/C/D=82-141.
+DR   PDB; 6XVN; X-ray; 1.70 A; A/B=82-141.
+DR   PDB; 6XVO; X-ray; 1.70 A; A=82-141.
+DR   PDB; 6XX2; X-ray; 1.25 A; A=85-141.
+DR   PDB; 6XX3; X-ray; 1.36 A; A=85-141.
+DR   PDB; 6XX4; X-ray; 1.05 A; A=85-141.
+DR   PDB; 6XX5; X-ray; 1.30 A; A=85-141.
+DR   PDB; 7A30; X-ray; 1.67 A; A=82-141.
+DR   PDB; 7A31; X-ray; 0.94 A; A/B=82-141.
+DR   PDB; 7A32; X-ray; 1.15 A; A/B/C/D=82-141.
+DR   PDB; 7A33; X-ray; 0.96 A; A/B=82-141.
+DR   PDB; 7A34; X-ray; 1.85 A; A=82-141.
+DR   PDB; 7A35; X-ray; 1.31 A; A/B=82-141.
+DR   PDB; 7A36; X-ray; 1.50 A; A/B=82-141.
+DR   PDB; 7A37; X-ray; 1.52 A; A/B=82-141.
+DR   PDB; 7A38; X-ray; 1.62 A; A/B=82-141.
+DR   PDB; 7A39; X-ray; 1.65 A; A/B=82-141.
+DR   PDB; 7A3A; X-ray; 1.80 A; A=82-141.
+DR   PDB; 7A3B; X-ray; 1.91 A; A=82-141.
+DR   PDB; 7A3C; X-ray; 1.80 A; A/B/C/D=81-141.
+DR   PDB; 7A3D; X-ray; 2.20 A; A/B=82-141.
+DR   PDB; 7A3E; X-ray; 1.52 A; A=81-141.
+DR   PDB; 7AH3; X-ray; 1.95 A; A/B=251-533.
+DR   PDB; 7D57; X-ray; 2.10 A; A/B=251-533.
+DR   PDB; 7D5O; X-ray; 2.69 A; A/B=251-533.
+DR   PDB; 7NER; X-ray; 1.55 A; A=81-141.
+DR   PDB; 7NES; X-ray; 1.35 A; A=81-141.
+DR   PDB; 7NET; X-ray; 1.50 A; A/B=81-141.
+DR   PDB; 7WF5; X-ray; 1.80 A; A/B=251-533.
+DR   PDBsum; 1F1W; -.
+DR   PDBsum; 1F2F; -.
+DR   PDBsum; 1NLO; -.
+DR   PDBsum; 1NLP; -.
+DR   PDBsum; 1P13; -.
+DR   PDBsum; 1PRL; -.
+DR   PDBsum; 1PRM; -.
+DR   PDBsum; 1RLP; -.
+DR   PDBsum; 1RLQ; -.
+DR   PDBsum; 1SRL; -.
+DR   PDBsum; 1SRM; -.
+DR   PDBsum; 2HWO; -.
+DR   PDBsum; 2HWP; -.
+DR   PDBsum; 2OIQ; -.
+DR   PDBsum; 2PTK; -.
+DR   PDBsum; 2QI8; -.
+DR   PDBsum; 2QLQ; -.
+DR   PDBsum; 2QQ7; -.
+DR   PDBsum; 3D7T; -.
+DR   PDBsum; 3D7U; -.
+DR   PDBsum; 3DQW; -.
+DR   PDBsum; 3DQX; -.
+DR   PDBsum; 3EL7; -.
+DR   PDBsum; 3EL8; -.
+DR   PDBsum; 3EN4; -.
+DR   PDBsum; 3EN5; -.
+DR   PDBsum; 3EN6; -.
+DR   PDBsum; 3EN7; -.
+DR   PDBsum; 3F3T; -.
+DR   PDBsum; 3F3U; -.
+DR   PDBsum; 3F3V; -.
+DR   PDBsum; 3F3W; -.
+DR   PDBsum; 3F6X; -.
+DR   PDBsum; 3FJ5; -.
+DR   PDBsum; 3G5D; -.
+DR   PDBsum; 3G6G; -.
+DR   PDBsum; 3G6H; -.
+DR   PDBsum; 3GEQ; -.
+DR   PDBsum; 3LOK; -.
+DR   PDBsum; 3OEZ; -.
+DR   PDBsum; 3OF0; -.
+DR   PDBsum; 3QLF; -.
+DR   PDBsum; 3QLG; -.
+DR   PDBsum; 3SVV; -.
+DR   PDBsum; 3TZ7; -.
+DR   PDBsum; 3TZ8; -.
+DR   PDBsum; 3TZ9; -.
+DR   PDBsum; 3U4W; -.
+DR   PDBsum; 3U51; -.
+DR   PDBsum; 3UQF; -.
+DR   PDBsum; 3UQG; -.
+DR   PDBsum; 4AGW; -.
+DR   PDBsum; 4DGG; -.
+DR   PDBsum; 4FIC; -.
+DR   PDBsum; 4HVU; -.
+DR   PDBsum; 4HVV; -.
+DR   PDBsum; 4HVW; -.
+DR   PDBsum; 4JZ3; -.
+DR   PDBsum; 4JZ4; -.
+DR   PDBsum; 4LE9; -.
+DR   PDBsum; 4LGG; -.
+DR   PDBsum; 4LGH; -.
+DR   PDBsum; 4MCV; -.
+DR   PDBsum; 4O2P; -.
+DR   PDBsum; 4OML; -.
+DR   PDBsum; 4OMM; -.
+DR   PDBsum; 4OMN; -.
+DR   PDBsum; 4OMO; -.
+DR   PDBsum; 4OMP; -.
+DR   PDBsum; 4OMQ; -.
+DR   PDBsum; 4QT7; -.
+DR   PDBsum; 4RTU; -.
+DR   PDBsum; 4RTV; -.
+DR   PDBsum; 4RTW; -.
+DR   PDBsum; 4RTX; -.
+DR   PDBsum; 4RTY; -.
+DR   PDBsum; 4RTZ; -.
+DR   PDBsum; 4U5J; -.
+DR   PDBsum; 4YBJ; -.
+DR   PDBsum; 4YBK; -.
+DR   PDBsum; 5BMM; -.
+DR   PDBsum; 5D10; -.
+DR   PDBsum; 5D11; -.
+DR   PDBsum; 5D12; -.
+DR   PDBsum; 5EC7; -.
+DR   PDBsum; 5ECA; -.
+DR   PDBsum; 5I11; -.
+DR   PDBsum; 5J5S; -.
+DR   PDBsum; 5K9I; -.
+DR   PDBsum; 5OAV; -.
+DR   PDBsum; 5OB0; -.
+DR   PDBsum; 5OB1; -.
+DR   PDBsum; 5OB2; -.
+DR   PDBsum; 5SWH; -.
+DR   PDBsum; 5SYS; -.
+DR   PDBsum; 5T0P; -.
+DR   PDBsum; 5TEH; -.
+DR   PDBsum; 5XP5; -.
+DR   PDBsum; 5XP7; -.
+DR   PDBsum; 6HVE; -.
+DR   PDBsum; 6HVF; -.
+DR   PDBsum; 6L8L; -.
+DR   PDBsum; 6WIW; -.
+DR   PDBsum; 6XVM; -.
+DR   PDBsum; 6XVN; -.
+DR   PDBsum; 6XVO; -.
+DR   PDBsum; 6XX2; -.
+DR   PDBsum; 6XX3; -.
+DR   PDBsum; 6XX4; -.
+DR   PDBsum; 6XX5; -.
+DR   PDBsum; 7A30; -.
+DR   PDBsum; 7A31; -.
+DR   PDBsum; 7A32; -.
+DR   PDBsum; 7A33; -.
+DR   PDBsum; 7A34; -.
+DR   PDBsum; 7A35; -.
+DR   PDBsum; 7A36; -.
+DR   PDBsum; 7A37; -.
+DR   PDBsum; 7A38; -.
+DR   PDBsum; 7A39; -.
+DR   PDBsum; 7A3A; -.
+DR   PDBsum; 7A3B; -.
+DR   PDBsum; 7A3C; -.
+DR   PDBsum; 7A3D; -.
+DR   PDBsum; 7A3E; -.
+DR   PDBsum; 7AH3; -.
+DR   PDBsum; 7D57; -.
+DR   PDBsum; 7D5O; -.
+DR   PDBsum; 7NER; -.
+DR   PDBsum; 7NES; -.
+DR   PDBsum; 7NET; -.
+DR   PDBsum; 7WF5; -.
+DR   AlphaFoldDB; P00523; -.
+DR   BMRB; P00523; -.
+DR   SMR; P00523; -.
+DR   BioGRID; 676691; 4.
+DR   DIP; DIP-449N; -.
+DR   ELM; P00523; -.
+DR   IntAct; P00523; 19.
+DR   MINT; P00523; -.
+DR   STRING; 9031.ENSGALP00000006117; -.
+DR   BindingDB; P00523; -.
+DR   ChEMBL; CHEMBL3655; -.
+DR   DrugCentral; P00523; -.
+DR   iPTMnet; P00523; -.
+DR   PaxDb; P00523; -.
+DR   Ensembl; ENSGALT00000061823; ENSGALP00000049896; ENSGALG00000003855. [P00523-1]
+DR   Ensembl; ENSGALT00000070498; ENSGALP00000054990; ENSGALG00000003855. [P00523-1]
+DR   Ensembl; ENSGALT00000093274; ENSGALP00000068298; ENSGALG00000003855. [P00523-1]
+DR   GeneID; 396442; -.
+DR   KEGG; gga:396442; -.
+DR   CTD; 6714; -.
+DR   VEuPathDB; HostDB:geneid_396442; -.
+DR   eggNOG; KOG0197; Eukaryota.
+DR   GeneTree; ENSGT00940000158250; -.
+DR   HOGENOM; CLU_000288_7_2_1; -.
+DR   InParanoid; P00523; -.
+DR   OrthoDB; 539311at2759; -.
+DR   PhylomeDB; P00523; -.
+DR   TreeFam; TF351634; -.
+DR   BRENDA; 2.7.10.2; 1306.
+DR   Reactome; R-GGA-1227986; Signaling by ERBB2.
+DR   Reactome; R-GGA-1251985; Nuclear signaling by ERBB4.
+DR   Reactome; R-GGA-1253288; Downregulation of ERBB4 signaling.
+DR   Reactome; R-GGA-1257604; PIP3 activates AKT signaling.
+DR   Reactome; R-GGA-1433557; Signaling by SCF-KIT.
+DR   Reactome; R-GGA-180292; GAB1 signalosome.
+DR   Reactome; R-GGA-186763; Downstream signal transduction.
+DR   Reactome; R-GGA-191650; Regulation of gap junction activity.
+DR   Reactome; R-GGA-2029481; FCGR activation.
+DR   Reactome; R-GGA-210990; PECAM1 interactions.
+DR   Reactome; R-GGA-354192; Integrin signaling.
+DR   Reactome; R-GGA-354194; GRB2:SOS provides linkage to MAPK signaling for Integrins.
+DR   Reactome; R-GGA-372708; p130Cas linkage to MAPK signaling for integrins.
+DR   Reactome; R-GGA-389356; CD28 co-stimulation.
+DR   Reactome; R-GGA-389513; CTLA4 inhibitory signaling.
+DR   Reactome; R-GGA-3928662; EPHB-mediated forward signaling.
+DR   Reactome; R-GGA-3928663; EPHA-mediated growth cone collapse.
+DR   Reactome; R-GGA-3928664; Ephrin signaling.
+DR   Reactome; R-GGA-3928665; EPH-ephrin mediated repulsion of cells.
+DR   Reactome; R-GGA-418592; ADP signalling through P2Y purinoceptor 1.
+DR   Reactome; R-GGA-418594; G alpha (i) signalling events.
+DR   Reactome; R-GGA-418885; DCC mediated attractive signaling.
+DR   Reactome; R-GGA-430116; GP1b-IX-V activation signalling.
+DR   Reactome; R-GGA-437239; Recycling pathway of L1.
+DR   Reactome; R-GGA-4420097; VEGFA-VEGFR2 Pathway.
+DR   Reactome; R-GGA-456926; Thrombin signalling through proteinase activated receptors (PARs).
+DR   Reactome; R-GGA-5218921; VEGFR2 mediated cell proliferation.
+DR   Reactome; R-GGA-5674135; MAP2K and MAPK activation.
+DR   Reactome; R-GGA-6811558; PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling.
+DR   Reactome; R-GGA-8853659; RET signaling.
+DR   Reactome; R-GGA-8874081; MET activates PTK2 signaling.
+DR   Reactome; R-GGA-8941858; Regulation of RUNX3 expression and activity.
+DR   Reactome; R-GGA-9009391; Extra-nuclear estrogen signaling.
+DR   EvolutionaryTrace; P00523; -.
+DR   PRO; PR:P00523; -.
+DR   Proteomes; UP000000539; Chromosome 20.
+DR   Bgee; ENSGALG00000003855; Expressed in cerebellum and 12 other tissues.
+DR   ExpressionAtlas; P00523; baseline and differential.
+DR   GO; GO:0030054; C:cell junction; ISS:UniProtKB.
+DR   GO; GO:0005856; C:cytoskeleton; IDA:UniProtKB.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0010008; C:endosome membrane; IDA:UniProtKB.
+DR   GO; GO:0031234; C:extrinsic component of cytoplasmic side of plasma membrane; IBA:GO_Central.
+DR   GO; GO:0005925; C:focal adhesion; ISS:UniProtKB.
+DR   GO; GO:0016020; C:membrane; ISS:UniProtKB.
+DR   GO; GO:0005743; C:mitochondrial inner membrane; ISS:UniProtKB.
+DR   GO; GO:0005634; C:nucleus; IDA:UniProtKB.
+DR   GO; GO:0048471; C:perinuclear region of cytoplasm; ISS:UniProtKB.
+DR   GO; GO:0005886; C:plasma membrane; IDA:UniProtKB.
+DR   GO; GO:0032991; C:protein-containing complex; IMP:CAFA.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0071253; F:connexin binding; IPI:CAFA.
+DR   GO; GO:0070851; F:growth factor receptor binding; IBA:GO_Central.
+DR   GO; GO:0020037; F:heme binding; ISS:UniProtKB.
+DR   GO; GO:0004715; F:non-membrane spanning protein tyrosine kinase activity; IBA:GO_Central.
+DR   GO; GO:0019903; F:protein phosphatase binding; IPI:UniProtKB.
+DR   GO; GO:0004713; F:protein tyrosine kinase activity; EXP:Reactome.
+DR   GO; GO:0005102; F:signaling receptor binding; IBA:GO_Central.
+DR   GO; GO:0045453; P:bone resorption; IBA:GO_Central.
+DR   GO; GO:0007155; P:cell adhesion; IBA:GO_Central.
+DR   GO; GO:0007049; P:cell cycle; IEA:UniProtKB-KW.
+DR   GO; GO:0030154; P:cell differentiation; IBA:GO_Central.
+DR   GO; GO:0007173; P:epidermal growth factor receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0045087; P:innate immune response; IBA:GO_Central.
+DR   GO; GO:2001237; P:negative regulation of extrinsic apoptotic signaling pathway; IBA:GO_Central.
+DR   GO; GO:2001243; P:negative regulation of intrinsic apoptotic signaling pathway; IBA:GO_Central.
+DR   GO; GO:0036035; P:osteoclast development; IBA:GO_Central.
+DR   GO; GO:0050847; P:progesterone receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0051726; P:regulation of cell cycle; IDA:UniProtKB.
+DR   GO; GO:0007169; P:transmembrane receptor protein tyrosine kinase signaling pathway; IBA:GO_Central.
+DR   Gene3D; 3.30.505.10; -; 1.
+DR   InterPro; IPR011009; Kinase-like_dom_sf.
+DR   InterPro; IPR000719; Prot_kinase_dom.
+DR   InterPro; IPR017441; Protein_kinase_ATP_BS.
+DR   InterPro; IPR001245; Ser-Thr/Tyr_kinase_cat_dom.
+DR   InterPro; IPR000980; SH2.
+DR   InterPro; IPR036860; SH2_dom_sf.
+DR   InterPro; IPR036028; SH3-like_dom_sf.
+DR   InterPro; IPR001452; SH3_domain.
+DR   InterPro; IPR008266; Tyr_kinase_AS.
+DR   InterPro; IPR020635; Tyr_kinase_cat_dom.
+DR   Pfam; PF07714; PK_Tyr_Ser-Thr; 1.
+DR   Pfam; PF00017; SH2; 1.
+DR   Pfam; PF00018; SH3_1; 1.
+DR   PRINTS; PR00401; SH2DOMAIN.
+DR   PRINTS; PR00452; SH3DOMAIN.
+DR   PRINTS; PR00109; TYRKINASE.
+DR   SMART; SM00252; SH2; 1.
+DR   SMART; SM00326; SH3; 1.
+DR   SMART; SM00219; TyrKc; 1.
+DR   SUPFAM; SSF50044; SSF50044; 1.
+DR   SUPFAM; SSF55550; SSF55550; 1.
+DR   SUPFAM; SSF56112; SSF56112; 1.
+DR   PROSITE; PS00107; PROTEIN_KINASE_ATP; 1.
+DR   PROSITE; PS50011; PROTEIN_KINASE_DOM; 1.
+DR   PROSITE; PS00109; PROTEIN_KINASE_TYR; 1.
+DR   PROSITE; PS50001; SH2; 1.
+DR   PROSITE; PS50002; SH3; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; ATP-binding; Cell adhesion; Cell cycle;
+KW   Cell junction; Cell membrane; Cytoplasm; Cytoskeleton; Endosome; Immunity;
+KW   Kinase; Lipoprotein; Membrane; Mitochondrion; Mitochondrion inner membrane;
+KW   Myristate; Nucleotide-binding; Nucleus; Phosphoprotein; Proto-oncogene;
+KW   Reference proteome; S-nitrosylation; SH2 domain; SH3 domain; Transferase;
+KW   Tyrosine-protein kinase.
+FT   INIT_MET        1
+FT                   /note="Removed"
+FT                   /evidence="ECO:0000250"
+FT   CHAIN           2..533
+FT                   /note="Proto-oncogene tyrosine-protein kinase Src"
+FT                   /id="PRO_0000088144"
+FT   DOMAIN          81..142
+FT                   /note="SH3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00192"
+FT   DOMAIN          148..245
+FT                   /note="SH2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00191"
+FT   DOMAIN          267..520
+FT                   /note="Protein kinase"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00159"
+FT   REGION          1..58
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        8..22
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        27..53
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   ACT_SITE        386
+FT                   /note="Proton acceptor"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00159,
+FT                   ECO:0000255|PROSITE-ProRule:PRU10028"
+FT   BINDING         273..281
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00159"
+FT   BINDING         295
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT   MOD_RES         12
+FT                   /note="Phosphoserine; by PKC"
+FT                   /evidence="ECO:0000269|PubMed:2996780"
+FT   MOD_RES         34
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0000269|PubMed:2470512"
+FT   MOD_RES         46
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0000269|PubMed:2470512"
+FT   MOD_RES         72
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000269|PubMed:2470512"
+FT   MOD_RES         416
+FT                   /note="Phosphotyrosine; by autocatalysis"
+FT                   /evidence="ECO:0000269|PubMed:6273838,
+FT                   ECO:0000269|PubMed:8856081"
+FT   MOD_RES         436
+FT                   /note="Phosphotyrosine; by autocatalysis"
+FT                   /evidence="ECO:0000269|PubMed:8856081"
+FT   MOD_RES         498
+FT                   /note="S-nitrosocysteine"
+FT                   /evidence="ECO:0000269|PubMed:19948721"
+FT   MOD_RES         527
+FT                   /note="Phosphotyrosine; by CSK"
+FT                   /evidence="ECO:0000269|PubMed:2420005"
+FT   LIPID           2
+FT                   /note="N-myristoyl glycine"
+FT                   /evidence="ECO:0000250"
+FT   VAR_SEQ         183..193
+FT                   /note="AYCLSVSDFDN -> DPCIPLPSCLC (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:2115117"
+FT                   /id="VSP_011844"
+FT   VAR_SEQ         194..533
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:2115117"
+FT                   /id="VSP_011845"
+FT   MUTAGEN         498
+FT                   /note="C->A: Significant reduction in S-nitrosylation."
+FT                   /evidence="ECO:0000269|PubMed:19948721"
+FT   MUTAGEN         527
+FT                   /note="Y->F: Constitutively active."
+FT                   /evidence="ECO:0000269|PubMed:19307596"
+FT   CONFLICT        301
+FT                   /note="T -> N (in Ref. 1)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        501
+FT                   /note="K -> R (in Ref. 1)"
+FT                   /evidence="ECO:0000305"
+FT   STRAND          85..90
+FT                   /evidence="ECO:0007829|PDB:6XVM"
+FT   STRAND          96..99
+FT                   /evidence="ECO:0007829|PDB:6XVM"
+FT   STRAND          107..110
+FT                   /evidence="ECO:0007829|PDB:6XVM"
+FT   HELIX           113..115
+FT                   /evidence="ECO:0007829|PDB:4LE9"
+FT   STRAND          116..123
+FT                   /evidence="ECO:0007829|PDB:6XVM"
+FT   TURN            124..126
+FT                   /evidence="ECO:0007829|PDB:6XVM"
+FT   STRAND          129..133
+FT                   /evidence="ECO:0007829|PDB:6XVM"
+FT   HELIX           134..136
+FT                   /evidence="ECO:0007829|PDB:6XVM"
+FT   STRAND          137..139
+FT                   /evidence="ECO:0007829|PDB:6XVM"
+FT   HELIX           143..145
+FT                   /evidence="ECO:0007829|PDB:2PTK"
+FT   STRAND          149..152
+FT                   /evidence="ECO:0007829|PDB:1F1W"
+FT   HELIX           155..162
+FT                   /evidence="ECO:0007829|PDB:1P13"
+FT   STRAND          165..167
+FT                   /evidence="ECO:0007829|PDB:2PTK"
+FT   STRAND          172..176
+FT                   /evidence="ECO:0007829|PDB:1P13"
+FT   STRAND          178..180
+FT                   /evidence="ECO:0007829|PDB:1P13"
+FT   STRAND          184..192
+FT                   /evidence="ECO:0007829|PDB:1P13"
+FT   TURN            193..195
+FT                   /evidence="ECO:0007829|PDB:1P13"
+FT   STRAND          196..206
+FT                   /evidence="ECO:0007829|PDB:1P13"
+FT   STRAND          212..215
+FT                   /evidence="ECO:0007829|PDB:1P13"
+FT   STRAND          218..222
+FT                   /evidence="ECO:0007829|PDB:1P13"
+FT   HELIX           223..232
+FT                   /evidence="ECO:0007829|PDB:1P13"
+FT   STRAND          237..239
+FT                   /evidence="ECO:0007829|PDB:1P13"
+FT   STRAND          253..258
+FT                   /evidence="ECO:0007829|PDB:2PTK"
+FT   STRAND          259..261
+FT                   /evidence="ECO:0007829|PDB:3GEQ"
+FT   HELIX           264..266
+FT                   /evidence="ECO:0007829|PDB:3U4W"
+FT   STRAND          267..275
+FT                   /evidence="ECO:0007829|PDB:3U4W"
+FT   STRAND          277..286
+FT                   /evidence="ECO:0007829|PDB:3U4W"
+FT   TURN            287..289
+FT                   /evidence="ECO:0007829|PDB:3U4W"
+FT   STRAND          290..297
+FT                   /evidence="ECO:0007829|PDB:3U4W"
+FT   TURN            299..301
+FT                   /evidence="ECO:0007829|PDB:5XP7"
+FT   HELIX           304..314
+FT                   /evidence="ECO:0007829|PDB:3U4W"
+FT   STRAND          325..329
+FT                   /evidence="ECO:0007829|PDB:3U4W"
+FT   STRAND          331..333
+FT                   /evidence="ECO:0007829|PDB:3U4W"
+FT   STRAND          335..338
+FT                   /evidence="ECO:0007829|PDB:3U4W"
+FT   HELIX           346..351
+FT                   /evidence="ECO:0007829|PDB:3U4W"
+FT   HELIX           353..357
+FT                   /evidence="ECO:0007829|PDB:3U4W"
+FT   HELIX           360..379
+FT                   /evidence="ECO:0007829|PDB:3U4W"
+FT   HELIX           389..391
+FT                   /evidence="ECO:0007829|PDB:3U4W"
+FT   STRAND          392..394
+FT                   /evidence="ECO:0007829|PDB:3U4W"
+FT   HELIX           396..398
+FT                   /evidence="ECO:0007829|PDB:3U4W"
+FT   STRAND          400..402
+FT                   /evidence="ECO:0007829|PDB:3U4W"
+FT   HELIX           405..407
+FT                   /evidence="ECO:0007829|PDB:2QI8"
+FT   HELIX           408..410
+FT                   /evidence="ECO:0007829|PDB:3U4W"
+FT   HELIX           414..417
+FT                   /evidence="ECO:0007829|PDB:3U4W"
+FT   STRAND          421..424
+FT                   /evidence="ECO:0007829|PDB:5BMM"
+FT   HELIX           426..428
+FT                   /evidence="ECO:0007829|PDB:3U4W"
+FT   HELIX           431..436
+FT                   /evidence="ECO:0007829|PDB:3U4W"
+FT   HELIX           441..456
+FT                   /evidence="ECO:0007829|PDB:3U4W"
+FT   TURN            457..459
+FT                   /evidence="ECO:0007829|PDB:3U4W"
+FT   HELIX           468..476
+FT                   /evidence="ECO:0007829|PDB:3U4W"
+FT   HELIX           489..498
+FT                   /evidence="ECO:0007829|PDB:3U4W"
+FT   HELIX           503..505
+FT                   /evidence="ECO:0007829|PDB:3U4W"
+FT   HELIX           509..517
+FT                   /evidence="ECO:0007829|PDB:3U4W"
+FT   HELIX           519..522
+FT                   /evidence="ECO:0007829|PDB:3U4W"
+SQ   SEQUENCE   533 AA;  60010 MW;  ABDB036F7D63C30A CRC64;
+     MGSSKSKPKD PSQRRRSLEP PDSTHHGGFP ASQTPNKTAA PDTHRTPSRS FGTVATEPKL
+     FGGFNTSDTV TSPQRAGALA GGVTTFVALY DYESRTETDL SFKKGERLQI VNNTEGDWWL
+     AHSLTTGQTG YIPSNYVAPS DSIQAEEWYF GKITRRESER LLLNPENPRG TFLVRESETT
+     KGAYCLSVSD FDNAKGLNVK HYKIRKLDSG GFYITSRTQF SSLQQLVAYY SKHADGLCHR
+     LTNVCPTSKP QTQGLAKDAW EIPRESLRLE VKLGQGCFGE VWMGTWNGTT RVAIKTLKPG
+     TMSPEAFLQE AQVMKKLRHE KLVQLYAVVS EEPIYIVTEY MSKGSLLDFL KGEMGKYLRL
+     PQLVDMAAQI ASGMAYVERM NYVHRDLRAA NILVGENLVC KVADFGLARL IEDNEYTARQ
+     GAKFPIKWTA PEAALYGRFT IKSDVWSFGI LLTELTTKGR VPYPGMVNRE VLDQVERGYR
+     MPCPPECPES LHDLMCQCWR KDPEERPTFE YLQAFLEDYF TSTEPQYQPG ENL
+//

@@ -1,0 +1,362 @@
+ID   SNF1_SCHPO              Reviewed;         576 AA.
+AC   O74536;
+DT   15-JUL-1999, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1998, sequence version 1.
+DT   03-AUG-2022, entry version 174.
+DE   RecName: Full=SNF1-like protein kinase ssp2 {ECO:0000303|PubMed:22140232};
+DE            EC=2.7.11.1 {ECO:0000250|UniProtKB:P06782};
+GN   Name=ssp2 {ECO:0000303|PubMed:22140232}; ORFNames=SPCC74.03c;
+OS   Schizosaccharomyces pombe (strain 972 / ATCC 24843) (Fission yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Taphrinomycotina;
+OC   Schizosaccharomycetes; Schizosaccharomycetales; Schizosaccharomycetaceae;
+OC   Schizosaccharomyces.
+OX   NCBI_TaxID=284812;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=972 / ATCC 24843;
+RX   PubMed=11859360; DOI=10.1038/nature724;
+RA   Wood V., Gwilliam R., Rajandream M.A., Lyne M.H., Lyne R., Stewart A.,
+RA   Sgouros J.G., Peat N., Hayles J., Baker S.G., Basham D., Bowman S.,
+RA   Brooks K., Brown D., Brown S., Chillingworth T., Churcher C.M., Collins M.,
+RA   Connor R., Cronin A., Davis P., Feltwell T., Fraser A., Gentles S.,
+RA   Goble A., Hamlin N., Harris D.E., Hidalgo J., Hodgson G., Holroyd S.,
+RA   Hornsby T., Howarth S., Huckle E.J., Hunt S., Jagels K., James K.D.,
+RA   Jones L., Jones M., Leather S., McDonald S., McLean J., Mooney P.,
+RA   Moule S., Mungall K.L., Murphy L.D., Niblett D., Odell C., Oliver K.,
+RA   O'Neil S., Pearson D., Quail M.A., Rabbinowitsch E., Rutherford K.M.,
+RA   Rutter S., Saunders D., Seeger K., Sharp S., Skelton J., Simmonds M.N.,
+RA   Squares R., Squares S., Stevens K., Taylor K., Taylor R.G., Tivey A.,
+RA   Walsh S.V., Warren T., Whitehead S., Woodward J.R., Volckaert G., Aert R.,
+RA   Robben J., Grymonprez B., Weltjens I., Vanstreels E., Rieger M.,
+RA   Schaefer M., Mueller-Auer S., Gabel C., Fuchs M., Duesterhoeft A.,
+RA   Fritzc C., Holzer E., Moestl D., Hilbert H., Borzym K., Langer I., Beck A.,
+RA   Lehrach H., Reinhardt R., Pohl T.M., Eger P., Zimmermann W., Wedler H.,
+RA   Wambutt R., Purnelle B., Goffeau A., Cadieu E., Dreano S., Gloux S.,
+RA   Lelaure V., Mottier S., Galibert F., Aves S.J., Xiang Z., Hunt C.,
+RA   Moore K., Hurst S.M., Lucas M., Rochet M., Gaillardin C., Tallada V.A.,
+RA   Garzon A., Thode G., Daga R.R., Cruzado L., Jimenez J., Sanchez M.,
+RA   del Rey F., Benito J., Dominguez A., Revuelta J.L., Moreno S.,
+RA   Armstrong J., Forsburg S.L., Cerutti L., Lowe T., McCombie W.R.,
+RA   Paulsen I., Potashkin J., Shpakovski G.V., Ussery D., Barrell B.G.,
+RA   Nurse P.;
+RT   "The genome sequence of Schizosaccharomyces pombe.";
+RL   Nature 415:871-880(2002).
+RN   [2]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-442, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY.
+RX   PubMed=18257517; DOI=10.1021/pr7006335;
+RA   Wilson-Grady J.T., Villen J., Gygi S.P.;
+RT   "Phosphoproteome analysis of fission yeast.";
+RL   J. Proteome Res. 7:1088-1097(2008).
+RN   [3]
+RP   FUNCTION, DISRUPTION PHENOTYPE, AND SUBCELLULAR LOCATION.
+RX   PubMed=22140232; DOI=10.1128/ec.05268-11;
+RA   Matsuzawa T., Fujita Y., Tohda H., Takegawa K.;
+RT   "Snf1-like protein kinase Ssp2 regulates glucose derepression in
+RT   Schizosaccharomyces pombe.";
+RL   Eukaryot. Cell 11:159-167(2012).
+RN   [4]
+RP   FUNCTION, DISRUPTION PHENOTYPE, PHOSPHORYLATION AT THR-189 BY SSP1,
+RP   MUTAGENESIS OF THR-189, AND SUBCELLULAR LOCATION.
+RX   PubMed=22375066; DOI=10.1242/jcs.098533;
+RA   Valbuena N., Moreno S.;
+RT   "AMPK phosphorylation by Ssp1 is required for proper sexual differentiation
+RT   in fission yeast.";
+RL   J. Cell Sci. 125:2655-2664(2012).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (2.60 ANGSTROMS) OF 440-576 IN COMPLEX WITH AMK2 AND
+RP   CBS2, AND SUBUNIT.
+RX   PubMed=17289942; DOI=10.1126/science.1137503;
+RA   Townley R., Shapiro L.;
+RT   "Crystal structures of the adenylate sensor from fission yeast AMP-
+RT   activated protein kinase.";
+RL   Science 315:1726-1729(2007).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (2.41 ANGSTROMS) OF 440-576 IN COMPLEX WITH AMK2 AND
+RP   CBS2, AND SUBUNIT.
+RX   PubMed=17937917; DOI=10.1016/j.str.2007.07.017;
+RA   Jin X., Townley R., Shapiro L.;
+RT   "Structural insight into AMPK regulation: ADP comes into play.";
+RL   Structure 15:1285-1295(2007).
+RN   [7]
+RP   X-RAY CRYSTALLOGRAPHY (2.80 ANGSTROMS) OF 25-351, AND DOMAIN.
+RX   PubMed=19474788; DOI=10.1038/nature08075;
+RA   Chen L., Jiao Z.H., Zheng L.S., Zhang Y.Y., Xie S.T., Wang Z.X., Wu J.W.;
+RT   "Structural insight into the autoinhibition mechanism of AMP-activated
+RT   protein kinase.";
+RL   Nature 459:1146-1149(2009).
+CC   -!- FUNCTION: Serine/threonine protein kinase essential for release from
+CC       glucose repression via the phosphorylation of scr1 upon glucose
+CC       deprivation (PubMed:22140232). Catalytic subunit of the AMP-activated
+CC       protein kinase complex also known as the SNF1 kinase complex (Snf1c), a
+CC       central regulator of cellular energy homeostasis, which, in response to
+CC       a fall in intracellular ATP levels, activates energy-producing pathways
+CC       and inhibits energy-consuming processes (PubMed:22375066). The complex
+CC       phosphorylates histone H3 to form H3S10ph, which promotes H3K14ac
+CC       formation, leading to transcriptional activation through TBP
+CC       recruitment to the promoters (By similarity). Regulates proper cell
+CC       cycle exit and sexual differentiation (PubMed:22375066). Regulates also
+CC       ste11 levels under nitrogen deprivation (PubMed:22375066).
+CC       {ECO:0000250|UniProtKB:P06782, ECO:0000269|PubMed:22140232,
+CC       ECO:0000269|PubMed:22375066}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=ATP + L-seryl-[protein] = ADP + H(+) + O-phospho-L-seryl-
+CC         [protein]; Xref=Rhea:RHEA:17989, Rhea:RHEA-COMP:9863, Rhea:RHEA-
+CC         COMP:11604, ChEBI:CHEBI:15378, ChEBI:CHEBI:29999, ChEBI:CHEBI:30616,
+CC         ChEBI:CHEBI:83421, ChEBI:CHEBI:456216; EC=2.7.11.1;
+CC         Evidence={ECO:0000250|UniProtKB:P06782};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=ATP + L-threonyl-[protein] = ADP + H(+) + O-phospho-L-
+CC         threonyl-[protein]; Xref=Rhea:RHEA:46608, Rhea:RHEA-COMP:11060,
+CC         Rhea:RHEA-COMP:11605, ChEBI:CHEBI:15378, ChEBI:CHEBI:30013,
+CC         ChEBI:CHEBI:30616, ChEBI:CHEBI:61977, ChEBI:CHEBI:456216;
+CC         EC=2.7.11.1; Evidence={ECO:0000250|UniProtKB:P06782};
+CC   -!- SUBUNIT: Component of the AMP-activated protein kinase complex also
+CC       known as the SNF1 kinase complex (Snf1c), a heterotrimeric complex
+CC       composed of a catalytic subunit alpha and 2 regulatory subunits beta
+CC       (amk2) and gamma (cbs2) (PubMed:17289942, PubMed:17937917).
+CC       {ECO:0000269|PubMed:17289942, ECO:0000269|PubMed:17937917}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:22375066}. Nucleus
+CC       {ECO:0000269|PubMed:22140232, ECO:0000269|PubMed:22375066}.
+CC       Note=Nuclear translocation occurs under nitrogen and glucose starvation
+CC       conditions and depends on Thr-189 phosphorylation by ssp1
+CC       (PubMed:22375066). {ECO:0000269|PubMed:22375066}.
+CC   -!- DOMAIN: The regulatory domain (RS) also called auto-inhibitory domain
+CC       (AID) inhibits kinase activity of the protein kinase domain (KD)
+CC       (PubMed:19474788). {ECO:0000269|PubMed:19474788}.
+CC   -!- DOMAIN: The ubiquitin-associated domain (UBA) localized within the AID
+CC       dampens kinase activation, probably by restraining alpha-gamma
+CC       associations (By similarity). {ECO:0000250|UniProtKB:P06782}.
+CC   -!- PTM: Phosphorylation at Thr-189 by ssp1 is required for nuclear entry
+CC       in nutritionally stressed cells (PubMed:22375066).
+CC       {ECO:0000269|PubMed:22375066}.
+CC   -!- DISRUPTION PHENOTYPE: Prevents assimilation of glycerol and fails to
+CC       induce expression of glycerol dehydrogenase gld1 on glycerol medium
+CC       (PubMed:22140232). Leads to diminished mating efficiency
+CC       (PubMed:22375066). {ECO:0000269|PubMed:22140232,
+CC       ECO:0000269|PubMed:22375066}.
+CC   -!- SIMILARITY: Belongs to the protein kinase superfamily. CAMK Ser/Thr
+CC       protein kinase family. SNF1 subfamily. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CU329672; CAA20833.1; -; Genomic_DNA.
+DR   PIR; T41587; T41587.
+DR   RefSeq; NP_588376.1; NM_001023367.2.
+DR   PDB; 2OOX; X-ray; 2.60 A; A/C=440-576.
+DR   PDB; 2OOY; X-ray; 2.88 A; A/C=440-576.
+DR   PDB; 2QR1; X-ray; 2.70 A; A/C=440-576.
+DR   PDB; 2QRC; X-ray; 2.70 A; A/C=440-576.
+DR   PDB; 2QRD; X-ray; 2.41 A; A/C=440-576.
+DR   PDB; 2QRE; X-ray; 3.01 A; A/C=440-576.
+DR   PDB; 3H4J; X-ray; 2.80 A; A/B=25-351.
+DR   PDBsum; 2OOX; -.
+DR   PDBsum; 2OOY; -.
+DR   PDBsum; 2QR1; -.
+DR   PDBsum; 2QRC; -.
+DR   PDBsum; 2QRD; -.
+DR   PDBsum; 2QRE; -.
+DR   PDBsum; 3H4J; -.
+DR   AlphaFoldDB; O74536; -.
+DR   SMR; O74536; -.
+DR   BioGRID; 275681; 228.
+DR   DIP; DIP-29520N; -.
+DR   IntAct; O74536; 2.
+DR   STRING; 4896.SPCC74.03c.1; -.
+DR   iPTMnet; O74536; -.
+DR   MaxQB; O74536; -.
+DR   PaxDb; O74536; -.
+DR   PRIDE; O74536; -.
+DR   EnsemblFungi; SPCC74.03c.1; SPCC74.03c.1:pep; SPCC74.03c.
+DR   GeneID; 2539109; -.
+DR   KEGG; spo:SPCC74.03c; -.
+DR   PomBase; SPCC74.03c; ssp2.
+DR   VEuPathDB; FungiDB:SPCC74.03c; -.
+DR   eggNOG; KOG0583; Eukaryota.
+DR   HOGENOM; CLU_000288_59_3_1; -.
+DR   InParanoid; O74536; -.
+DR   OMA; MQRITIQ; -.
+DR   PhylomeDB; O74536; -.
+DR   BRENDA; 2.7.11.1; 5613.
+DR   Reactome; R-SPO-1632852; Macroautophagy.
+DR   Reactome; R-SPO-163680; AMPK inhibits chREBP transcriptional activation activity.
+DR   Reactome; R-SPO-176187; Activation of ATR in response to replication stress.
+DR   Reactome; R-SPO-200425; Carnitine metabolism.
+DR   Reactome; R-SPO-380972; Energy dependent regulation of mTOR by LKB1-AMPK.
+DR   Reactome; R-SPO-5628897; TP53 Regulates Metabolic Genes.
+DR   Reactome; R-SPO-5693616; Presynaptic phase of homologous DNA pairing and strand exchange.
+DR   Reactome; R-SPO-69601; Ubiquitin Mediated Degradation of Phosphorylated Cdc25A.
+DR   EvolutionaryTrace; O74536; -.
+DR   PRO; PR:O74536; -.
+DR   Proteomes; UP000002485; Chromosome III.
+DR   ExpressionAtlas; O74536; differential.
+DR   GO; GO:0005737; C:cytoplasm; IDA:PomBase.
+DR   GO; GO:0005829; C:cytosol; HDA:PomBase.
+DR   GO; GO:0044732; C:mitotic spindle pole body; HDA:PomBase.
+DR   GO; GO:0031588; C:nucleotide-activated protein kinase complex; IDA:PomBase.
+DR   GO; GO:0005634; C:nucleus; IDA:PomBase.
+DR   GO; GO:0005524; F:ATP binding; ISM:PomBase.
+DR   GO; GO:0106310; F:protein serine kinase activity; IEA:RHEA.
+DR   GO; GO:0004674; F:protein serine/threonine kinase activity; IDA:PomBase.
+DR   GO; GO:0061762; P:CAMKK-AMPK signaling cascade; IMP:PomBase.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:UniProtKB-KW.
+DR   GO; GO:0010514; P:induction of conjugation with cellular fusion; EXP:PomBase.
+DR   GO; GO:0035556; P:intracellular signal transduction; IBA:GO_Central.
+DR   GO; GO:2000766; P:negative regulation of cytoplasmic translation; ISO:PomBase.
+DR   GO; GO:1904262; P:negative regulation of TORC1 signaling; IMP:PomBase.
+DR   GO; GO:0075319; P:positive regulation of ascus development; IMP:CACAO.
+DR   GO; GO:0140648; P:positive regulation of cell cycle switching, mitotic to meiotic cell cycle; EXP:PomBase.
+DR   GO; GO:0045944; P:positive regulation of transcription by RNA polymerase II; IMP:PomBase.
+DR   GO; GO:0006468; P:protein phosphorylation; IBA:GO_Central.
+DR   GO; GO:0032933; P:SREBP signaling pathway; IMP:PomBase.
+DR   CDD; cd14334; UBA_SNF1_fungi; 1.
+DR   InterPro; IPR032270; AMPK_C.
+DR   InterPro; IPR028375; KA1/Ssp2_C.
+DR   InterPro; IPR011009; Kinase-like_dom_sf.
+DR   InterPro; IPR000719; Prot_kinase_dom.
+DR   InterPro; IPR017441; Protein_kinase_ATP_BS.
+DR   InterPro; IPR008271; Ser/Thr_kinase_AS.
+DR   InterPro; IPR013896; SNF1_UBA.
+DR   InterPro; IPR015940; UBA.
+DR   Pfam; PF16579; AdenylateSensor; 1.
+DR   Pfam; PF00069; Pkinase; 1.
+DR   Pfam; PF08587; UBA_2; 1.
+DR   SMART; SM00220; S_TKc; 1.
+DR   SUPFAM; SSF103243; SSF103243; 1.
+DR   SUPFAM; SSF56112; SSF56112; 1.
+DR   PROSITE; PS00107; PROTEIN_KINASE_ATP; 1.
+DR   PROSITE; PS50011; PROTEIN_KINASE_DOM; 1.
+DR   PROSITE; PS00108; PROTEIN_KINASE_ST; 1.
+DR   PROSITE; PS50030; UBA; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; ATP-binding; Carbohydrate metabolism; Cytoplasm; Kinase;
+KW   Nucleotide-binding; Nucleus; Phosphoprotein; Reference proteome;
+KW   Serine/threonine-protein kinase; Transferase.
+FT   CHAIN           1..576
+FT                   /note="SNF1-like protein kinase ssp2"
+FT                   /id="PRO_0000086669"
+FT   DOMAIN          34..285
+FT                   /note="Protein kinase"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00159,
+FT                   ECO:0000269|PubMed:19474788"
+FT   DOMAIN          304..345
+FT                   /note="UBA"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00212"
+FT   REGION          292..348
+FT                   /note="Auto-inhibitory domain (AID)"
+FT                   /evidence="ECO:0000269|PubMed:19474788"
+FT   ACT_SITE        156
+FT                   /note="Proton acceptor"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00159,
+FT                   ECO:0000255|PROSITE-ProRule:PRU10027"
+FT   BINDING         40..48
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00159"
+FT   BINDING         63
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00159"
+FT   MOD_RES         189
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0000269|PubMed:22375066"
+FT   MOD_RES         442
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000269|PubMed:18257517"
+FT   MUTAGEN         189
+FT                   /note="T->A: Impairs phosphorylation by ssp1 and nuclear
+FT                   localization."
+FT                   /evidence="ECO:0000269|PubMed:22375066"
+FT   STRAND          29..31
+FT                   /evidence="ECO:0007829|PDB:3H4J"
+FT   STRAND          34..43
+FT                   /evidence="ECO:0007829|PDB:3H4J"
+FT   STRAND          46..53
+FT                   /evidence="ECO:0007829|PDB:3H4J"
+FT   TURN            54..56
+FT                   /evidence="ECO:0007829|PDB:3H4J"
+FT   STRAND          59..66
+FT                   /evidence="ECO:0007829|PDB:3H4J"
+FT   HELIX           67..72
+FT                   /evidence="ECO:0007829|PDB:3H4J"
+FT   HELIX           77..86
+FT                   /evidence="ECO:0007829|PDB:3H4J"
+FT   STRAND          97..102
+FT                   /evidence="ECO:0007829|PDB:3H4J"
+FT   STRAND          104..111
+FT                   /evidence="ECO:0007829|PDB:3H4J"
+FT   HELIX           118..125
+FT                   /evidence="ECO:0007829|PDB:3H4J"
+FT   HELIX           130..149
+FT                   /evidence="ECO:0007829|PDB:3H4J"
+FT   TURN            159..161
+FT                   /evidence="ECO:0007829|PDB:3H4J"
+FT   STRAND          162..164
+FT                   /evidence="ECO:0007829|PDB:3H4J"
+FT   STRAND          170..172
+FT                   /evidence="ECO:0007829|PDB:3H4J"
+FT   TURN            178..183
+FT                   /evidence="ECO:0007829|PDB:3H4J"
+FT   TURN            194..196
+FT                   /evidence="ECO:0007829|PDB:3H4J"
+FT   HELIX           199..201
+FT                   /evidence="ECO:0007829|PDB:3H4J"
+FT   HELIX           206..208
+FT                   /evidence="ECO:0007829|PDB:3H4J"
+FT   HELIX           210..226
+FT                   /evidence="ECO:0007829|PDB:3H4J"
+FT   STRAND          230..232
+FT                   /evidence="ECO:0007829|PDB:3H4J"
+FT   STRAND          234..236
+FT                   /evidence="ECO:0007829|PDB:3H4J"
+FT   HELIX           256..263
+FT                   /evidence="ECO:0007829|PDB:3H4J"
+FT   HELIX           270..272
+FT                   /evidence="ECO:0007829|PDB:3H4J"
+FT   HELIX           276..279
+FT                   /evidence="ECO:0007829|PDB:3H4J"
+FT   HELIX           283..286
+FT                   /evidence="ECO:0007829|PDB:3H4J"
+FT   HELIX           291..293
+FT                   /evidence="ECO:0007829|PDB:3H4J"
+FT   HELIX           306..314
+FT                   /evidence="ECO:0007829|PDB:3H4J"
+FT   HELIX           320..326
+FT                   /evidence="ECO:0007829|PDB:3H4J"
+FT   STRAND          329..331
+FT                   /evidence="ECO:0007829|PDB:3H4J"
+FT   HELIX           338..351
+FT                   /evidence="ECO:0007829|PDB:3H4J"
+FT   STRAND          453..460
+FT                   /evidence="ECO:0007829|PDB:2QRD"
+FT   HELIX           462..476
+FT                   /evidence="ECO:0007829|PDB:2QRD"
+FT   STRAND          486..489
+FT                   /evidence="ECO:0007829|PDB:2QR1"
+FT   HELIX           492..495
+FT                   /evidence="ECO:0007829|PDB:2QRD"
+FT   STRAND          496..502
+FT                   /evidence="ECO:0007829|PDB:2QRD"
+FT   HELIX           504..508
+FT                   /evidence="ECO:0007829|PDB:2QRD"
+FT   STRAND          513..525
+FT                   /evidence="ECO:0007829|PDB:2QRD"
+FT   STRAND          528..541
+FT                   /evidence="ECO:0007829|PDB:2QRD"
+FT   TURN            545..547
+FT                   /evidence="ECO:0007829|PDB:2OOX"
+FT   HELIX           562..575
+FT                   /evidence="ECO:0007829|PDB:2QRD"
+SQ   SEQUENCE   576 AA;  65996 MW;  E5857E8F171E7B50 CRC64;
+     MQPQEVDLME NSTMRNGARV LPPEAISKRH IGPYIIRETL GEGSFGKVKL ATHYKTQQKV
+     ALKFISRQLL KKSDMHMRVE REISYLKLLR HPHIIKLYDV ITTPTDIVMV IEYAGGELFD
+     YIVEKKRMTE DEGRRFFQQI ICAIEYCHRH KIVHRDLKPE NLLLDDNLNV KIADFGLSNI
+     MTDGNFLKTS CGSPNYAAPE VINGKLYAGP EVDVWSCGIV LYVMLVGRLP FDDEFIPNLF
+     KKVNSCVYVM PDFLSPGAQS LIRRMIVADP MQRITIQEIR RDPWFNVNLP DYLRPMEEVQ
+     GSYADSRIVS KLGEAMGFSE DYIVEALRSD ENNEVKEAYN LLHENQVIQE KSHLSKSKRV
+     DSFLSVSPPA FSEYTSELQK KSKQELIDPT LEGPRWTVSD PPTYAKQTID SNICVLVPTA
+     EKNKLEMRTL ADAASAVDTS QSTRKKSRRN KWHFGVRCRG DAPEILLAVY RALQRAGAQF
+     TVPKPVNGKY RSDMYTIKSR WEIPHCKREG KNTYAYIELQ LYEVMPGCFM LDVKSNGYKD
+     IYSHPERTAD HGMDDLKSSF PFLDLCAMLV CKLFSA
+//

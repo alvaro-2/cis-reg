@@ -1,0 +1,583 @@
+ID   KCC2D_MOUSE             Reviewed;         499 AA.
+AC   Q6PHZ2; Q3UF87; Q3UQH9; Q5DTK4; Q8CAC5; Q9CZE2;
+DT   20-FEB-2007, integrated into UniProtKB/Swiss-Prot.
+DT   05-JUL-2004, sequence version 1.
+DT   03-AUG-2022, entry version 169.
+DE   RecName: Full=Calcium/calmodulin-dependent protein kinase type II subunit delta;
+DE            Short=CaM kinase II subunit delta;
+DE            Short=CaMK-II subunit delta;
+DE            EC=2.7.11.17;
+GN   Name=Camk2d; Synonyms=Kiaa4163;
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha; Muroidea; Muridae;
+OC   Murinae; Mus; Mus.
+OX   NCBI_TaxID=10090;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 2; 3 AND 4).
+RC   STRAIN=C57BL/6J;
+RC   TISSUE=Hypothalamus, Stomach, and Sympathetic ganglion;
+RX   PubMed=16141072; DOI=10.1126/science.1112014;
+RA   Carninci P., Kasukawa T., Katayama S., Gough J., Frith M.C., Maeda N.,
+RA   Oyama R., Ravasi T., Lenhard B., Wells C., Kodzius R., Shimokawa K.,
+RA   Bajic V.B., Brenner S.E., Batalov S., Forrest A.R., Zavolan M., Davis M.J.,
+RA   Wilming L.G., Aidinis V., Allen J.E., Ambesi-Impiombato A., Apweiler R.,
+RA   Aturaliya R.N., Bailey T.L., Bansal M., Baxter L., Beisel K.W., Bersano T.,
+RA   Bono H., Chalk A.M., Chiu K.P., Choudhary V., Christoffels A.,
+RA   Clutterbuck D.R., Crowe M.L., Dalla E., Dalrymple B.P., de Bono B.,
+RA   Della Gatta G., di Bernardo D., Down T., Engstrom P., Fagiolini M.,
+RA   Faulkner G., Fletcher C.F., Fukushima T., Furuno M., Futaki S.,
+RA   Gariboldi M., Georgii-Hemming P., Gingeras T.R., Gojobori T., Green R.E.,
+RA   Gustincich S., Harbers M., Hayashi Y., Hensch T.K., Hirokawa N., Hill D.,
+RA   Huminiecki L., Iacono M., Ikeo K., Iwama A., Ishikawa T., Jakt M.,
+RA   Kanapin A., Katoh M., Kawasawa Y., Kelso J., Kitamura H., Kitano H.,
+RA   Kollias G., Krishnan S.P., Kruger A., Kummerfeld S.K., Kurochkin I.V.,
+RA   Lareau L.F., Lazarevic D., Lipovich L., Liu J., Liuni S., McWilliam S.,
+RA   Madan Babu M., Madera M., Marchionni L., Matsuda H., Matsuzawa S., Miki H.,
+RA   Mignone F., Miyake S., Morris K., Mottagui-Tabar S., Mulder N., Nakano N.,
+RA   Nakauchi H., Ng P., Nilsson R., Nishiguchi S., Nishikawa S., Nori F.,
+RA   Ohara O., Okazaki Y., Orlando V., Pang K.C., Pavan W.J., Pavesi G.,
+RA   Pesole G., Petrovsky N., Piazza S., Reed J., Reid J.F., Ring B.Z.,
+RA   Ringwald M., Rost B., Ruan Y., Salzberg S.L., Sandelin A., Schneider C.,
+RA   Schoenbach C., Sekiguchi K., Semple C.A., Seno S., Sessa L., Sheng Y.,
+RA   Shibata Y., Shimada H., Shimada K., Silva D., Sinclair B., Sperling S.,
+RA   Stupka E., Sugiura K., Sultana R., Takenaka Y., Taki K., Tammoja K.,
+RA   Tan S.L., Tang S., Taylor M.S., Tegner J., Teichmann S.A., Ueda H.R.,
+RA   van Nimwegen E., Verardo R., Wei C.L., Yagi K., Yamanishi H.,
+RA   Zabarovsky E., Zhu S., Zimmer A., Hide W., Bult C., Grimmond S.M.,
+RA   Teasdale R.D., Liu E.T., Brusic V., Quackenbush J., Wahlestedt C.,
+RA   Mattick J.S., Hume D.A., Kai C., Sasaki D., Tomaru Y., Fukuda S.,
+RA   Kanamori-Katayama M., Suzuki M., Aoki J., Arakawa T., Iida J., Imamura K.,
+RA   Itoh M., Kato T., Kawaji H., Kawagashira N., Kawashima T., Kojima M.,
+RA   Kondo S., Konno H., Nakano K., Ninomiya N., Nishio T., Okada M., Plessy C.,
+RA   Shibata K., Shiraki T., Suzuki S., Tagami M., Waki K., Watahiki A.,
+RA   Okamura-Oho Y., Suzuki H., Kawai J., Hayashizaki Y.;
+RT   "The transcriptional landscape of the mammalian genome.";
+RL   Science 309:1559-1563(2005).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 4).
+RC   TISSUE=Fetal brain;
+RA   Okazaki N., Kikuno R.F., Ohara R., Inamoto S., Nagase T., Ohara O.,
+RA   Koga H.;
+RT   "Prediction of the coding sequences of mouse homologues of KIAA gene. The
+RT   complete nucleotide sequences of mouse KIAA-homologous cDNAs identified by
+RT   screening of terminal sequences of cDNA clones randomly sampled from size-
+RT   fractionated libraries.";
+RL   Submitted (FEB-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   STRAIN=C3H/He; TISSUE=Osteoblast;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [4]
+RP   TISSUE SPECIFICITY.
+RX   PubMed=10967556;
+RX   DOI=10.1002/1097-4644(20001101)79:2<293::aid-jcb120>3.0.co;2-q;
+RA   Hoch B., Wobus A.M., Krause E.G., Karczewski P.;
+RT   "delta-Ca(2+)/calmodulin-dependent protein kinase II expression pattern in
+RT   adult mouse heart and cardiogenic differentiation of embryonic stem
+RT   cells.";
+RL   J. Cell. Biochem. 79:293-300(2000).
+RN   [5]
+RP   FUNCTION IN CARDIAC HYPERTROPHY.
+RX   PubMed=12676814; DOI=10.1161/01.res.0000069686.31472.c5;
+RA   Zhang T., Maier L.S., Dalton N.D., Miyamoto S., Ross J. Jr., Bers D.M.,
+RA   Brown J.H.;
+RT   "The deltaC isoform of CaMKII is activated in cardiac hypertrophy and
+RT   induces dilated cardiomyopathy and heart failure.";
+RL   Circ. Res. 92:912-919(2003).
+RN   [6]
+RP   FUNCTION IN PHOSPHORYLATION OF POTASSIUM CHANNEL.
+RX   PubMed=15456698; DOI=10.1152/ajpcell.00293.2004;
+RA   Sergeant G.P., Ohya S., Reihill J.A., Perrino B.A., Amberg G.C.,
+RA   Imaizumi Y., Horowitz B., Sanders K.M., Koh S.D.;
+RT   "Regulation of Kv4.3 currents by Ca2+/calmodulin-dependent protein kinase
+RT   II.";
+RL   Am. J. Physiol. 288:C304-C313(2005).
+RN   [7]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=17242355; DOI=10.1073/pnas.0609836104;
+RA   Villen J., Beausoleil S.A., Gerber S.A., Gygi S.P.;
+RT   "Large-scale phosphorylation analysis of mouse liver.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 104:1488-1493(2007).
+RN   [8]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-330 AND THR-337, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Embryonic fibroblast;
+RX   PubMed=19131326; DOI=10.1074/mcp.m800451-mcp200;
+RA   Sweet S.M., Bailey C.M., Cunningham D.L., Heath J.K., Cooper H.J.;
+RT   "Large scale localization of protein phosphorylation by use of electron
+RT   capture dissociation mass spectrometry.";
+RL   Mol. Cell. Proteomics 8:904-912(2009).
+RN   [9]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-333; THR-336; THR-337 AND
+RP   SER-494, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Brain, Brown adipose tissue, Heart, Kidney, Liver, Lung,
+RC   Spleen, and Testis;
+RX   PubMed=21183079; DOI=10.1016/j.cell.2010.12.001;
+RA   Huttlin E.L., Jedrychowski M.P., Elias J.E., Goswami T., Rad R.,
+RA   Beausoleil S.A., Villen J., Haas W., Sowa M.E., Gygi S.P.;
+RT   "A tissue-specific atlas of mouse protein phosphorylation and expression.";
+RL   Cell 143:1174-1189(2010).
+RN   [10]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT LYS-318, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Embryonic fibroblast;
+RX   PubMed=23806337; DOI=10.1016/j.molcel.2013.06.001;
+RA   Park J., Chen Y., Tishkoff D.X., Peng C., Tan M., Dai L., Xie Z., Zhang Y.,
+RA   Zwaans B.M., Skinner M.E., Lombard D.B., Zhao Y.;
+RT   "SIRT5-mediated lysine desuccinylation impacts diverse metabolic
+RT   pathways.";
+RL   Mol. Cell 50:919-930(2013).
+RN   [11]
+RP   FUNCTION IN MYOCARDIAL REMODELING.
+RX   PubMed=15793582; DOI=10.1038/nm1215;
+RA   Zhang R., Khoo M.S., Wu Y., Yang Y., Grueter C.E., Ni G., Price E.E. Jr.,
+RA   Thiel W., Guatimosim S., Song L.S., Madu E.C., Shah A.N.,
+RA   Vishnivetskaya T.A., Atkinson J.B., Gurevich V.V., Salama G., Lederer W.J.,
+RA   Colbran R.J., Anderson M.E.;
+RT   "Calmodulin kinase II inhibition protects against structural heart
+RT   disease.";
+RL   Nat. Med. 11:409-417(2005).
+RN   [12]
+RP   FUNCTION IN PHOSPHORYLATION OF SODIUM CHANNEL.
+RX   PubMed=17124532; DOI=10.1172/jci26620;
+RA   Wagner S., Dybkova N., Rasenack E.C., Jacobshagen C., Fabritz L.,
+RA   Kirchhof P., Maier S.K., Zhang T., Hasenfuss G., Brown J.H., Bers D.M.,
+RA   Maier L.S.;
+RT   "Ca2+/calmodulin-dependent protein kinase II regulates cardiac Na+
+RT   channels.";
+RL   J. Clin. Invest. 116:3127-3138(2006).
+RN   [13]
+RP   FUNCTION IN CARDIAC HYPERTROPHIC CARDIOMYOPATHY.
+RX   PubMed=19381018; DOI=10.1172/jci38022;
+RA   Ling H., Zhang T., Pereira L., Means C.K., Cheng H., Gu Y., Dalton N.D.,
+RA   Peterson K.L., Chen J., Bers D., Heller Brown J.;
+RT   "Requirement for Ca2+/calmodulin-dependent kinase II in the transition from
+RT   pressure overload-induced cardiac hypertrophy to heart failure in mice.";
+RL   J. Clin. Invest. 119:1230-1240(2009).
+RN   [14]
+RP   FUNCTION IN CARDIAC HYPERTROPHY AND REMODELING.
+RX   PubMed=19179290; DOI=10.1073/pnas.0813013106;
+RA   Backs J., Backs T., Neef S., Kreusser M.M., Lehmann L.H., Patrick D.M.,
+RA   Grueter C.E., Qi X., Richardson J.A., Hill J.A., Katus H.A.,
+RA   Bassel-Duby R., Maier L.S., Olson E.N.;
+RT   "The delta isoform of CaM kinase II is required for pathological cardiac
+RT   hypertrophy and remodeling after pressure overload.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 106:2342-2347(2009).
+RN   [15]
+RP   FUNCTION IN PHOSPHORYLATION OF L-TYPE CALCIUM CHANNEL, AND INTERACTION WITH
+RP   CACNB2.
+RX   PubMed=20194790; DOI=10.1073/pnas.0913760107;
+RA   Koval O.M., Guan X., Wu Y., Joiner M.L., Gao Z., Chen B., Grumbach I.M.,
+RA   Luczak E.D., Colbran R.J., Song L.S., Hund T.J., Mohler P.J.,
+RA   Anderson M.E.;
+RT   "CaV1.2 beta-subunit coordinates CaMKII-triggered cardiomyocyte death and
+RT   afterdepolarizations.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 107:4996-5000(2010).
+CC   -!- FUNCTION: Calcium/calmodulin-dependent protein kinase involved in the
+CC       regulation of Ca(2+) homeostatis and excitation-contraction coupling
+CC       (ECC) in heart by targeting ion channels, transporters and accessory
+CC       proteins involved in Ca(2+) influx into the myocyte, Ca(2+) release
+CC       from the sarcoplasmic reticulum (SR), SR Ca(2+) uptake and Na(+) and
+CC       K(+) channel transport. Targets also transcription factors and
+CC       signaling molecules to regulate heart function. In its activated form,
+CC       is involved in the pathogenesis of dilated cardiomyopathy and heart
+CC       failure. Contributes to cardiac decompensation and heart failure by
+CC       regulating SR Ca(2+) release via direct phosphorylation of RYR2 Ca(2+)
+CC       channel on 'Ser-2808'. In the nucleus, phosphorylates the MEF2
+CC       repressor HDAC4, promoting its nuclear export and binding to 14-3-3
+CC       protein, and expression of MEF2 and genes involved in the hypertrophic
+CC       program. Is essential for left ventricular remodeling responses to
+CC       myocardial infarction. In pathological myocardial remodeling acts
+CC       downstream of the beta adrenergic receptor signaling cascade to
+CC       regulate key proteins involved in ECC. Regulates Ca(2+) influx to
+CC       myocytes by binding and phosphorylating the L-type Ca(2+) channel
+CC       subunit beta-2 CACNB2. In addition to Ca(2+) channels, can target and
+CC       regulate the cardiac sarcolemmal Na(+) channel Nav1.5/SCN5A and the K+
+CC       channel Kv4.3/KCND3, which contribute to arrhythmogenesis in heart
+CC       failure. Phosphorylates phospholamban (PLN/PLB), an endogenous
+CC       inhibitor of SERCA2A/ATP2A2, contributing to the enhancement of SR
+CC       Ca(2+) uptake that may be important in frequency-dependent acceleration
+CC       of relaxation (FDAR) and maintenance of contractile function during
+CC       acidosis. May participate in the modulation of skeletal muscle function
+CC       in response to exercise, by regulating SR Ca(2+) transport through
+CC       phosphorylation of PLN/PLB and triadin, a ryanodine receptor-coupling
+CC       factor. {ECO:0000269|PubMed:12676814, ECO:0000269|PubMed:15456698,
+CC       ECO:0000269|PubMed:15793582, ECO:0000269|PubMed:17124532,
+CC       ECO:0000269|PubMed:19179290, ECO:0000269|PubMed:19381018,
+CC       ECO:0000269|PubMed:20194790}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=ATP + L-seryl-[protein] = ADP + H(+) + O-phospho-L-seryl-
+CC         [protein]; Xref=Rhea:RHEA:17989, Rhea:RHEA-COMP:9863, Rhea:RHEA-
+CC         COMP:11604, ChEBI:CHEBI:15378, ChEBI:CHEBI:29999, ChEBI:CHEBI:30616,
+CC         ChEBI:CHEBI:83421, ChEBI:CHEBI:456216; EC=2.7.11.17;
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=ATP + L-threonyl-[protein] = ADP + H(+) + O-phospho-L-
+CC         threonyl-[protein]; Xref=Rhea:RHEA:46608, Rhea:RHEA-COMP:11060,
+CC         Rhea:RHEA-COMP:11605, ChEBI:CHEBI:15378, ChEBI:CHEBI:30013,
+CC         ChEBI:CHEBI:30616, ChEBI:CHEBI:61977, ChEBI:CHEBI:456216;
+CC         EC=2.7.11.17;
+CC   -!- ACTIVITY REGULATION: Activated by Ca(2+)/calmodulin. Binding of
+CC       calmodulin results in conformational change that relieves intrasteric
+CC       autoinhibition and allows autophosphorylation of Thr-287 which turns
+CC       the kinase in a constitutively active form and confers to the kinase a
+CC       Ca(2+)-independent activity.
+CC   -!- SUBUNIT: CAMK2 is composed of 4 different chains: alpha (CAMK2A), beta
+CC       (CAMK2B), gamma (CAMK2G), and delta (CAMK2D). The different isoforms
+CC       assemble into homo- or heteromultimeric holoenzymes composed of 12
+CC       subunits with two hexameric rings stacked one on top of the other.
+CC       Interacts with RRAD (By similarity). Interacts with CACNB2.
+CC       {ECO:0000250, ECO:0000269|PubMed:20194790}.
+CC   -!- INTERACTION:
+CC       Q6PHZ2; Q9JJ28: Flii; NbExp=5; IntAct=EBI-2308458, EBI-7996161;
+CC       Q6PHZ2; E9Q401: Ryr2; NbExp=2; IntAct=EBI-2308458, EBI-643628;
+CC   -!- SUBCELLULAR LOCATION: Cell membrane, sarcolemma {ECO:0000305};
+CC       Peripheral membrane protein {ECO:0000305}; Cytoplasmic side
+CC       {ECO:0000305}. Sarcoplasmic reticulum membrane {ECO:0000305};
+CC       Peripheral membrane protein {ECO:0000305}; Cytoplasmic side
+CC       {ECO:0000305}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=4;
+CC       Name=1; Synonyms=Delta 2;
+CC         IsoId=Q6PHZ2-1; Sequence=Displayed;
+CC       Name=2; Synonyms=Delta 6;
+CC         IsoId=Q6PHZ2-2; Sequence=VSP_023103, VSP_023102;
+CC       Name=3; Synonyms=Delta 10;
+CC         IsoId=Q6PHZ2-4; Sequence=VSP_023101, VSP_023103, VSP_023102;
+CC       Name=4; Synonyms=Delta 5;
+CC         IsoId=Q6PHZ2-5; Sequence=VSP_023100, VSP_023103, VSP_023102;
+CC   -!- TISSUE SPECIFICITY: Expressed in cardiac muscle and skeletal muscle.
+CC       Isoform Delta 2, isoform Delta 6, isoform Delta 6 and isoform Delta 10
+CC       are expressed in cardiac muscle. Isoform Delta 2 is expressed in
+CC       skeletal muscle. {ECO:0000269|PubMed:10967556}.
+CC   -!- DOMAIN: The CAMK2 protein kinases contain a unique C-terminal subunit
+CC       association domain responsible for oligomerization.
+CC   -!- PTM: Autophosphorylation of Thr-287 following activation by
+CC       Ca(2+)/calmodulin. Phosphorylation of Thr-287 locks the kinase into an
+CC       activated state (By similarity). {ECO:0000250}.
+CC   -!- MISCELLANEOUS: Mice overexpressing CaMK2D develop a dilated
+CC       cardiomyopathy, enlarged myocytes with reduced contractility and
+CC       altered Ca(2+) handling, and die prematurely in PubMed:12676814.
+CC   -!- SIMILARITY: Belongs to the protein kinase superfamily. CAMK Ser/Thr
+CC       protein kinase family. CaMK subfamily. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAD90304.1; Type=Erroneous initiation; Note=Extended N-terminus.; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AK039076; BAC30232.1; -; mRNA.
+DR   EMBL; AK012702; BAB28422.1; -; mRNA.
+DR   EMBL; AK142435; BAE25062.1; -; mRNA.
+DR   EMBL; AK148840; BAE28674.1; -; mRNA.
+DR   EMBL; AK220516; BAD90304.1; ALT_INIT; mRNA.
+DR   EMBL; BC052894; AAH52894.1; -; mRNA.
+DR   CCDS; CCDS17823.1; -. [Q6PHZ2-1]
+DR   CCDS; CCDS51065.1; -. [Q6PHZ2-2]
+DR   CCDS; CCDS80015.1; -. [Q6PHZ2-5]
+DR   CCDS; CCDS80016.1; -. [Q6PHZ2-4]
+DR   RefSeq; NP_001020609.1; NM_001025438.2. [Q6PHZ2-1]
+DR   RefSeq; NP_001020610.1; NM_001025439.2.
+DR   RefSeq; NP_001280592.1; NM_001293663.1. [Q6PHZ2-5]
+DR   RefSeq; NP_001280593.1; NM_001293664.1. [Q6PHZ2-4]
+DR   RefSeq; NP_076302.1; NM_023813.4. [Q6PHZ2-2]
+DR   PDB; 6BAB; X-ray; 1.91 A; A/B/C/D=3-301.
+DR   PDBsum; 6BAB; -.
+DR   AlphaFoldDB; Q6PHZ2; -.
+DR   SMR; Q6PHZ2; -.
+DR   BioGRID; 223798; 22.
+DR   DIP; DIP-47638N; -.
+DR   IntAct; Q6PHZ2; 26.
+DR   MINT; Q6PHZ2; -.
+DR   STRING; 10090.ENSMUSP00000102009; -.
+DR   iPTMnet; Q6PHZ2; -.
+DR   MetOSite; Q6PHZ2; -.
+DR   PhosphoSitePlus; Q6PHZ2; -.
+DR   SwissPalm; Q6PHZ2; -.
+DR   EPD; Q6PHZ2; -.
+DR   jPOST; Q6PHZ2; -.
+DR   MaxQB; Q6PHZ2; -.
+DR   PeptideAtlas; Q6PHZ2; -.
+DR   PRIDE; Q6PHZ2; -.
+DR   ProteomicsDB; 269245; -. [Q6PHZ2-1]
+DR   ProteomicsDB; 269246; -. [Q6PHZ2-2]
+DR   ProteomicsDB; 269247; -. [Q6PHZ2-4]
+DR   ProteomicsDB; 269248; -. [Q6PHZ2-5]
+DR   DNASU; 108058; -.
+DR   Ensembl; ENSMUST00000066466; ENSMUSP00000063359; ENSMUSG00000053819. [Q6PHZ2-4]
+DR   Ensembl; ENSMUST00000106400; ENSMUSP00000102008; ENSMUSG00000053819. [Q6PHZ2-2]
+DR   Ensembl; ENSMUST00000106402; ENSMUSP00000102010; ENSMUSG00000053819. [Q6PHZ2-5]
+DR   Ensembl; ENSMUST00000199300; ENSMUSP00000143504; ENSMUSG00000053819. [Q6PHZ2-1]
+DR   GeneID; 108058; -.
+DR   KEGG; mmu:108058; -.
+DR   UCSC; uc008rgh.2; mouse. [Q6PHZ2-1]
+DR   UCSC; uc008rgl.2; mouse. [Q6PHZ2-2]
+DR   UCSC; uc008rgn.2; mouse. [Q6PHZ2-5]
+DR   UCSC; uc008rgo.2; mouse. [Q6PHZ2-4]
+DR   CTD; 817; -.
+DR   MGI; MGI:1341265; Camk2d.
+DR   VEuPathDB; HostDB:ENSMUSG00000053819; -.
+DR   eggNOG; KOG0033; Eukaryota.
+DR   GeneTree; ENSGT00940000159769; -.
+DR   InParanoid; Q6PHZ2; -.
+DR   PhylomeDB; Q6PHZ2; -.
+DR   BRENDA; 2.7.11.17; 3474.
+DR   Reactome; R-MMU-3371571; HSF1-dependent transactivation.
+DR   Reactome; R-MMU-438066; Unblocking of NMDA receptors, glutamate binding and activation.
+DR   Reactome; R-MMU-5576892; Phase 0 - rapid depolarisation.
+DR   Reactome; R-MMU-5578775; Ion homeostasis.
+DR   Reactome; R-MMU-5673000; RAF activation.
+DR   Reactome; R-MMU-5673001; RAF/MAP kinase cascade.
+DR   Reactome; R-MMU-877300; Interferon gamma signaling.
+DR   Reactome; R-MMU-936837; Ion transport by P-type ATPases.
+DR   BioGRID-ORCS; 108058; 1 hit in 75 CRISPR screens.
+DR   ChiTaRS; Camk2d; mouse.
+DR   PRO; PR:Q6PHZ2; -.
+DR   Proteomes; UP000000589; Chromosome 3.
+DR   RNAct; Q6PHZ2; protein.
+DR   Bgee; ENSMUSG00000053819; Expressed in anterior amygdaloid area and 249 other tissues.
+DR   ExpressionAtlas; Q6PHZ2; baseline and differential.
+DR   Genevisible; Q6PHZ2; MM.
+DR   GO; GO:0043194; C:axon initial segment; IDA:MGI.
+DR   GO; GO:0005954; C:calcium- and calmodulin-dependent protein kinase complex; ISO:MGI.
+DR   GO; GO:0005737; C:cytoplasm; IDA:MGI.
+DR   GO; GO:0005829; C:cytosol; ISO:MGI.
+DR   GO; GO:0014704; C:intercalated disc; IDA:MGI.
+DR   GO; GO:0031594; C:neuromuscular junction; IDA:MGI.
+DR   GO; GO:0043005; C:neuron projection; IBA:GO_Central.
+DR   GO; GO:0043025; C:neuronal cell body; IDA:MGI.
+DR   GO; GO:0005634; C:nucleus; IDA:MGI.
+DR   GO; GO:0048471; C:perinuclear region of cytoplasm; ISO:MGI.
+DR   GO; GO:0032991; C:protein-containing complex; ISO:MGI.
+DR   GO; GO:0033017; C:sarcoplasmic reticulum membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0030315; C:T-tubule; IDA:MGI.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0005516; F:calmodulin binding; ISO:MGI.
+DR   GO; GO:0004683; F:calmodulin-dependent protein kinase activity; ISS:BHF-UCL.
+DR   GO; GO:0042802; F:identical protein binding; ISO:MGI.
+DR   GO; GO:0050998; F:nitric-oxide synthase binding; ISO:MGI.
+DR   GO; GO:0042803; F:protein homodimerization activity; ISO:MGI.
+DR   GO; GO:0004672; F:protein kinase activity; ISO:MGI.
+DR   GO; GO:0106310; F:protein serine kinase activity; IEA:RHEA.
+DR   GO; GO:0004674; F:protein serine/threonine kinase activity; IDA:MGI.
+DR   GO; GO:0019871; F:sodium channel inhibitor activity; ISO:MGI.
+DR   GO; GO:0031432; F:titin binding; ISO:MGI.
+DR   GO; GO:0044325; F:transmembrane transporter binding; IPI:BHF-UCL.
+DR   GO; GO:0006816; P:calcium ion transport; IDA:MGI.
+DR   GO; GO:0086003; P:cardiac muscle cell contraction; ISS:BHF-UCL.
+DR   GO; GO:0060048; P:cardiac muscle contraction; IDA:MGI.
+DR   GO; GO:0061049; P:cell growth involved in cardiac muscle cell development; ISO:MGI.
+DR   GO; GO:0030007; P:cellular potassium ion homeostasis; ISO:MGI.
+DR   GO; GO:0032469; P:endoplasmic reticulum calcium ion homeostasis; ISO:MGI.
+DR   GO; GO:0000082; P:G1/S transition of mitotic cell cycle; IMP:MGI.
+DR   GO; GO:1902306; P:negative regulation of sodium ion transmembrane transport; ISO:MGI.
+DR   GO; GO:2000650; P:negative regulation of sodium ion transmembrane transporter activity; ISO:MGI.
+DR   GO; GO:0018105; P:peptidyl-serine phosphorylation; IDA:MGI.
+DR   GO; GO:0018107; P:peptidyl-threonine phosphorylation; ISS:BHF-UCL.
+DR   GO; GO:0010666; P:positive regulation of cardiac muscle cell apoptotic process; ISO:MGI.
+DR   GO; GO:0010613; P:positive regulation of cardiac muscle hypertrophy; ISS:UniProtKB.
+DR   GO; GO:2000573; P:positive regulation of DNA biosynthetic process; ISO:MGI.
+DR   GO; GO:0070374; P:positive regulation of ERK1 and ERK2 cascade; ISO:MGI.
+DR   GO; GO:0010971; P:positive regulation of G2/M transition of mitotic cell cycle; ISO:MGI.
+DR   GO; GO:0035022; P:positive regulation of Rac protein signal transduction; ISO:MGI.
+DR   GO; GO:0014911; P:positive regulation of smooth muscle cell migration; ISO:MGI.
+DR   GO; GO:1904707; P:positive regulation of vascular associated smooth muscle cell proliferation; ISO:MGI.
+DR   GO; GO:0046777; P:protein autophosphorylation; IMP:MGI.
+DR   GO; GO:0006468; P:protein phosphorylation; ISS:UniProtKB.
+DR   GO; GO:1902514; P:regulation of calcium ion transmembrane transport via high voltage-gated calcium channel; ISO:MGI.
+DR   GO; GO:0098901; P:regulation of cardiac muscle cell action potential; ISO:MGI.
+DR   GO; GO:0010649; P:regulation of cell communication by electrical coupling; ISO:MGI.
+DR   GO; GO:0060341; P:regulation of cellular localization; ISS:UniProtKB.
+DR   GO; GO:0003254; P:regulation of membrane depolarization; ISO:MGI.
+DR   GO; GO:1903076; P:regulation of protein localization to plasma membrane; ISO:MGI.
+DR   GO; GO:1901897; P:regulation of relaxation of cardiac muscle; IGI:BHF-UCL.
+DR   GO; GO:0010880; P:regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum; ISO:MGI.
+DR   GO; GO:0002028; P:regulation of sodium ion transport; IDA:MGI.
+DR   GO; GO:0055119; P:relaxation of cardiac muscle; ISS:BHF-UCL.
+DR   GO; GO:0001666; P:response to hypoxia; ISO:MGI.
+DR   InterPro; IPR013543; Ca/CaM-dep_prot_kinase-assoc.
+DR   InterPro; IPR011009; Kinase-like_dom_sf.
+DR   InterPro; IPR032710; NTF2-like_dom_sf.
+DR   InterPro; IPR000719; Prot_kinase_dom.
+DR   InterPro; IPR017441; Protein_kinase_ATP_BS.
+DR   InterPro; IPR008271; Ser/Thr_kinase_AS.
+DR   Pfam; PF08332; CaMKII_AD; 1.
+DR   Pfam; PF00069; Pkinase; 1.
+DR   SMART; SM00220; S_TKc; 1.
+DR   SUPFAM; SSF54427; SSF54427; 1.
+DR   SUPFAM; SSF56112; SSF56112; 1.
+DR   PROSITE; PS00107; PROTEIN_KINASE_ATP; 1.
+DR   PROSITE; PS50011; PROTEIN_KINASE_DOM; 1.
+DR   PROSITE; PS00108; PROTEIN_KINASE_ST; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Alternative splicing; ATP-binding;
+KW   Calmodulin-binding; Cell membrane; Kinase; Membrane; Nucleotide-binding;
+KW   Phosphoprotein; Reference proteome; Sarcoplasmic reticulum;
+KW   Serine/threonine-protein kinase; Transferase.
+FT   INIT_MET        1
+FT                   /note="Removed"
+FT                   /evidence="ECO:0000250|UniProtKB:Q13557"
+FT   CHAIN           2..499
+FT                   /note="Calcium/calmodulin-dependent protein kinase type II
+FT                   subunit delta"
+FT                   /id="PRO_0000277817"
+FT   DOMAIN          14..272
+FT                   /note="Protein kinase"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00159"
+FT   REGION          283..292
+FT                   /note="Autoinhibitory domain"
+FT                   /evidence="ECO:0000250"
+FT   REGION          291..301
+FT                   /note="Calmodulin-binding"
+FT                   /evidence="ECO:0000250"
+FT   ACT_SITE        136
+FT                   /note="Proton acceptor"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00159,
+FT                   ECO:0000255|PROSITE-ProRule:PRU10027"
+FT   BINDING         20..28
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00159"
+FT   BINDING         43
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00159"
+FT   MOD_RES         2
+FT                   /note="N-acetylalanine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q13557"
+FT   MOD_RES         287
+FT                   /note="Phosphothreonine; by autocatalysis"
+FT                   /evidence="ECO:0000250|UniProtKB:Q13557, ECO:0000305"
+FT   MOD_RES         306
+FT                   /note="Phosphothreonine; by autocatalysis"
+FT                   /evidence="ECO:0000250"
+FT   MOD_RES         307
+FT                   /note="Phosphothreonine; by autocatalysis"
+FT                   /evidence="ECO:0000250"
+FT   MOD_RES         315
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q13557"
+FT   MOD_RES         318
+FT                   /note="N6-acetyllysine"
+FT                   /evidence="ECO:0007744|PubMed:23806337"
+FT   MOD_RES         319
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q13557"
+FT   MOD_RES         330
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:19131326"
+FT   MOD_RES         331
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q13557"
+FT   MOD_RES         333
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:21183079"
+FT   MOD_RES         336
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:21183079"
+FT   MOD_RES         337
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:19131326,
+FT                   ECO:0007744|PubMed:21183079"
+FT   MOD_RES         404
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q13557"
+FT   MOD_RES         490
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q13557"
+FT   MOD_RES         494
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:21183079"
+FT   VAR_SEQ         328
+FT                   /note="K -> KINNKANVVTSPKENIPTPALEPQTTVIHNPDGNK (in isoform
+FT                   4)"
+FT                   /evidence="ECO:0000303|PubMed:16141072, ECO:0000303|Ref.2"
+FT                   /id="VSP_023100"
+FT   VAR_SEQ         329
+FT                   /note="E -> EPQTTVIHNPDGNKE (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:16141072"
+FT                   /id="VSP_023101"
+FT   VAR_SEQ         478
+FT                   /note="K -> N (in isoform 2, isoform 3 and isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:16141072, ECO:0000303|Ref.2"
+FT                   /id="VSP_023103"
+FT   VAR_SEQ         479..499
+FT                   /note="Missing (in isoform 2, isoform 3 and isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:16141072, ECO:0000303|Ref.2"
+FT                   /id="VSP_023102"
+FT   CONFLICT        123..125
+FT                   /note="SVN -> AVL (in Ref. 1; BAC30232)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        129..132
+FT                   /note="LNGI -> QMGV (in Ref. 1; BAC30232)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        199
+FT                   /note="A -> V (in Ref. 1; BAC30232)"
+FT                   /evidence="ECO:0000305"
+FT   STRAND          13..23
+FT                   /evidence="ECO:0007829|PDB:6BAB"
+FT   STRAND          26..33
+FT                   /evidence="ECO:0007829|PDB:6BAB"
+FT   TURN            34..37
+FT                   /evidence="ECO:0007829|PDB:6BAB"
+FT   STRAND          38..46
+FT                   /evidence="ECO:0007829|PDB:6BAB"
+FT   HELIX           54..67
+FT                   /evidence="ECO:0007829|PDB:6BAB"
+FT   STRAND          76..81
+FT                   /evidence="ECO:0007829|PDB:6BAB"
+FT   STRAND          83..91
+FT                   /evidence="ECO:0007829|PDB:6BAB"
+FT   HELIX           98..102
+FT                   /evidence="ECO:0007829|PDB:6BAB"
+FT   HELIX           110..129
+FT                   /evidence="ECO:0007829|PDB:6BAB"
+FT   HELIX           139..141
+FT                   /evidence="ECO:0007829|PDB:6BAB"
+FT   STRAND          142..144
+FT                   /evidence="ECO:0007829|PDB:6BAB"
+FT   HELIX           147..149
+FT                   /evidence="ECO:0007829|PDB:6BAB"
+FT   STRAND          153..155
+FT                   /evidence="ECO:0007829|PDB:6BAB"
+FT   HELIX           178..180
+FT                   /evidence="ECO:0007829|PDB:6BAB"
+FT   HELIX           183..186
+FT                   /evidence="ECO:0007829|PDB:6BAB"
+FT   HELIX           194..209
+FT                   /evidence="ECO:0007829|PDB:6BAB"
+FT   HELIX           219..228
+FT                   /evidence="ECO:0007829|PDB:6BAB"
+FT   HELIX           237..240
+FT                   /evidence="ECO:0007829|PDB:6BAB"
+FT   HELIX           243..252
+FT                   /evidence="ECO:0007829|PDB:6BAB"
+FT   TURN            257..259
+FT                   /evidence="ECO:0007829|PDB:6BAB"
+FT   HELIX           263..266
+FT                   /evidence="ECO:0007829|PDB:6BAB"
+FT   HELIX           270..273
+FT                   /evidence="ECO:0007829|PDB:6BAB"
+FT   HELIX           275..278
+FT                   /evidence="ECO:0007829|PDB:6BAB"
+FT   HELIX           285..299
+FT                   /evidence="ECO:0007829|PDB:6BAB"
+FT   CONFLICT        Q6PHZ2-2:478
+FT                   /note="N -> K (in Ref. 1; BAE25062)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   499 AA;  56369 MW;  62999FBAB98120CE CRC64;
+     MASTTTCTRF TDEYQLFEEL GKGAFSVVRR CMKIPTGQEY AAKIINTKKL SARDHQKLER
+     EARICRLLKH PNIVRLHDSI SEEGFHYLVF DLVTGGELFE DIVAREYYSE ADASHCIQQI
+     LESVNHCHLN GIVHRDLKPE NLLLASKSKG AAVKLADFGL AIEVQGDQQA WFGFAGTPGY
+     LSPEVLRKDP YGKPVDMWAC GVILYILLVG YPPFWDEDQH RLYQQIKAGA YDFPSPEWDT
+     VTPEAKDLIN KMLTINPAKR ITASEALKHP WICQRSTVAS MMHRQETVDC LKKFNARRKL
+     KGAILTTMLA TRNFSAAKSL LKKPDGVKES TESSNTTIED EDVKARKQEI IKVTEQLIEA
+     INNGDFEAYT KICDPGLTAF EPEALGNLVE GMDFHRFYFE NALSKSNKPI HTIILNPHVH
+     LVGDDAACIA YIRLTQYMDG SGMPKTMQSE ETRVWHRRDG KWQNVHFHRS GSPTVPIKPP
+     CIPNGKENFS GGTSLWQNI
+//

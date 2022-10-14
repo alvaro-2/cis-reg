@@ -1,153 +1,169 @@
-name,uniprot_acc,species,references,module,start_aa,end_aa,dataset
-DNMT1,P13864,M. musculus,"(Song et al., 2011; Trudeau et al., 2013)",d,699,733,train
-TBP,P20226,H. sapiens,"(Kuddus and Schmidt, 1993; Trudeau et al., 2013)",d,1,55,train
-TAK1,Q62073,M. musculus,"(Yamaguchi et al., 1995)",d,1,22,train
-SNF1,P06782,S. crevisiae,"(Jiang and Carlson, 1997; Trudeau et al., 2013)",d,392,495,train
-TSE1,P10644,H. sapiens,"(Francis et al., 2002)",d,1,98,train
-Vav1,P15498,H. sapiens,"(Barreira et al., 2014; Rapley et al., 2008; Trudeau et al., 2013)",d,131,178,train
-CAMKI,Q63450,R. norvegicus,"(Goldberg et al., 1996)",d,285,312,train
-c-Src,P00523,G. gallus,"(Trudeau et al., 2013; Williams et al., 1997)",d,88,"248, 520",train
-Lab,P10105,D. melanogaster,"(Chan et al., 1996; Trudeau et al., 2013)",d,389,410,train
-Byr2,P28829,S. cerevisiae,"(Tu et al., 1997)",d,151,260,train
-LAG-2,P45442,C. elegans,"(Henderson et al., 1997)",d,308,402,train
-CKIε,P49674,H. sapiens,"(Cegielska et al., 1998; Trudeau et al., 2013)",d,305,416,train
-MIHCK,Q93107,A. castellanii,"(Brzeska et al., 2001; Trudeau et al., 2013)",d,91,157,train
-Leu3p,C8ZE58,S. cerevisiae,"(Trudeau et al., 2013; Wang et al., 1999)",d,604,741,train
-PKG,O76360,C. elegans,"(Scott, 1991)",d,1,170,train
-PPP3CA,P63328,M. musculus,"(Tokoyoda et al., 2000)",d,437,521,train
-Esx1,O88933,M. musculus,"(Trudeau et al., 2013; Yan et al., 2000)",d,339,372,train
-Formin-3,O94532,S. cerevisiae,"(Martin et al., 2007)",d,1391,1419,train
-Moesin,P26038,H. sapiens,"(Pearson et al., 2000; Trudeau et al., 2013)",d,467,577,train
-Syntaxin-1A,P32851,R. norvegicus,"(Chen and Scheller, 2001; Misura et al., 2000; Trudeau et al., 2013)",d,1,161,train
-WASP,P42768,H. sapiens,"(Kim et al., 2000; Padrick and Rosen, 2010; Trudeau et al., 2013)",d,210,"227, 483",train
-PAK1,Q13153,H. sapiens,"(Lei et al., 2000; Totaro et al., 2007; Trudeau et al., 2013)",d,83,149,train
-NFAT1,Q60591,M. musculus,"(Okamura et al., 2000; Trudeau et al., 2013)",d,163,183,train
-IRSp53,Q60437,C. griseus,"(Krugmann et al., 2001; Miki and Takenawa, 2002)",d,1,"178, 180",train
-MRCK α,Q5VT25,H. sapiens,"(Tan et al., 2001; Trudeau et al., 2013)",d,658,930,train
-Importin α P1,P52293,M. musculus,"(Catimel et al., 2001; Trudeau et al., 2013)",d,1,70,train
-GSK3β,Q6FI27,H. sapiens,"(Dajani et al., 2001; Trudeau et al., 2013)",d,3,54,train
-Pea3,Q9PUQ1,D. rerio,"(Bojovic and Hassell, 2001; Greenall et al., 2001)",d,1,"45, 226",train
-TFCIIIC-131,P33339,S. cerevisiae,"(Moir et al., 2002; Trudeau et al., 2013)",d,1,"117, 304",train
-PR-A,P06401,H. sapiens,"(Abdel-Hafiz et al., 2002)",d,375,397,train
-Erg,P11308,H. sapiens,"(Gangwar et al., 2012)",d,195,307,train
-Ets-1,P27577,M. musculus,"(Garvie et al., 2002; Nelson et al., 2010; Trudeau et al., 2013)",d,29,"41, 280",train
-PKA II β regulatory subunit,P31323,H. sapiens,"(Francis et al., 2002)",d,1,122,train
-AKT2,P31751,H. sapiens,"(Huang et al., 2003)",d,17,151,train
-Tyrosine-protein    kinase receptor,A8KAM8,H. sapiens,"(Hubbard, 2004)",d,1006,1106,train
-ATF-2,P15336,H. sapiens,"(Li and Green, 1996; Trudeau et al., 2013)",d,349,415,train
-Elk-1,P19419,H. sapiens,"(Buchwalter et al., 2004)",d,351,399,train
-Sap-1a,P28324,H. sapiens,"(Buchwalter et al., 2004)",d,156,"214, 352",train
-Net,P41971,M. musculus,"(Buchwalter et al., 2004)",d,274,282,train
-ZAP-70,P43403,H. sapiens,"(Brdicka et al., 2005; Deindl et al., 2007; Trudeau et al., 2013)",d,126,"155, 256",train
-ARHGAP1,Q07960,H. sapiens,"(Moskwa et al., 2005)",d,1,"48, 169",train
-HIPK2,Q9H2X6,H. sapiens,"(Calzado et al., 2007)",d,935,1050,train
-Grp1,O08967,M. musculus,"(DiNitto et al., 2007)",d,251,"266, 383",train
-PAK4,O96013,H. sapiens,"(Ha et al., 2012)",d,1,130,train
-Asef,Q9NR80,H. sapiens,"(Murayama et al., 2007; Trudeau et al., 2013)",d,129,179,train
-VEGFR2,P35968,H. sapiens,"(Roskoski, 2008)",d,1163,1356,train
-FoxM1,Q08050,H. sapiens,"(Laoukili et al., 2008)",d,1,235,train
-MICAL,Q8VDP3,M. musculus,"(Schmidt et al., 2008)",d,761,1048,train
-VEGFR1,P17948,H. sapiens,"(Roskoski, 2008)",d,1159,1338,train
-VEGFR3,P35916,H. sapiens,"(Roskoski, 2008)",d,1174,1298,train
-PLC-β2,Q00722,H. sapiens,"(Hicks et al., 2008; Trudeau et al., 2013)",d,466,537,train
-ASPP2,Q13625,H. sapiens,"(Rotem et al., 2008)",d,693,901,train
-FHOD1,Q9Y613,H. sapiens,"(Takeya et al., 2008)",d,1081,1145,train
-MLCP,O14974,H. sapiens,"(Khromov et al., 2009)",d,654,714,train
-OdhI,Q8NQJ3,C. glutamicum,"(Barthe et al., 2009; Trudeau et al., 2013)",d,1,40,train
-Auto,Q8Y842,L. monocytogenes,"(Bublitz et al., 2009; Trudeau et al., 2013)",d,27,88,train
-TEL,P97360,M. musculus,"(Green et al., 2010)",d,419,436,train
-hPDE4D,Q08499,H. sapiens,"(Burgin et al., 2010)",d,186,"246, 270",train
-mDIA1,O08808,M. musculus,"(Otomo et al., 2010; Trudeau et al., 2013)",d,1180,1199,train
-NHERF1,O14745,H. sapiens,"(Bhattacharya et al., 2010; Trudeau et al., 2013)",d,242,328,train
-Nck2,O43639,H. sapiens,"(Takeuchi et al., 2010)",d,60,109,train
-ACK1,Q07912,H. sapiens,"(Prieto-Echague et al., 2010)",d,803,880,train
-ALIX,Q8WUM4,H. sapiens,"(Zhou et al., 2010)",d,709,745,train
-Daam1,Q9Y4D1,H. sapiens,"(Higashi et al., 2010)",d,1023,1054,train
-MEF2C,Q06413,H. sapiens,"(Al Madhoun et al., 2011)",d,71,90,train
-RpoD ,P00579,E. coli,"(Dombroski et al., 1993; Dombroski et al., 1992; Trudeau et al., 2013)",s,1,100,train
-MLCK,P11799,G. gallus,"(Allen and Walsh, 1994; Gallagher et al., 1993; Khromov et al., 2009; Shimizu et al., 2006)",s,654,880,train
-PRKCG,P05129,H. sapiens,"(Pears, 1995)",s,18,36,train
-Subtilisin BPN’,P00782,B. amyloliquefaciens,"(Gallagher et al., 1995)",s,1,77,train
-IRF4,Q64287,M. musculus,"(Brass et al., 1996; Trudeau et al., 2013)",s,410,439,train
-Relish,Q94527,D. melanogaster,"(Huguet et al., 1997; Stoven et al., 2000; Trudeau et al., 2013)",s,640,738,train
-SREBP1,P36956,H. sapiens,"(Sakai et al., 1998; Trudeau et al., 2013)",s,523,1141,train
-Dlg2,Q63622,R. norvegicus,"(Brenman et al., 1998)",s,158,408,train
-GABP subunit α,Q00422,M. musculus,"(Batchelor, 1998)",s,403,430,train
-GCK,Q12851,H. sapiens,"(Kyriakis, 1999)",s,466,670,train
-GLK,Q8IVH8,H. sapiens,"(Kyriakis, 1999)",s,511,735,train
-NADP-MDH,P17606,S. vulgare,"(Johansson et al., 1999; Krimm et al., 1999; Trudeau et al., 2013)",s,1,"33, 365",train
-NS3,P26663,Hepatitis C virus genotype 1b,"(Trudeau et al., 2013; Yao et al., 1999)",s,626,631,train
-nNOS,P29475,H. sapiens,"(Nishida and Ortiz de Montellano, 1999)",s,819,889,train
-Dlg1,P31007,D. melanogaster,"(McGee and Bredt, 1999; Qian and Prehoda, 2006)",s,486,566,train
-ELF5,Q9UKW6,H. sapiens,"(Oettgen et al., 1999)",s,1,42,train
-Bid,P55957,H. sapiens,"(Chou et al., 1999)",s,14,41,train
-NTRK1,P04629,H. sapiens,"(Arevalo et al., 2000)",s,287,384,train
-NTRK2,Q16620,H. sapiens,"(Arevalo et al., 2000)",s,287,377,train
-α-actinin-1,P12814,H. sapiens,"(Trudeau et al., 2013; Young and Gautel, 2000)",s,260,300,train
-Notch1,Q01705,M. musculus,"(Mumm and Kopan, 2000; Trudeau et al., 2013)",s,1655,1744,train
-PPP5C,P53041,H. sapiens,"(Kang et al., 2001)",s,467,491,train
-Dbl,P10911,H. sapiens,"(Bi et al., 2001)",s,286,349,train
-EPHB2,P29323,H. sapiens,"(Hubbard, 2004; Trudeau et al., 2013; Wybenga-Groot et al., 2001)",s,588,621,train
-CBS,P35520,H. sapiens,"(Janošík et al., 2001; Trudeau et al., 2013)",s,414,551,train
-tubby ,P50586,M. musculus,"(Santagata et al., 2001; Trudeau et al., 2013)",s,308,380,train
-hPASK,Q96RG2,H. sapiens,"(Amezcua et al., 2002)",s,183,200,train
-JAK2,Q62120,M. musculus,"(Saharinen et al., 2003)",s,619,"670, 725",train
-c-Abl,P00519,H. sapiens,"(Nagar et al., 2003; Trudeau et al., 2013)",s,2,"14, 61",train
-ROCK2,P70336,M. musculus,"(Riento and Ridley, 2003)",s,1110,1388,train
-MUSK,O15146,H. sapiens,"(Hubbard, 2004)",s,533,566,train
-Insulin receptor,P06213,H. sapiens,"(Hubbard, 2004)",s,953,990,train
-c-Kit,P10721,H. sapiens,"(Hubbard, 2004; Mol et al., 2004; Trudeau et al., 2013)",s,544,591,train
-Vinculin,P12003,G. gallus,"(Bakolitsa et al., 2004; Trudeau et al., 2013)",s,940,1066,train
-EcoRII,P14633,E. coli,"(Trudeau et al., 2013; Zhou et al., 2004)",s,1,173,train
-FLT3,P36888,H. sapiens,"(Hubbard, 2004)",s,565,602,train
-PLC γ1,P19174,H. sapiens,"(DeBell et al., 2007)",s,688,741,train
-ELF3,P78545,H. sapiens,"(Kopp et al., 2007)",s,129,159,train
-FAK1,Q00944,G. gallus,"(Lietha et al., 2007; Trudeau et al., 2013)",s,35,362,train
-Notch2,Q04721,H. sapiens,"(Gordon et al., 2007; Trudeau et al., 2013)",s,1425,1544,train
-GIT1,Q9Y2X7,H. sapiens,"(Totaro et al., 2007)",s,229,431,train
-PlxA3,P70208,M. musculus,"(He et al., 2009)",s,1260,1310,train
-UNC5b,O08722,R. norvegicus,"(Trudeau et al., 2013; Wang et al., 2009)",s,544,688,train
-AMPK,O74536,S. pombe,"(Chen et al., 2009; Trudeau et al., 2013)",s,305,351,train
-Raf-1,Q99N57,M. musculus,"(Niault et al., 2009)",s,139,187,train
-FGF20,Q9NP95,H. sapiens,"(Kalinina et al., 2009)",s,56,209,train
-HSPA8,P11142,H. sapiens,"(Banski et al., 2010)",s,263,287,train
-TRAF6,Q9Y4K3,H. sapiens,"(Wang et al., 2010)",s,346,522,train
-SOS,Q07889,H. sapiens,"(Gureasko et al., 2010; Trudeau et al., 2013)",s,1,198,train
-FimH,Q0T8Y8,E. coli,"(Le Trong et al., 2010; Trudeau et al., 2013)",s,181,279,train
-Intersectin-1L,Q9Z0R4,M. musculus,"(Ahmad and Lim, 2010; Trudeau et al., 2013)",s,1151,1205,train
-YKT6,Q5EGY4,R. norvegicus,"(Wen et al., 2010)",s,46,95,train
-IRF-7,Q92985,H. sapiens,"(Sathish et al., 2011)",s,404,466,train
-hPDE5,O76074,H. sapiens,"(Francis et al., 2011)",s,1,535,train
-CAMKK2,Q96RR4,H. sapiens,"(Green et al., 2011; Lin and DeFea, 2013)",d,471,499,test
-STIM2,Q9P246,H. sapiens,"(Trudeau et al., 2013; Zheng et al., 2011)",d,67,131,test
-NCF-1,P14598,H. sapiens,"(Trudeau et al., 2013; Yuzawa et al., 2004)",d,287,329,test
-Kinesin-1,P17210,D. melanogaster,"(Kaan et al., 2011; Trudeau et al., 2013)",d,937,975,test
-p53,P04637,H. sapiens,"(Ko and Prives, 1996; Trudeau et al., 2013)",d,364,393,test
-GLP-1 ,P13508,C. elegans,"(Mango et al., 1991)",d,1174,1295,test
-FGFR3,P22607,H. sapiens,"(Kalinina et al., 2012)",d,126,145,test
-ACAP1,Q15027,H. sapiens,"(Bai et al., 2012)",d,525,568,test
-STING,Q86WV6,H. sapiens,"(Yin et al., 2012)",d,343,379,test
-Vta1,Q06263,S. cerevisiae,"(Norgan et al., 2013)",d,183,266,test
-Zuotin,P32527,S. cerevisiae,"(Ducett et al., 2013)",d,348,364,test
-p65,Q04206,H. sapiens,"(Trudeau et al., 2013)",d,313,550,test
-Zyxin,Q15942,H. sapiens,"(Hansen and Kwiatkowski, 2013)",d,1,130,test
-PLCβ3,Q01970,H. sapiens,"(Lyon et al., 2014)",d,471,575,test
-RAD26 homolog,Q9UR24,S. pombe,"(Wang et al., 2014)",d,825,973,test
-PLK-4,O97143,D. melanogaster,"(Klebba et al., 2015)",d,318,380,test
-p38,P46108,H. sapiens,"(Sarkar et al., 2011)",s,239,294,test
-SHP2,Q06124,H. sapiens,"(Darian et al., 2011)",s,6,81,test
-LapD,Q3KK31,P. fluorescens,"(Navarro et al., 2011; Trudeau et al., 2013)",s,171,394,test
-Cin85,Q96B97,H. sapiens,"(Philippe et al., 2011)",s,267,328,test
-SmyD3,Q9H7B4,H. sapiens,"(Sirinupong et al., 2011; Trudeau et al., 2013)",s,280,428,test
-Smurf2,Q9HAU4,H. sapiens,"(Lu et al., 2011)",s,14,98,test
-ROR2,Q01974,H. sapiens,"(Artim et al., 2012)",s,633,646,test
-Cbl,P22681,H. sapiens,"(Dou et al., 2012)",s,353,435,test
-Ste5,P32917,S. cerevisiae,"(Zalatan et al., 2012)",s,367,517,test
-Ste5,P32917,S. cerevisiae,"(Zalatan et al., 2012)",s, 544,592,test
-RSK1,Q15418,H. sapiens,"(Li et al., 2012)",s,687,706,test
-Pacsin-1,Q9BY11,H. sapiens,"(Goh et al., 2012)",s,392,442,test
-NLRC4,Q3UP24,M. musculus,"(Hu et al., 2013)",s,299,355,test
-Park2,Q9JK66,R. norvegicus,"(Byrd and Weissman, 2013)",s,410,465,test
-EB1,Q15691,H. sapiens,"(Kanaba et al., 2013)",s,189,268,test
-gp47,P04521,Enterobacteria phage T4,"(Gao and Nelson, 2014)",s,303,320,test
-nPKC-iota,P41743,H. sapiens,"(Ivey et al., 2014)",s,123,140,test
+name,uniprot_acc,species,references,module,start_aa,end_aa,dataset,id_cre
+DNMT1,P13864,M. musculus,"(Song et al., 2011; Trudeau et al., 2013)",d,699,733,train,1
+TBP,P20226,H. sapiens,"(Kuddus and Schmidt, 1993; Trudeau et al., 2013)",d,1,55,train,2
+TAK1,Q62073,M. musculus,"(Yamaguchi et al., 1995)",d,1,22,train,3
+SNF1,P06782,S. crevisiae,"(Jiang and Carlson, 1997; Trudeau et al., 2013)",d,392,495,train,4
+TSE1,P10644,H. sapiens,"(Francis et al., 2002)",d,1,98,train,5
+Vav1,P15498,H. sapiens,"(Barreira et al., 2014; Rapley et al., 2008; Trudeau et al., 2013)",d,131,178,train,6
+CAMKI,Q63450,R. norvegicus,"(Goldberg et al., 1996)",d,285,312,train,7
+c-Src,P00523,G. gallus,"(Trudeau et al., 2013; Williams et al., 1997)",d,88,248,train,8
+c-Src,P00523,G. gallus,"(Trudeau et al., 2013; Williams et al., 1997)",d,520,533,train,9
+Lab,P10105,D. melanogaster,"(Chan et al., 1996; Trudeau et al., 2013)",d,389,410,train,10
+Byr2,P28829,S. cerevisiae,"(Tu et al., 1997)",d,151,260,train,11
+LAG-2,P45442,C. elegans,"(Henderson et al., 1997)",d,308,402,train,12
+CKIε,P49674,H. sapiens,"(Cegielska et al., 1998; Trudeau et al., 2013)",d,305,416,train,13
+MIHCK,Q93107,A. castellanii,"(Brzeska et al., 2001; Trudeau et al., 2013)",d,91,157,train,14
+Leu3p,C8ZE58,S. cerevisiae,"(Trudeau et al., 2013; Wang et al., 1999)",d,604,741,train,15
+PKG,O76360,C. elegans,"(Scott, 1991)",d,1,170,train,16
+PPP3CA,P63328,M. musculus,"(Tokoyoda et al., 2000)",d,437,521,train,17
+Esx1,O88933,M. musculus,"(Trudeau et al., 2013; Yan et al., 2000)",d,339,372,train,18
+Formin-3,O94532,S. cerevisiae,"(Martin et al., 2007)",d,1391,1419,train,19
+Moesin,P26038,H. sapiens,"(Pearson et al., 2000; Trudeau et al., 2013)",d,467,577,train,20
+Syntaxin-1A,P32851,R. norvegicus,"(Chen and Scheller, 2001; Misura et al., 2000; Trudeau et al., 2013)",d,1,161,train,21
+WASP,P42768,H. sapiens,"(Kim et al., 2000; Padrick and Rosen, 2010; Trudeau et al., 2013)",d,210,227,train,22
+WASP,P42768,H. sapiens,"(Kim et al., 2000; Padrick and Rosen, 2010; Trudeau et al., 2013)",d,483,492,train,23
+PAK1,Q13153,H. sapiens,"(Lei et al., 2000; Totaro et al., 2007; Trudeau et al., 2013)",d,83,149,train,24
+NFAT1,Q60591,M. musculus,"(Okamura et al., 2000; Trudeau et al., 2013)",d,163,183,train,25
+IRSp53,Q60437,C. griseus,"(Krugmann et al., 2001; Miki and Takenawa, 2002)",d,1,178,train,26
+IRSp53,Q60437,C. griseus,"(Krugmann et al., 2001; Miki and Takenawa, 2002)",d,180,317,train,27
+MRCK α,Q5VT25,H. sapiens,"(Tan et al., 2001; Trudeau et al., 2013)",d,658,930,train,28
+Importin α P1,P52293,M. musculus,"(Catimel et al., 2001; Trudeau et al., 2013)",d,1,70,train,29
+GSK3β,Q6FI27,H. sapiens,"(Dajani et al., 2001; Trudeau et al., 2013)",d,3,54,train,30
+Pea3,Q9PUQ1,D. rerio,"(Bojovic and Hassell, 2001; Greenall et al., 2001)",d,1,45,train,31
+Pea3,Q9PUQ1,D. rerio,"(Bojovic and Hassell, 2001; Greenall et al., 2001)",d,226,340,train,32
+Pea3,Q9PUQ1,D. rerio,"(Bojovic and Hassell, 2001; Greenall et al., 2001)",d,433,494,train,33
+TFCIIIC-131,P33339,S. cerevisiae,"(Moir et al., 2002; Trudeau et al., 2013)",d,1,117,train,34
+TFCIIIC-131,P33339,S. cerevisiae,"(Moir et al., 2002; Trudeau et al., 2013)",d,304,431,train,35
+PR-A,P06401,H. sapiens,"(Abdel-Hafiz et al., 2002)",d,375,397,train,36
+Erg,P11308,H. sapiens,"(Gangwar et al., 2012)",d,195,307,train,37
+Ets-1,P27577,M. musculus,"(Garvie et al., 2002; Nelson et al., 2010; Trudeau et al., 2013)",d,29,41,train,38
+Ets-1,P27577,M. musculus,"(Garvie et al., 2002; Nelson et al., 2010; Trudeau et al., 2013)",d,280,330,train,39
+Ets-1,P27577,M. musculus,"(Garvie et al., 2002; Nelson et al., 2010; Trudeau et al., 2013)",d,415,440,train,40
+PKA II β regulatory subunit,P31323,H. sapiens,"(Francis et al., 2002)",d,1,122,train,41
+AKT2,P31751,H. sapiens,"(Huang et al., 2003)",d,17,151,train,42
+Tyrosine-protein    kinase receptor,A8KAM8,H. sapiens,"(Hubbard, 2004)",d,1006,1106,train,43
+ATF-2,P15336,H. sapiens,"(Li and Green, 1996; Trudeau et al., 2013)",d,349,415,train,44
+Elk-1,P19419,H. sapiens,"(Buchwalter et al., 2004)",d,351,399,train,45
+Sap-1a,P28324,H. sapiens,"(Buchwalter et al., 2004)",d,156,214,train,46
+Sap-1a,P28324,H. sapiens,"(Buchwalter et al., 2004)",d,352,402,train,47
+Net,P41971,M. musculus,"(Buchwalter et al., 2004)",d,274,282,train,48
+ZAP-70,P43403,H. sapiens,"(Brdicka et al., 2005; Deindl et al., 2007; Trudeau et al., 2013)",d,126,155,train,49
+ZAP-70,P43403,H. sapiens,"(Brdicka et al., 2005; Deindl et al., 2007; Trudeau et al., 2013)",d,256,337,train,50
+ARHGAP1,Q07960,H. sapiens,"(Moskwa et al., 2005)",d,1,48,train,51
+ARHGAP1,Q07960,H. sapiens,"(Moskwa et al., 2005)",d,169,197,train,52
+HIPK2,Q9H2X6,H. sapiens,"(Calzado et al., 2007)",d,935,1050,train,53
+Grp1,O08967,M. musculus,"(DiNitto et al., 2007)",d,251,266,train,54
+Grp1,O08967,M. musculus,"(DiNitto et al., 2007)",d,383,395,train,55
+PAK4,O96013,H. sapiens,"(Ha et al., 2012)",d,1,130,train,56
+Asef,Q9NR80,H. sapiens,"(Murayama et al., 2007; Trudeau et al., 2013)",d,129,179,train,57
+VEGFR2,P35968,H. sapiens,"(Roskoski, 2008)",d,1163,1356,train,58
+FoxM1,Q08050,H. sapiens,"(Laoukili et al., 2008)",d,1,235,train,59
+MICAL,Q8VDP3,M. musculus,"(Schmidt et al., 2008)",d,761,1048,train,60
+VEGFR1,P17948,H. sapiens,"(Roskoski, 2008)",d,1159,1338,train,61
+VEGFR3,P35916,H. sapiens,"(Roskoski, 2008)",d,1174,1298,train,62
+PLC-β2,Q00722,H. sapiens,"(Hicks et al., 2008; Trudeau et al., 2013)",d,466,537,train,63
+ASPP2,Q13625,H. sapiens,"(Rotem et al., 2008)",d,693,901,train,64
+FHOD1,Q9Y613,H. sapiens,"(Takeya et al., 2008)",d,1081,1145,train,65
+MLCP,O14974,H. sapiens,"(Khromov et al., 2009)",d,654,714,train,66
+OdhI,Q8NQJ3,C. glutamicum,"(Barthe et al., 2009; Trudeau et al., 2013)",d,1,40,train,67
+Auto,Q8Y842,L. monocytogenes,"(Bublitz et al., 2009; Trudeau et al., 2013)",d,27,88,train,68
+TEL,P97360,M. musculus,"(Green et al., 2010)",d,419,436,train,69
+hPDE4D,Q08499,H. sapiens,"(Burgin et al., 2010)",d,186,246,train,70
+hPDE4D,Q08499,H. sapiens,"(Burgin et al., 2010)",d,270,348,train,71
+mDIA1,O08808,M. musculus,"(Otomo et al., 2010; Trudeau et al., 2013)",d,1180,1199,train,72
+NHERF1,O14745,H. sapiens,"(Bhattacharya et al., 2010; Trudeau et al., 2013)",d,242,328,train,73
+Nck2,O43639,H. sapiens,"(Takeuchi et al., 2010)",d,60,109,train,74
+ACK1,Q07912,H. sapiens,"(Prieto-Echague et al., 2010)",d,803,880,train,75
+ALIX,Q8WUM4,H. sapiens,"(Zhou et al., 2010)",d,709,745,train,76
+Daam1,Q9Y4D1,H. sapiens,"(Higashi et al., 2010)",d,1023,1054,train,77
+MEF2C,Q06413,H. sapiens,"(Al Madhoun et al., 2011)",d,71,90,train,78
+RpoD ,P00579,E. coli,"(Dombroski et al., 1993; Dombroski et al., 1992; Trudeau et al., 2013)",s,1,100,train,79
+MLCK,P11799,G. gallus,"(Allen and Walsh, 1994; Gallagher et al., 1993; Khromov et al., 2009; Shimizu et al., 2006)",s,654,880,train,80
+PRKCG,P05129,H. sapiens,"(Pears, 1995)",s,18,36,train,81
+Subtilisin BPN’,P00782,B. amyloliquefaciens,"(Gallagher et al., 1995)",s,1,77,train,82
+IRF4,Q64287,M. musculus,"(Brass et al., 1996; Trudeau et al., 2013)",s,410,439,train,83
+Relish,Q94527,D. melanogaster,"(Huguet et al., 1997; Stoven et al., 2000; Trudeau et al., 2013)",s,640,738,train,84
+SREBP1,P36956,H. sapiens,"(Sakai et al., 1998; Trudeau et al., 2013)",s,523,1141,train,85
+Dlg2,Q63622,R. norvegicus,"(Brenman et al., 1998)",s,158,408,train,86
+GABP subunit α,Q00422,M. musculus,"(Batchelor, 1998)",s,403,430,train,87
+GCK,Q12851,H. sapiens,"(Kyriakis, 1999)",s,466,670,train,88
+GLK,Q8IVH8,H. sapiens,"(Kyriakis, 1999)",s,511,735,train,89
+NADP-MDH,P17606,S. vulgare,"(Johansson et al., 1999; Krimm et al., 1999; Trudeau et al., 2013)",s,1,33,train,90
+NADP-MDH,P17606,S. vulgare,"(Johansson et al., 1999; Krimm et al., 1999; Trudeau et al., 2013)",s,365,390,train,91
+NS3,P26663,Hepatitis C virus genotype 1b,"(Trudeau et al., 2013; Yao et al., 1999)",s,626,631,train,92
+nNOS,P29475,H. sapiens,"(Nishida and Ortiz de Montellano, 1999)",s,819,889,train,93
+Dlg1,P31007,D. melanogaster,"(McGee and Bredt, 1999; Qian and Prehoda, 2006)",s,486,566,train,94
+ELF5,Q9UKW6,H. sapiens,"(Oettgen et al., 1999)",s,1,42,train,95
+Bid,P55957,H. sapiens,"(Chou et al., 1999)",s,14,41,train,96
+NTRK1,P04629,H. sapiens,"(Arevalo et al., 2000)",s,287,384,train,97
+NTRK2,Q16620,H. sapiens,"(Arevalo et al., 2000)",s,287,377,train,98
+α-actinin-1,P12814,H. sapiens,"(Trudeau et al., 2013; Young and Gautel, 2000)",s,260,300,train,99
+Notch1,Q01705,M. musculus,"(Mumm and Kopan, 2000; Trudeau et al., 2013)",s,1655,1744,train,100
+PPP5C,P53041,H. sapiens,"(Kang et al., 2001)",s,467,491,train,101
+Dbl,P10911,H. sapiens,"(Bi et al., 2001)",s,286,349,train,102
+EPHB2,P29323,H. sapiens,"(Hubbard, 2004; Trudeau et al., 2013; Wybenga-Groot et al., 2001)",s,588,621,train,103
+CBS,P35520,H. sapiens,"(Janošík et al., 2001; Trudeau et al., 2013)",s,414,551,train,104
+tubby ,P50586,M. musculus,"(Santagata et al., 2001; Trudeau et al., 2013)",s,308,380,train,105
+hPASK,Q96RG2,H. sapiens,"(Amezcua et al., 2002)",s,183,200,train,106
+JAK2,Q62120,M. musculus,"(Saharinen et al., 2003)",s,619,670,train,107
+JAK2,Q62120,M. musculus,"(Saharinen et al., 2003)",s,725,757,train,108
+c-Abl,P00519,H. sapiens,"(Nagar et al., 2003; Trudeau et al., 2013)",s,2,14,train,109
+c-Abl,P00519,H. sapiens,"(Nagar et al., 2003; Trudeau et al., 2013)",s,61,233,train,110
+ROCK2,P70336,M. musculus,"(Riento and Ridley, 2003)",s,1110,1388,train,111
+MUSK,O15146,H. sapiens,"(Hubbard, 2004)",s,533,566,train,112
+Insulin receptor,P06213,H. sapiens,"(Hubbard, 2004)",s,953,990,train,113
+c-Kit,P10721,H. sapiens,"(Hubbard, 2004; Mol et al., 2004; Trudeau et al., 2013)",s,544,591,train,114
+Vinculin,P12003,G. gallus,"(Bakolitsa et al., 2004; Trudeau et al., 2013)",s,940,1066,train,115
+EcoRII,P14633,E. coli,"(Trudeau et al., 2013; Zhou et al., 2004)",s,1,173,train,116
+FLT3,P36888,H. sapiens,"(Hubbard, 2004)",s,565,602,train,117
+PLC γ1,P19174,H. sapiens,"(DeBell et al., 2007)",s,688,741,train,118
+ELF3,P78545,H. sapiens,"(Kopp et al., 2007)",s,129,159,train,119
+FAK1,Q00944,G. gallus,"(Lietha et al., 2007; Trudeau et al., 2013)",s,35,362,train,120
+Notch2,Q04721,H. sapiens,"(Gordon et al., 2007; Trudeau et al., 2013)",s,1425,1544,train,121
+GIT1,Q9Y2X7,H. sapiens,"(Totaro et al., 2007)",s,229,431,train,122
+PlxA3,P70208,M. musculus,"(He et al., 2009)",s,1260,1310,train,123
+UNC5b,O08722,R. norvegicus,"(Trudeau et al., 2013; Wang et al., 2009)",s,544,688,train,124
+AMPK,O74536,S. pombe,"(Chen et al., 2009; Trudeau et al., 2013)",s,305,351,train,125
+Raf-1,Q99N57,M. musculus,"(Niault et al., 2009)",s,139,187,train,126
+FGF20,Q9NP95,H. sapiens,"(Kalinina et al., 2009)",s,56,209,train,127
+HSPA8,P11142,H. sapiens,"(Banski et al., 2010)",s,263,287,train,128
+TRAF6,Q9Y4K3,H. sapiens,"(Wang et al., 2010)",s,346,522,train,129
+SOS,Q07889,H. sapiens,"(Gureasko et al., 2010; Trudeau et al., 2013)",s,1,198,train,130
+FimH,P08191,E. coli,"(Le Trong et al., 2010; Trudeau et al., 2013)",s,181,279,train,131
+Intersectin-1L,Q9Z0R4,M. musculus,"(Ahmad and Lim, 2010; Trudeau et al., 2013)",s,1151,1205,train,132
+YKT6,Q5EGY4,R. norvegicus,"(Wen et al., 2010)",s,46,95,train,133
+IRF-7,Q92985,H. sapiens,"(Sathish et al., 2011)",s,404,466,train,134
+hPDE5,O76074,H. sapiens,"(Francis et al., 2011)",s,1,535,train,135
+CAMKK2,Q96RR4,H. sapiens,"(Green et al., 2011; Lin and DeFea, 2013)",d,471,499,test,136
+STIM2,Q9P246,H. sapiens,"(Trudeau et al., 2013; Zheng et al., 2011)",d,67,131,test,137
+NCF-1,P14598,H. sapiens,"(Trudeau et al., 2013; Yuzawa et al., 2004)",d,287,329,test,138
+Kinesin-1,P17210,D. melanogaster,"(Kaan et al., 2011; Trudeau et al., 2013)",d,937,975,test,139
+p53,P04637,H. sapiens,"(Ko and Prives, 1996; Trudeau et al., 2013)",d,364,393,test,140
+GLP-1 ,P13508,C. elegans,"(Mango et al., 1991)",d,1174,1295,test,141
+FGFR3,P22607,H. sapiens,"(Kalinina et al., 2012)",d,126,145,test,142
+ACAP1,Q15027,H. sapiens,"(Bai et al., 2012)",d,525,568,test,143
+STING,Q86WV6,H. sapiens,"(Yin et al., 2012)",d,343,379,test,144
+Vta1,Q06263,S. cerevisiae,"(Norgan et al., 2013)",d,183,266,test,145
+Zuotin,P32527,S. cerevisiae,"(Ducett et al., 2013)",d,348,364,test,146
+p65,Q04206,H. sapiens,"(Trudeau et al., 2013)",d,313,550,test,147
+Zyxin,Q15942,H. sapiens,"(Hansen and Kwiatkowski, 2013)",d,1,130,test,148
+PLCβ3,Q01970,H. sapiens,"(Lyon et al., 2014)",d,471,575,test,149
+RAD26 homolog,Q9UR24,S. pombe,"(Wang et al., 2014)",d,825,973,test,150
+PLK-4,O97143,D. melanogaster,"(Klebba et al., 2015)",d,318,380,test,151
+p38,P46108,H. sapiens,"(Sarkar et al., 2011)",s,239,294,test,152
+SHP2,Q06124,H. sapiens,"(Darian et al., 2011)",s,6,81,test,153
+LapD,Q3KK31,P. fluorescens,"(Navarro et al., 2011; Trudeau et al., 2013)",s,171,394,test,154
+Cin85,Q96B97,H. sapiens,"(Philippe et al., 2011)",s,267,328,test,155
+SmyD3,Q9H7B4,H. sapiens,"(Sirinupong et al., 2011; Trudeau et al., 2013)",s,280,428,test,156
+Smurf2,Q9HAU4,H. sapiens,"(Lu et al., 2011)",s,14,98,test,157
+ROR2,Q01974,H. sapiens,"(Artim et al., 2012)",s,633,646,test,158
+Cbl,P22681,H. sapiens,"(Dou et al., 2012)",s,353,435,test,159
+Ste5,P32917,S. cerevisiae,"(Zalatan et al., 2012)",s,367,517,test,160
+Ste5,P32917,S. cerevisiae,"(Zalatan et al., 2012)",s,544,592,test,161
+RSK1,Q15418,H. sapiens,"(Li et al., 2012)",s,687,706,test,162
+Pacsin-1,Q9BY11,H. sapiens,"(Goh et al., 2012)",s,392,442,test,163
+NLRC4,Q3UP24,M. musculus,"(Hu et al., 2013)",s,299,355,test,164
+Park2,Q9JK66,R. norvegicus,"(Byrd and Weissman, 2013)",s,410,465,test,165
+EB1,Q15691,H. sapiens,"(Kanaba et al., 2013)",s,189,268,test,166
+gp47,P04521,Enterobacteria phage T4,"(Gao and Nelson, 2014)",s,303,320,test,167
+nPKC-iota,P41743,H. sapiens,"(Ivey et al., 2014)",s,123,140,test,168

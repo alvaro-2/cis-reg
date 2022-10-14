@@ -1,0 +1,462 @@
+ID   KCC1A_RAT               Reviewed;         374 AA.
+AC   Q63450; Q63084;
+DT   15-JUL-1998, integrated into UniProtKB/Swiss-Prot.
+DT   15-JUL-1998, sequence version 2.
+DT   03-AUG-2022, entry version 178.
+DE   RecName: Full=Calcium/calmodulin-dependent protein kinase type 1;
+DE            EC=2.7.11.17 {ECO:0000269|PubMed:8631893, ECO:0000269|PubMed:8702851};
+DE   AltName: Full=CaM kinase I;
+DE            Short=CaM-KI;
+DE   AltName: Full=CaM kinase I alpha;
+DE            Short=CaMKI-alpha;
+GN   Name=Camk1;
+OS   Rattus norvegicus (Rat).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha; Muroidea; Muridae;
+OC   Murinae; Rattus.
+OX   NCBI_TaxID=10116;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=8253780; DOI=10.1016/s0021-9258(19)74343-9;
+RA   Picciotto M.R., Czernik A.J., Nairn A.C.;
+RT   "Calcium/calmodulin-dependent protein kinase I. cDNA cloning and
+RT   identification of autophosphorylation site.";
+RL   J. Biol. Chem. 268:26512-26521(1993).
+RN   [2]
+RP   ERRATUM OF PUBMED:8253780.
+RA   Picciotto M.R., Czernik A.J., Nairn A.C.;
+RL   J. Biol. Chem. 270:10358-10358(1995).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=Sprague-Dawley; TISSUE=Lung;
+RX   PubMed=7948038; DOI=10.1016/0167-4889(94)90123-6;
+RA   Cho F.S., Phillips K.S., Bogucki B., Weaver T.E.;
+RT   "Characterization of a rat cDNA clone encoding calcium/calmodulin-dependent
+RT   protein kinase I.";
+RL   Biochim. Biophys. Acta 1224:156-160(1994).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Lung;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   PROTEIN SEQUENCE OF 12-37; 158-167; 233-241 AND 285-295.
+RX   PubMed=8386178; DOI=10.1016/s0021-9258(18)52989-6;
+RA   Mochizuki H., Ito T., Hidaka H.;
+RT   "Purification and characterization of Ca2+/calmodulin-dependent protein
+RT   kinase V from rat cerebrum.";
+RL   J. Biol. Chem. 268:9143-9147(1993).
+RN   [6]
+RP   FUNCTION IN PHOSPHORYLATION OF CREB1.
+RX   PubMed=1646483; DOI=10.1126/science.1646483;
+RA   Sheng M., Thompson M.A., Greenberg M.E.;
+RT   "CREB: a Ca(2+)-regulated transcription factor phosphorylated by
+RT   calmodulin-dependent kinases.";
+RL   Science 252:1427-1430(1991).
+RN   [7]
+RP   SUBSTRATE RECOGNITION MOTIF.
+RX   PubMed=7698321; DOI=10.1016/0014-5793(95)00172-6;
+RA   Dale S., Wilson W.A., Edelman A.M., Hardie D.G.;
+RT   "Similar substrate recognition motifs for mammalian AMP-activated protein
+RT   kinase, higher plant HMG-CoA reductase kinase-A, yeast SNF1, and mammalian
+RT   calmodulin-dependent protein kinase I.";
+RL   FEBS Lett. 361:191-195(1995).
+RN   [8]
+RP   TISSUE SPECIFICITY, AND SUBCELLULAR LOCATION.
+RX   PubMed=7624832; DOI=10.1002/syn.890200111;
+RA   Picciotto M.R., Zoli M., Bertuzzi G., Nairn A.C.;
+RT   "Immunochemical localization of calcium/calmodulin-dependent protein kinase
+RT   I.";
+RL   Synapse 20:75-84(1995).
+RN   [9]
+RP   FUNCTION IN PHOSPHORYLATION OF ATF1 AND CREB1.
+RX   PubMed=8621702; DOI=10.1074/jbc.271.6.3066;
+RA   Sun P., Lou L., Maurer R.A.;
+RT   "Regulation of activating transcription factor-1 and the cAMP response
+RT   element-binding protein by Ca2+/calmodulin-dependent protein kinases type
+RT   I, II, and IV.";
+RL   J. Biol. Chem. 271:3066-3073(1996).
+RN   [10]
+RP   CATALYTIC ACTIVITY, ACTIVITY REGULATION, PHOSPHORYLATION AT THR-177 BY
+RP   CAMKK1 AND CAMKK2, AND MUTAGENESIS OF THR-177.
+RX   PubMed=8631893; DOI=10.1074/jbc.271.18.10806;
+RA   Edelman A.M., Mitchelhill K.I., Selbert M.A., Anderson K.A., Hook S.S.,
+RA   Stapleton D., Goldstein E.G., Means A.R., Kemp B.E.;
+RT   "Multiple Ca(2+)-calmodulin-dependent protein kinase kinases from rat
+RT   brain. Purification, regulation by Ca(2+)-calmodulin, and partial amino
+RT   acid sequence.";
+RL   J. Biol. Chem. 271:10806-10810(1996).
+RN   [11]
+RP   CATALYTIC ACTIVITY, AND ACTIVITY REGULATION.
+RX   PubMed=8702851; DOI=10.1074/jbc.271.34.20930;
+RA   Aletta J.M., Selbert M.A., Nairn A.C., Edelman A.M.;
+RT   "Activation of a calcium-calmodulin-dependent protein kinase I cascade in
+RT   PC12 cells.";
+RL   J. Biol. Chem. 271:20930-20934(1996).
+RN   [12]
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=10936699; DOI=10.1016/s0304-3940(00)01347-1;
+RA   Ahmed B.Y., Yamaguchi F., Tsumura T., Gotoh T., Sugimoto K., Tai Y.,
+RA   Konishi R., Kobayashi R., Tokuda M.;
+RT   "Expression and subcellular localization of multifunctional calmodulin-
+RT   dependent protein kinases-I, -II and -IV are altered in rat hippocampal CA1
+RT   neurons after induction of long-term potentiation.";
+RL   Neurosci. Lett. 290:149-153(2000).
+RN   [13]
+RP   SUBCELLULAR LOCATION, AND FUNCTION IN PHOSPHORYLATION OF MYL9.
+RX   PubMed=12081505; DOI=10.1042/bj20020536;
+RA   Suizu F., Fukuta Y., Ueda K., Iwasaki T., Tokumitsu H., Hosoya H.;
+RT   "Characterization of Ca2+/calmodulin-dependent protein kinase I as a myosin
+RT   II regulatory light chain kinase in vitro and in vivo.";
+RL   Biochem. J. 367:335-345(2002).
+RN   [14]
+RP   SUBCELLULAR LOCATION, NUCLEAR EXPORT SIGNAL, MUTAGENESIS OF
+RP   319-LEU--LEU-321 AND 263-LYS-ARG-264, AND INTERACTION WITH XPO1.
+RX   PubMed=15147908; DOI=10.1016/j.febslet.2004.04.042;
+RA   Stedman D.R., Uboha N.V., Stedman T.T., Nairn A.C., Picciotto M.R.;
+RT   "Cytoplasmic localization of calcium/calmodulin-dependent protein kinase I-
+RT   alpha depends on a nuclear export signal in its regulatory domain.";
+RL   FEBS Lett. 566:275-280(2004).
+RN   [15]
+RP   FUNCTION IN AXONAL OUTGROWTH.
+RX   PubMed=15084659; DOI=10.1523/jneurosci.3294-03.2004;
+RA   Wayman G.A., Kaech S., Grant W.F., Davare M., Impey S., Tokumitsu H.,
+RA   Nozaki N., Banker G., Soderling T.R.;
+RT   "Regulation of axonal extension and growth cone motility by calmodulin-
+RT   dependent protein kinase I.";
+RL   J. Neurosci. 24:3786-3794(2004).
+RN   [16]
+RP   FUNCTION IN LONG-TERM POTENTIATION.
+RX   PubMed=15689566; DOI=10.1523/jneurosci.4086-04.2005;
+RA   Schmitt J.M., Guire E.S., Saneyoshi T., Soderling T.R.;
+RT   "Calmodulin-dependent kinase kinase/calmodulin kinase I activity gates
+RT   extracellular-regulated kinase-dependent long-term potentiation.";
+RL   J. Neurosci. 25:1281-1290(2005).
+RN   [17]
+RP   FUNCTION IN PHOSPHORYLATION OF NUMB.
+RX   PubMed=17022975; DOI=10.1016/j.febslet.2006.09.043;
+RA   Tokumitsu H., Hatano N., Yokokura S., Sueyoshi Y., Nozaki N., Kobayashi R.;
+RT   "Phosphorylation of Numb regulates its interaction with the clathrin-
+RT   associated adaptor AP-2.";
+RL   FEBS Lett. 580:5797-5801(2006).
+RN   [18]
+RP   FUNCTION IN DENDRITIC GROWTH.
+RX   PubMed=16772171; DOI=10.1016/j.neuron.2006.05.008;
+RA   Wayman G.A., Impey S., Marks D., Saneyoshi T., Grant W.F., Derkach V.,
+RA   Soderling T.R.;
+RT   "Activity-dependent dendritic arborization mediated by CaM-kinase I
+RT   activation and enhanced CREB-dependent transcription of Wnt-2.";
+RL   Neuron 50:897-909(2006).
+RN   [19]
+RP   FUNCTION IN MEDULLOBLASTOMA CELLS MIGRATION.
+RX   PubMed=21107644; DOI=10.1007/s11060-010-0472-6;
+RA   Davare M.A., Saneyoshi T., Soderling T.R.;
+RT   "Calmodulin-kinases regulate basal and estrogen stimulated medulloblastoma
+RT   migration via Rac1.";
+RL   J. Neurooncol. 104:65-82(2011).
+RN   [20]
+RP   X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS).
+RC   TISSUE=Brain;
+RX   PubMed=8601311; DOI=10.1016/s0092-8674(00)81066-1;
+RA   Goldberg J., Nairn A.C., Kuriyan J.;
+RT   "Structural basis for the autoinhibition of calcium/calmodulin-dependent
+RT   protein kinase I.";
+RL   Cell 84:875-887(1996).
+RN   [21]
+RP   X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS) OF 294-318 IN COMPLEX WITH
+RP   CALMODULIN, AND DOMAIN.
+RX   PubMed=12475216; DOI=10.1021/bi026660t;
+RA   Clapperton J.A., Martin S.R., Smerdon S.J., Gamblin S.J., Bayley P.M.;
+RT   "Structure of the complex of calmodulin with the target sequence of
+RT   calmodulin-dependent protein kinase I: studies of the kinase activation
+RT   mechanism.";
+RL   Biochemistry 41:14669-14679(2002).
+CC   -!- FUNCTION: Calcium/calmodulin-dependent protein kinase that operates in
+CC       the calcium-triggered CaMKK-CaMK1 signaling cascade and, upon calcium
+CC       influx, regulates transcription activators activity, cell cycle,
+CC       hormone production, cell differentiation, actin filament organization
+CC       and neurite outgrowth. Recognizes the substrate consensus sequence
+CC       [MVLIF]-x-R-x(2)-[ST]-x(3)-[MVLIF]. Regulates axonal extension and
+CC       growth cone motility in hippocampal and cerebellar nerve cells. Upon
+CC       NMDA receptor-mediated Ca(2+) elevation, promotes dendritic growth in
+CC       hippocampal neurons and is essential in synapses for full long-term
+CC       potentiation (LTP) and ERK2-dependent translational activation.
+CC       Downstream of NMDA receptors, promotes the formation of spines and
+CC       synapses in hippocampal neurons by phosphorylating ARHGEF7/BETAPIX on
+CC       'Ser-516', which results in the enhancement of ARHGEF7 activity and
+CC       activation of RAC1. Promotes neuronal differentiation and neurite
+CC       outgrowth by activation and phosphorylation of MARK2 on 'Ser-91', 'Ser-
+CC       92', 'Ser-93' and 'Ser-294'. Promotes nuclear export of HDAC5 and
+CC       binding to 14-3-3 by phosphorylation of 'Ser-259' and 'Ser-498' in the
+CC       regulation of muscle cell differentiation (By similarity). Regulates
+CC       NUMB-mediated endocytosis by phosphorylation of NUMB on 'Ser-275' and
+CC       'Ser-294'. Involved in the regulation of basal and estrogen-stimulated
+CC       migration of medulloblastoma cells through ARHGEF7/BETAPIX
+CC       phosphorylation (By similarity). Is required for proper activation of
+CC       cyclin-D1/CDK4 complex during G1 progression in diploid fibroblasts.
+CC       Plays a role in K(+) and ANG2-mediated regulation of the aldosterone
+CC       synthase (CYP11B2) to produce aldosterone in the adrenal cortex.
+CC       Phosphorylates EIF4G3/eIF4GII. In vitro phosphorylates CREB1, ATF1,
+CC       CFTR, MYL9 and SYN1/synapsin I. {ECO:0000250,
+CC       ECO:0000269|PubMed:12081505, ECO:0000269|PubMed:15084659,
+CC       ECO:0000269|PubMed:15689566, ECO:0000269|PubMed:1646483,
+CC       ECO:0000269|PubMed:16772171, ECO:0000269|PubMed:17022975,
+CC       ECO:0000269|PubMed:21107644, ECO:0000269|PubMed:8621702}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=ATP + L-seryl-[protein] = ADP + H(+) + O-phospho-L-seryl-
+CC         [protein]; Xref=Rhea:RHEA:17989, Rhea:RHEA-COMP:9863, Rhea:RHEA-
+CC         COMP:11604, ChEBI:CHEBI:15378, ChEBI:CHEBI:29999, ChEBI:CHEBI:30616,
+CC         ChEBI:CHEBI:83421, ChEBI:CHEBI:456216; EC=2.7.11.17;
+CC         Evidence={ECO:0000269|PubMed:8631893, ECO:0000269|PubMed:8702851};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=ATP + L-threonyl-[protein] = ADP + H(+) + O-phospho-L-
+CC         threonyl-[protein]; Xref=Rhea:RHEA:46608, Rhea:RHEA-COMP:11060,
+CC         Rhea:RHEA-COMP:11605, ChEBI:CHEBI:15378, ChEBI:CHEBI:30013,
+CC         ChEBI:CHEBI:30616, ChEBI:CHEBI:61977, ChEBI:CHEBI:456216;
+CC         EC=2.7.11.17; Evidence={ECO:0000269|PubMed:8631893,
+CC         ECO:0000269|PubMed:8702851};
+CC   -!- ACTIVITY REGULATION: Activated by Ca(2+)/calmodulin. Binding of
+CC       calmodulin results in conformational change that relieves intrasteric
+CC       autoinhibition and allows phosphorylation of Thr-177 within the
+CC       activation loop by CaMKK1 or CaMKK2. Phosphorylation of Thr-177 results
+CC       in several fold increase in total activity. Unlike CaMK4, is unable to
+CC       exhibit autonomous activity after Ca(2+)/calmodulin activation.
+CC       {ECO:0000269|PubMed:8631893, ECO:0000269|PubMed:8702851}.
+CC   -!- SUBUNIT: Monomer. Interacts with XPO1. {ECO:0000269|PubMed:12475216,
+CC       ECO:0000269|PubMed:15147908}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm. Nucleus. Note=Predominantly
+CC       cytoplasmic.
+CC   -!- TISSUE SPECIFICITY: Widely expressed. {ECO:0000269|PubMed:7624832}.
+CC   -!- DOMAIN: The autoinhibitory domain overlaps with the calmodulin binding
+CC       region and interacts in the inactive folded state with the catalytic
+CC       domain as a pseudosubstrate. {ECO:0000269|PubMed:12475216}.
+CC   -!- PTM: Phosphorylated by CaMKK1 and CaMKK2 on Thr-177.
+CC       {ECO:0000269|PubMed:8631893}.
+CC   -!- PTM: Polybiquitinated by the E3 ubiquitin-protein ligase complex
+CC       SCF(FBXL12), leading to proteasomal degradation. {ECO:0000250}.
+CC   -!- MISCELLANEOUS: Dendrite development is blocked in hippocampal neurons
+CC       silencing CAKM1.
+CC   -!- SIMILARITY: Belongs to the protein kinase superfamily. CAMK Ser/Thr
+CC       protein kinase family. CaMK subfamily. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAA19670.1; Type=Frameshift; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; L24907; AAA19670.1; ALT_FRAME; mRNA.
+DR   EMBL; L26288; AAA66944.1; -; mRNA.
+DR   EMBL; BC071177; AAH71177.1; -; mRNA.
+DR   PIR; S50193; S50193.
+DR   RefSeq; NP_604463.1; NM_134468.1.
+DR   RefSeq; XP_006237065.1; XM_006237003.3.
+DR   PDB; 1A06; X-ray; 2.50 A; A=1-329.
+DR   PDB; 1MXE; X-ray; 1.70 A; E/F=294-318.
+DR   PDB; 2L7L; NMR; -; B=299-320.
+DR   PDBsum; 1A06; -.
+DR   PDBsum; 1MXE; -.
+DR   PDBsum; 2L7L; -.
+DR   AlphaFoldDB; Q63450; -.
+DR   BMRB; Q63450; -.
+DR   SMR; Q63450; -.
+DR   BioGRID; 251279; 4.
+DR   IntAct; Q63450; 5.
+DR   MINT; Q63450; -.
+DR   STRING; 10116.ENSRNOP00000033456; -.
+DR   iPTMnet; Q63450; -.
+DR   PhosphoSitePlus; Q63450; -.
+DR   jPOST; Q63450; -.
+DR   PaxDb; Q63450; -.
+DR   PRIDE; Q63450; -.
+DR   GeneID; 171503; -.
+DR   KEGG; rno:171503; -.
+DR   UCSC; RGD:629473; rat.
+DR   CTD; 8536; -.
+DR   RGD; 629473; Camk1.
+DR   VEuPathDB; HostDB:ENSRNOG00000021781; -.
+DR   eggNOG; KOG0032; Eukaryota.
+DR   HOGENOM; CLU_000288_63_0_1; -.
+DR   InParanoid; Q63450; -.
+DR   OMA; RPKVQPC; -.
+DR   OrthoDB; 330091at2759; -.
+DR   PhylomeDB; Q63450; -.
+DR   BRENDA; 2.7.11.17; 5301.
+DR   Reactome; R-RNO-9619229; Activation of RAC1 downstream of NMDARs.
+DR   EvolutionaryTrace; Q63450; -.
+DR   PRO; PR:Q63450; -.
+DR   Proteomes; UP000002494; Chromosome 4.
+DR   Bgee; ENSRNOG00000021781; Expressed in frontal cortex and 19 other tissues.
+DR   Genevisible; Q63450; RN.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0098978; C:glutamatergic synapse; IDA:SynGO.
+DR   GO; GO:0005634; C:nucleus; IEA:UniProtKB-SubCell.
+DR   GO; GO:0014069; C:postsynaptic density; IDA:SynGO.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0005516; F:calmodulin binding; IBA:GO_Central.
+DR   GO; GO:0004683; F:calmodulin-dependent protein kinase activity; IDA:UniProtKB.
+DR   GO; GO:0106310; F:protein serine kinase activity; IEA:RHEA.
+DR   GO; GO:0007049; P:cell cycle; IEA:UniProtKB-KW.
+DR   GO; GO:0030154; P:cell differentiation; IEA:UniProtKB-KW.
+DR   GO; GO:0032091; P:negative regulation of protein binding; ISO:RGD.
+DR   GO; GO:0007399; P:nervous system development; IEA:UniProtKB-KW.
+DR   GO; GO:0006913; P:nucleocytoplasmic transport; ISO:RGD.
+DR   GO; GO:0018105; P:peptidyl-serine phosphorylation; IBA:GO_Central.
+DR   GO; GO:0060999; P:positive regulation of dendritic spine development; ISS:UniProtKB.
+DR   GO; GO:0051149; P:positive regulation of muscle cell differentiation; ISO:RGD.
+DR   GO; GO:0010976; P:positive regulation of neuron projection development; ISS:UniProtKB.
+DR   GO; GO:0033138; P:positive regulation of peptidyl-serine phosphorylation; ISO:RGD.
+DR   GO; GO:1901985; P:positive regulation of protein acetylation; ISO:RGD.
+DR   GO; GO:0046827; P:positive regulation of protein export from nucleus; ISO:RGD.
+DR   GO; GO:0071902; P:positive regulation of protein serine/threonine kinase activity; ISS:UniProtKB.
+DR   GO; GO:0051835; P:positive regulation of synapse structural plasticity; ISS:UniProtKB.
+DR   GO; GO:0060143; P:positive regulation of syncytium formation by plasma membrane fusion; ISO:RGD.
+DR   GO; GO:0045944; P:positive regulation of transcription by RNA polymerase II; ISO:RGD.
+DR   GO; GO:0006468; P:protein phosphorylation; ISS:UniProtKB.
+DR   GO; GO:0051147; P:regulation of muscle cell differentiation; ISS:UniProtKB.
+DR   GO; GO:0043393; P:regulation of protein binding; ISS:UniProtKB.
+DR   GO; GO:0032880; P:regulation of protein localization; ISS:UniProtKB.
+DR   GO; GO:0050807; P:regulation of synapse organization; IDA:SynGO.
+DR   GO; GO:0007165; P:signal transduction; ISO:RGD.
+DR   DisProt; DP01958; -.
+DR   IDEAL; IID50054; -.
+DR   InterPro; IPR011009; Kinase-like_dom_sf.
+DR   InterPro; IPR000719; Prot_kinase_dom.
+DR   InterPro; IPR017441; Protein_kinase_ATP_BS.
+DR   InterPro; IPR008271; Ser/Thr_kinase_AS.
+DR   Pfam; PF00069; Pkinase; 1.
+DR   SMART; SM00220; S_TKc; 1.
+DR   SUPFAM; SSF56112; SSF56112; 1.
+DR   PROSITE; PS00107; PROTEIN_KINASE_ATP; 1.
+DR   PROSITE; PS50011; PROTEIN_KINASE_DOM; 1.
+DR   PROSITE; PS00108; PROTEIN_KINASE_ST; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Allosteric enzyme; ATP-binding; Calmodulin-binding;
+KW   Cell cycle; Cytoplasm; Developmental protein; Differentiation;
+KW   Direct protein sequencing; Isopeptide bond; Kinase; Neurogenesis;
+KW   Nucleotide-binding; Nucleus; Phosphoprotein; Reference proteome;
+KW   Serine/threonine-protein kinase; Transferase; Ubl conjugation.
+FT   CHAIN           1..374
+FT                   /note="Calcium/calmodulin-dependent protein kinase type 1"
+FT                   /id="PRO_0000086078"
+FT   DOMAIN          20..276
+FT                   /note="Protein kinase"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00159"
+FT   REGION          276..316
+FT                   /note="Autoinhibitory domain"
+FT                   /evidence="ECO:0000269|PubMed:8601311,
+FT                   ECO:0007744|PDB:1A06"
+FT   REGION          296..317
+FT                   /note="Calmodulin-binding"
+FT                   /evidence="ECO:0000269|PubMed:12475216,
+FT                   ECO:0007744|PDB:1MXE, ECO:0007744|PDB:2L7L"
+FT   MOTIF           263..264
+FT                   /note="Involved in nuclear import"
+FT                   /evidence="ECO:0000305"
+FT   MOTIF           315..321
+FT                   /note="Nuclear export signal"
+FT   ACT_SITE        141
+FT                   /note="Proton acceptor"
+FT   BINDING         26..34
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00159"
+FT   BINDING         49
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00159"
+FT   MOD_RES         177
+FT                   /note="Phosphothreonine; by CaMKK1 and CaMKK2"
+FT                   /evidence="ECO:0000269|PubMed:8631893"
+FT   CROSSLNK        59
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in ubiquitin)"
+FT                   /evidence="ECO:0000250|UniProtKB:Q14012"
+FT   MUTAGEN         177
+FT                   /note="T->A: Loss of activation by CaMKK1 and CaMKK2."
+FT                   /evidence="ECO:0000269|PubMed:8631893"
+FT   MUTAGEN         263..264
+FT                   /note="KR->AA: Partially excluded from the nucleus; when
+FT                   associated with 319-AQA-321."
+FT                   /evidence="ECO:0000269|PubMed:15147908"
+FT   MUTAGEN         319..321
+FT                   /note="LQL->AQA: Retention in the nucleus. Partially
+FT                   excluded from the nucleus; when associated with
+FT                   263-AA-264."
+FT                   /evidence="ECO:0000269|PubMed:15147908"
+FT   CONFLICT        37
+FT                   /note="A -> T (in Ref. 5; AA sequence)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        112
+FT                   /note="F -> G (in Ref. 1; AAA19670)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        118
+FT                   /note="A -> R (in Ref. 1; AAA19670)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        239
+FT                   /note="S -> V (in Ref. 5; AA sequence)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        309
+FT                   /note="A -> R (in Ref. 1; AAA19670)"
+FT                   /evidence="ECO:0000305"
+FT   HELIX           16..18
+FT                   /evidence="ECO:0007829|PDB:1A06"
+FT   STRAND          20..28
+FT                   /evidence="ECO:0007829|PDB:1A06"
+FT   HELIX           29..33
+FT                   /evidence="ECO:0007829|PDB:1A06"
+FT   STRAND          34..39
+FT                   /evidence="ECO:0007829|PDB:1A06"
+FT   TURN            40..42
+FT                   /evidence="ECO:0007829|PDB:1A06"
+FT   STRAND          45..52
+FT                   /evidence="ECO:0007829|PDB:1A06"
+FT   HELIX           65..71
+FT                   /evidence="ECO:0007829|PDB:1A06"
+FT   STRAND          81..86
+FT                   /evidence="ECO:0007829|PDB:1A06"
+FT   STRAND          88..95
+FT                   /evidence="ECO:0007829|PDB:1A06"
+FT   HELIX           103..108
+FT                   /evidence="ECO:0007829|PDB:1A06"
+FT   HELIX           115..134
+FT                   /evidence="ECO:0007829|PDB:1A06"
+FT   HELIX           144..146
+FT                   /evidence="ECO:0007829|PDB:1A06"
+FT   STRAND          147..153
+FT                   /evidence="ECO:0007829|PDB:1A06"
+FT   STRAND          158..160
+FT                   /evidence="ECO:0007829|PDB:1A06"
+FT   HELIX           187..190
+FT                   /evidence="ECO:0007829|PDB:1A06"
+FT   HELIX           198..213
+FT                   /evidence="ECO:0007829|PDB:1A06"
+FT   HELIX           223..231
+FT                   /evidence="ECO:0007829|PDB:1A06"
+FT   TURN            239..244
+FT                   /evidence="ECO:0007829|PDB:1A06"
+FT   HELIX           247..256
+FT                   /evidence="ECO:0007829|PDB:1A06"
+FT   HELIX           261..263
+FT                   /evidence="ECO:0007829|PDB:1A06"
+FT   HELIX           267..272
+FT                   /evidence="ECO:0007829|PDB:1A06"
+FT   TURN            274..276
+FT                   /evidence="ECO:0007829|PDB:1A06"
+FT   STRAND          277..279
+FT                   /evidence="ECO:0007829|PDB:1A06"
+FT   HELIX           287..297
+FT                   /evidence="ECO:0007829|PDB:1A06"
+FT   HELIX           298..317
+FT                   /evidence="ECO:0007829|PDB:1MXE"
+SQ   SEQUENCE   374 AA;  41638 MW;  37889B3DEF033AB2 CRC64;
+     MPGAVEGPRW KQAEDIRDIY DFRDVLGTGA FSEVILAEDK RTQKLVAIKC IAKKALEGKE
+     GSMENEIAVL HKIKHPNIVA LDDIYESGGH LYLIMQLVSG GELFDRIVEK GFYTERDASR
+     LIFQVLDAVK YLHDLGIVHR DLKPENLLYY SLDEDSKIMI SDFGLSKMED PGSVLSTACG
+     TPGYVAPEVL AQKPYSKAVD CWSIGVIAYI LLCGYPPFYD ENDAKLFEQI LKAEYEFDSP
+     YWDDISDSAK DFIRHLMEKD PEKRFTCEQA LQHPWIAGDT ALDKNIHQSV SEQIKKNFAK
+     SKWKQAFNAT AVVRHMRKLQ LGTSQEGQGQ TASHGELLTP TAGGPAAGCC CRDCCVEPGS
+     ELPPAPPPSS RAMD
+//

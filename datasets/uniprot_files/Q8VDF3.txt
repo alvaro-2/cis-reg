@@ -1,0 +1,366 @@
+ID   DAPK2_MOUSE             Reviewed;         370 AA.
+AC   Q8VDF3; O88861; Q9QYM4;
+DT   28-NOV-2003, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAR-2002, sequence version 1.
+DT   03-AUG-2022, entry version 162.
+DE   RecName: Full=Death-associated protein kinase 2;
+DE            Short=DAP kinase 2;
+DE            EC=2.7.11.1 {ECO:0000250|UniProtKB:Q9UIK4};
+DE   AltName: Full=DAP-kinase-related protein 1;
+DE            Short=DRP-1;
+GN   Name=Dapk2;
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha; Muroidea; Muridae;
+OC   Murinae; Mus; Mus.
+OX   NCBI_TaxID=10090 {ECO:0000312|EMBL:AAH22165.1};
+RN   [1] {ECO:0000312|EMBL:BAA88064.1}
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=10376525; DOI=10.1038/sj.onc.1202701;
+RA   Kawai T., Nomura F., Hoshino K., Copeland N.G., Gilbert D.J., Jenkins N.A.,
+RA   Akira S.;
+RT   "Death-associated protein kinase 2 is a new calcium/calmodulin-dependent
+RT   protein kinase that signals apoptosis through its catalytic activity.";
+RL   Oncogene 18:3471-3480(1999).
+RN   [2] {ECO:0000305}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [3] {ECO:0000305}
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 68-370.
+RX   PubMed=10629061; DOI=10.1128/mcb.20.3.1044-1054.2000;
+RA   Inbal B., Shani G., Cohen O., Kissil J.L., Kimchi A.;
+RT   "Death-associated protein kinase-related protein 1, a novel
+RT   serine/threonine kinase involved in apoptosis.";
+RL   Mol. Cell. Biol. 20:1044-1054(2000).
+RN   [4]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-299 AND SER-349, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=17242355; DOI=10.1073/pnas.0609836104;
+RA   Villen J., Beausoleil S.A., Gerber S.A., Gygi S.P.;
+RT   "Large-scale phosphorylation analysis of mouse liver.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 104:1488-1493(2007).
+RN   [5]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-299 AND SER-349, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Brain, Brown adipose tissue, Heart, Kidney, Liver, Lung,
+RC   Pancreas, Spleen, and Testis;
+RX   PubMed=21183079; DOI=10.1016/j.cell.2010.12.001;
+RA   Huttlin E.L., Jedrychowski M.P., Elias J.E., Goswami T., Rad R.,
+RA   Beausoleil S.A., Villen J., Haas W., Sowa M.E., Gygi S.P.;
+RT   "A tissue-specific atlas of mouse protein phosphorylation and expression.";
+RL   Cell 143:1174-1189(2010).
+RN   [6]
+RP   ALTERNATIVE SPLICING (ISOFORM 2), AND TISSUE SPECIFICITY.
+RX   PubMed=21408167; DOI=10.1371/journal.pone.0017344;
+RA   Shoval Y., Berissi H., Kimchi A., Pietrokovski S.;
+RT   "New modularity of DAP-kinases: alternative splicing of the DRP-1 gene
+RT   produces a ZIPk-like isoform.";
+RL   PLoS ONE 6:E17344-E17344(2011).
+RN   [7]
+RP   INTERACTION WITH 14-3-3 PROTEINS.
+RX   PubMed=26047703; DOI=10.1016/j.bbrc.2015.05.105;
+RA   Yuasa K., Ota R., Matsuda S., Isshiki K., Inoue M., Tsuji A.;
+RT   "Suppression of death-associated protein kinase 2 by interaction with 14-3-
+RT   3 proteins.";
+RL   Biochem. Biophys. Res. Commun. 464:70-75(2015).
+RN   [8]
+RP   X-RAY CRYSTALLOGRAPHY (1.90 ANGSTROMS) OF 11-370 IN COMPLEX WITH AMP AND
+RP   ATP, SUBUNIT, ACTIVITY REGULATION, AND AUTOINHIBITORY DOMAIN.
+RX   PubMed=21497605; DOI=10.1016/j.jmb.2011.03.065;
+RA   Patel A.K., Yadav R.P., Majava V., Kursula I., Kursula P.;
+RT   "Structure of the dimeric autoinhibited conformation of DAPK2, a pro-
+RT   apoptotic protein kinase.";
+RL   J. Mol. Biol. 409:369-383(2011).
+RN   [9]
+RP   DISRUPTION PHENOTYPE, AND TISSUE SPECIFICITY.
+RX   PubMed=24906443; DOI=10.1186/1756-0500-7-345;
+RA   Guay J.A., Wojchowski D.M., Fang J., Oxburgh L.;
+RT   "Death associated protein kinase 2 is expressed in cortical interstitial
+RT   cells of the mouse kidney.";
+RL   BMC Res. Notes 7:345-345(2014).
+RN   [10]
+RP   FUNCTION.
+RX   PubMed=24163421; DOI=10.1189/jlb.0813462;
+RA   Geering B., Stoeckle C., Rozman S., Oberson K., Benarafa C., Simon H.U.;
+RT   "DAPK2 positively regulates motility of neutrophils and eosinophils in
+RT   response to intermediary chemoattractants.";
+RL   J. Leukoc. Biol. 95:293-303(2014).
+CC   -!- FUNCTION: Calcium/calmodulin-dependent serine/threonine kinase involved
+CC       in multiple cellular signaling pathways that trigger cell survival,
+CC       apoptosis, and autophagy. Capable of regulating both type I apoptotic
+CC       and type II autophagic cell death signals. The former involves caspase
+CC       activation, chromatin and mitochondrial condensation while the latter
+CC       involves caspase-independent cell death in conjunction with
+CC       accumulation of mature autophagic vesicles, plasma membrane blebs, and
+CC       nuclear condensation without DNA degradation. Mediator of anoikis and a
+CC       suppressor of beta-catenin-dependent anchorage-independent growth of
+CC       malignant epithelial cells. May play a role in granulocytic maturation
+CC       (By similarity). Regulates granulocytes motility by controlling cell
+CC       spreading and polarization (PubMed:24163421).
+CC       {ECO:0000250|UniProtKB:Q9UIK4, ECO:0000269|PubMed:24163421}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=ATP + L-seryl-[protein] = ADP + H(+) + O-phospho-L-seryl-
+CC         [protein]; Xref=Rhea:RHEA:17989, Rhea:RHEA-COMP:9863, Rhea:RHEA-
+CC         COMP:11604, ChEBI:CHEBI:15378, ChEBI:CHEBI:29999, ChEBI:CHEBI:30616,
+CC         ChEBI:CHEBI:83421, ChEBI:CHEBI:456216; EC=2.7.11.1;
+CC         Evidence={ECO:0000250|UniProtKB:Q9UIK4};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=ATP + L-threonyl-[protein] = ADP + H(+) + O-phospho-L-
+CC         threonyl-[protein]; Xref=Rhea:RHEA:46608, Rhea:RHEA-COMP:11060,
+CC         Rhea:RHEA-COMP:11605, ChEBI:CHEBI:15378, ChEBI:CHEBI:30013,
+CC         ChEBI:CHEBI:30616, ChEBI:CHEBI:61977, ChEBI:CHEBI:456216;
+CC         EC=2.7.11.1; Evidence={ECO:0000250|UniProtKB:Q9UIK4};
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000250|UniProtKB:P53355};
+CC   -!- ACTIVITY REGULATION: Activated by Ca(2+)/calmodulin. Regulated by a
+CC       double locking mechanism, involving autophosphorylation at Ser-318,
+CC       calmodulin binding, and dimerization. In the inactive state, Ser-318 is
+CC       phosphorylated, and the kinase is dimeric. Activation involves:
+CC       dephosphorylation at Ser-318, release-of-autoinhibition mechanism where
+CC       calmodulin binding induces a conformational change that relieves the
+CC       steric block of the active site by the autoinhibitory domain, and
+CC       generation of the monomeric active form of the kinase.
+CC       {ECO:0000269|PubMed:21497605}.
+CC   -!- SUBUNIT: Homodimer in its autoinhibited state. Active as monomer.
+CC       Interacts with 14-3-3 proteins YWHAB, YWHAE, YWHAG, YWHAH, YWHAQ, YWHAZ
+CC       and SFN; the interaction requires DAPK2 phosphorylation at Thr-369 and
+CC       suppresses DAPK2 kinase activity and DAPK2-induced apoptosis.
+CC       {ECO:0000269|PubMed:21497605, ECO:0000269|PubMed:26047703}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250}. Cytoplasmic vesicle,
+CC       autophagosome lumen {ECO:0000250}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1; Synonyms=Alpha;
+CC         IsoId=Q8VDF3-1; Sequence=Displayed;
+CC       Name=2; Synonyms=Beta;
+CC         IsoId=Q8VDF3-2; Sequence=VSP_042058;
+CC   -!- TISSUE SPECIFICITY: Expressed in peritubular interstitial cells of the
+CC       renal cortex (PubMed:24906443). Isoform 1 is found in the adult brain
+CC       while isoform 2 is expressed in brains of embryos and young mice (at
+CC       protein level) (PubMed:21408167). {ECO:0000269|PubMed:21408167,
+CC       ECO:0000269|PubMed:24906443}.
+CC   -!- DOMAIN: The autoinhibitory domain sterically blocks the substrate
+CC       peptide-binding site by making both hydrophobic and electrostatic
+CC       contacts with the kinase core.
+CC   -!- PTM: Autophosphorylation at Ser-318 inhibits its catalytic activity.
+CC       Dephosphorylated at Ser-318 in response to activated Fas and TNF-alpha
+CC       receptors. {ECO:0000250|UniProtKB:Q9UIK4}.
+CC   -!- DISRUPTION PHENOTYPE: No visible phenotype.
+CC       {ECO:0000269|PubMed:24906443}.
+CC   -!- SIMILARITY: Belongs to the protein kinase superfamily. CAMK Ser/Thr
+CC       protein kinase family. DAP kinase subfamily. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AB018002; BAA88064.1; -; mRNA.
+DR   EMBL; BC022165; AAH22165.1; -; mRNA.
+DR   EMBL; AF052942; AAC35002.1; -; mRNA.
+DR   CCDS; CCDS23303.1; -. [Q8VDF3-1]
+DR   RefSeq; NP_034149.2; NM_010019.3. [Q8VDF3-1]
+DR   PDB; 2YA9; X-ray; 2.30 A; A/B=11-370.
+DR   PDB; 2YAA; X-ray; 2.30 A; A/B=11-370.
+DR   PDB; 2YAB; X-ray; 1.90 A; A/B=11-370.
+DR   PDBsum; 2YA9; -.
+DR   PDBsum; 2YAA; -.
+DR   PDBsum; 2YAB; -.
+DR   AlphaFoldDB; Q8VDF3; -.
+DR   SMR; Q8VDF3; -.
+DR   BioGRID; 199051; 1.
+DR   STRING; 10090.ENSMUSP00000034944; -.
+DR   iPTMnet; Q8VDF3; -.
+DR   PhosphoSitePlus; Q8VDF3; -.
+DR   EPD; Q8VDF3; -.
+DR   MaxQB; Q8VDF3; -.
+DR   PaxDb; Q8VDF3; -.
+DR   PRIDE; Q8VDF3; -.
+DR   ProteomicsDB; 279821; -. [Q8VDF3-1]
+DR   ProteomicsDB; 279822; -. [Q8VDF3-2]
+DR   Antibodypedia; 13340; 633 antibodies from 42 providers.
+DR   DNASU; 13143; -.
+DR   Ensembl; ENSMUST00000034944; ENSMUSP00000034944; ENSMUSG00000032380. [Q8VDF3-1]
+DR   GeneID; 13143; -.
+DR   KEGG; mmu:13143; -.
+DR   UCSC; uc009qen.2; mouse. [Q8VDF3-1]
+DR   CTD; 23604; -.
+DR   MGI; MGI:1341297; Dapk2.
+DR   VEuPathDB; HostDB:ENSMUSG00000032380; -.
+DR   eggNOG; KOG0032; Eukaryota.
+DR   GeneTree; ENSGT00940000153424; -.
+DR   HOGENOM; CLU_000288_63_0_1; -.
+DR   InParanoid; Q8VDF3; -.
+DR   OMA; NLRNCES; -.
+DR   OrthoDB; 813445at2759; -.
+DR   PhylomeDB; Q8VDF3; -.
+DR   TreeFam; TF314166; -.
+DR   BioGRID-ORCS; 13143; 1 hit in 76 CRISPR screens.
+DR   EvolutionaryTrace; Q8VDF3; -.
+DR   PRO; PR:Q8VDF3; -.
+DR   Proteomes; UP000000589; Chromosome 9.
+DR   RNAct; Q8VDF3; protein.
+DR   Bgee; ENSMUSG00000032380; Expressed in hindlimb stylopod muscle and 164 other tissues.
+DR   ExpressionAtlas; Q8VDF3; baseline and differential.
+DR   Genevisible; Q8VDF3; MM.
+DR   GO; GO:0034423; C:autophagosome lumen; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005737; C:cytoplasm; ISS:UniProtKB.
+DR   GO; GO:0031410; C:cytoplasmic vesicle; IEA:UniProtKB-KW.
+DR   GO; GO:0005794; C:Golgi apparatus; ISO:MGI.
+DR   GO; GO:0043231; C:intracellular membrane-bounded organelle; ISO:MGI.
+DR   GO; GO:0005634; C:nucleus; IBA:GO_Central.
+DR   GO; GO:0005524; F:ATP binding; ISS:UniProtKB.
+DR   GO; GO:0005516; F:calmodulin binding; ISS:UniProtKB.
+DR   GO; GO:0042802; F:identical protein binding; ISO:MGI.
+DR   GO; GO:0106310; F:protein serine kinase activity; IEA:RHEA.
+DR   GO; GO:0004674; F:protein serine/threonine kinase activity; IBA:GO_Central.
+DR   GO; GO:0043276; P:anoikis; ISO:MGI.
+DR   GO; GO:0035556; P:intracellular signal transduction; ISS:UniProtKB.
+DR   GO; GO:1990266; P:neutrophil migration; IMP:UniProtKB.
+DR   GO; GO:0043065; P:positive regulation of apoptotic process; IBA:GO_Central.
+DR   GO; GO:2000424; P:positive regulation of eosinophil chemotaxis; ISO:MGI.
+DR   GO; GO:0090023; P:positive regulation of neutrophil chemotaxis; ISO:MGI.
+DR   GO; GO:0006468; P:protein phosphorylation; ISS:UniProtKB.
+DR   GO; GO:2001242; P:regulation of intrinsic apoptotic signaling pathway; ISS:UniProtKB.
+DR   InterPro; IPR011009; Kinase-like_dom_sf.
+DR   InterPro; IPR000719; Prot_kinase_dom.
+DR   InterPro; IPR017441; Protein_kinase_ATP_BS.
+DR   InterPro; IPR008271; Ser/Thr_kinase_AS.
+DR   Pfam; PF00069; Pkinase; 1.
+DR   SMART; SM00220; S_TKc; 1.
+DR   SUPFAM; SSF56112; SSF56112; 1.
+DR   PROSITE; PS00107; PROTEIN_KINASE_ATP; 1.
+DR   PROSITE; PS50011; PROTEIN_KINASE_DOM; 1.
+DR   PROSITE; PS00108; PROTEIN_KINASE_ST; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Apoptosis; ATP-binding;
+KW   Calmodulin-binding; Cytoplasm; Cytoplasmic vesicle; Kinase;
+KW   Nucleotide-binding; Phosphoprotein; Reference proteome;
+KW   Serine/threonine-protein kinase; Transferase.
+FT   CHAIN           1..370
+FT                   /note="Death-associated protein kinase 2"
+FT                   /id="PRO_0000085913"
+FT   DOMAIN          23..285
+FT                   /note="Protein kinase"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00159"
+FT   REGION          287..354
+FT                   /note="Calmodulin-binding"
+FT                   /evidence="ECO:0000250"
+FT   REGION          292..301
+FT                   /note="Autoinhibitory domain"
+FT   ACT_SITE        149
+FT                   /note="Proton acceptor"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00159,
+FT                   ECO:0000255|PROSITE-ProRule:PRU10027"
+FT   BINDING         29..37
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00159,
+FT                   ECO:0000269|PubMed:21497605"
+FT   BINDING         52
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00159,
+FT                   ECO:0000269|PubMed:21497605"
+FT   MOD_RES         299
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:17242355,
+FT                   ECO:0007744|PubMed:21183079"
+FT   MOD_RES         318
+FT                   /note="Phosphoserine; by autocatalysis"
+FT                   /evidence="ECO:0000250|UniProtKB:Q9UIK4"
+FT   MOD_RES         349
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:17242355,
+FT                   ECO:0007744|PubMed:21183079"
+FT   MOD_RES         369
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q9UIK4"
+FT   VAR_SEQ         286..370
+FT                   /note="TPVDTQQAMVRRESVVNLENFKKQYVRRRWKLSFSIVSLCNHLTRSLMKKVH
+FT                   LRTSEDLRNCESDTEENIARRKALHPRRRSSTS -> SKGEARAPEQWKAQPAQLKTKR
+FT                   LREYTLKCHSSMPPNNTYVNFERFAHVVEDVARVDKGCRALAGAHDTLQDDVESLVSIY
+FT                   NEKEAWYREENENARHNLSQLKYEYRKVESLKKLLREDIQATGASLGGVARKLDHLQAQ
+FT                   FETLRQQLSADIQWMQELVGIFQLESENTDSHSLGFMFHRDPSESLSELLNRSHAEEVL
+FT                   AGLSL (in isoform 2)"
+FT                   /evidence="ECO:0000305"
+FT                   /id="VSP_042058"
+FT   CONFLICT        89
+FT                   /note="L -> R (in Ref. 3; AAC35002)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        90
+FT                   /note="H -> Q (in Ref. 1; BAA88064)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        270
+FT                   /note="T -> P (in Ref. 3; AAC35002)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        341
+FT                   /note="S -> I (in Ref. 3; AAC35002)"
+FT                   /evidence="ECO:0000305"
+FT   HELIX           19..21
+FT                   /evidence="ECO:0007829|PDB:2YAB"
+FT   STRAND          23..32
+FT                   /evidence="ECO:0007829|PDB:2YAB"
+FT   STRAND          35..42
+FT                   /evidence="ECO:0007829|PDB:2YAB"
+FT   TURN            43..45
+FT                   /evidence="ECO:0007829|PDB:2YAB"
+FT   STRAND          48..56
+FT                   /evidence="ECO:0007829|PDB:2YAB"
+FT   STRAND          59..61
+FT                   /evidence="ECO:0007829|PDB:2YA9"
+FT   STRAND          63..66
+FT                   /evidence="ECO:0007829|PDB:2YAB"
+FT   HELIX           68..78
+FT                   /evidence="ECO:0007829|PDB:2YAB"
+FT   STRAND          89..94
+FT                   /evidence="ECO:0007829|PDB:2YAB"
+FT   STRAND          96..104
+FT                   /evidence="ECO:0007829|PDB:2YAB"
+FT   HELIX           111..115
+FT                   /evidence="ECO:0007829|PDB:2YAB"
+FT   HELIX           123..142
+FT                   /evidence="ECO:0007829|PDB:2YAB"
+FT   HELIX           152..154
+FT                   /evidence="ECO:0007829|PDB:2YAB"
+FT   STRAND          155..158
+FT                   /evidence="ECO:0007829|PDB:2YAB"
+FT   STRAND          162..164
+FT                   /evidence="ECO:0007829|PDB:2YAB"
+FT   STRAND          167..169
+FT                   /evidence="ECO:0007829|PDB:2YAB"
+FT   HELIX           191..193
+FT                   /evidence="ECO:0007829|PDB:2YAB"
+FT   HELIX           196..199
+FT                   /evidence="ECO:0007829|PDB:2YAB"
+FT   HELIX           207..222
+FT                   /evidence="ECO:0007829|PDB:2YAB"
+FT   HELIX           232..240
+FT                   /evidence="ECO:0007829|PDB:2YAB"
+FT   HELIX           248..251
+FT                   /evidence="ECO:0007829|PDB:2YAB"
+FT   HELIX           256..265
+FT                   /evidence="ECO:0007829|PDB:2YAB"
+FT   TURN            270..272
+FT                   /evidence="ECO:0007829|PDB:2YAB"
+FT   HELIX           276..280
+FT                   /evidence="ECO:0007829|PDB:2YAB"
+FT   TURN            283..285
+FT                   /evidence="ECO:0007829|PDB:2YAB"
+FT   HELIX           290..297
+FT                   /evidence="ECO:0007829|PDB:2YAB"
+FT   HELIX           303..309
+FT                   /evidence="ECO:0007829|PDB:2YAB"
+SQ   SEQUENCE   370 AA;  42778 MW;  7BF8577140B5F883 CRC64;
+     MVQASMRSPN METFKQQKVE DFYDIGEELG SGQFAIVKKC REKSTGLEYA AKFIKKRQSR
+     ASRRGVCREE IEREVSILRQ VLHPNIITLH DVYENRTDVV LILELVSGGE LFDFLAQKES
+     LSEEEATSFI KQILDGVNYL HTKKIAHFDL KPENIMLLDK NIPIPHIKLI DFGLAHEIED
+     GVEFKNIFGT PEFVAPEIVN YEPLGLEADM WSIGVITYIL LSGASPFLGD TKQETLANIT
+     AVSYDFDEEF FSQTSELAKD FIRKLLVKET RKRLTIQEAL RHPWITPVDT QQAMVRRESV
+     VNLENFKKQY VRRRWKLSFS IVSLCNHLTR SLMKKVHLRT SEDLRNCESD TEENIARRKA
+     LHPRRRSSTS
+//

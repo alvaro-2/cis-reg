@@ -1,0 +1,303 @@
+Uniprot	Organism	CRE (start)	CRE (end)	CRE (S or D)	Length	KD (start)	KD (end)	PDB ID	PDB Res (Å)	AF	Status
+A0A2I0BVG8	P. falciparum (isolate NF54)	346	353	no		56	325	no	no	AF-A0A2I0BVG8-F1	new
+A0A509AFG4	P. berghei (strain Anka)	385	393	no		110	365	no	no	AF-A0A509AFG4-F1	new
+A0A509AHB6	P. berghei (strain Anka)	345	352	no		57	324	no	no	AF-A0A509AHB6-F1	new
+A0A509AKL0	P. berghei (strain Anka)	1	33	no		545	802	no	no	AF-A0A509AKL0-F1	new
+A0A509AQE6	P. berghei (strain Anka)	394	402	no		118	372	no	no	AF-A0A509AQE6-F1	new
+A0A5K1K8H0	P. falciparum (isolate 3D7)	400	408	no		125	379	no	no	AF-A0A5K1K8H0-F1	new
+A2ZVI7	O. sativa subsp. japonica	330	360	no		66	324	no	no	AF-A2ZVI7-F1	new
+A5A7I7	S. tuberosum	358	388	no		94	352	no	no	AF-A5A7I7-F1	new
+A5A7I8	S. tuberosum	336	366	no		72	330	no	no	AF-A5A7I8-F1	new
+A5K0N4	P. vivax (strain Salvador I)	1	22	no		534	791	5DYL	2.40	AF-A5K0N4-F1	new
+A5K0N4	P. vivax (strain Salvador I)	1	22	no		534	791	5DZC	2.30	AF-A5K0N4-F1	new
+A8KAM8	H. sapiens	1006	1106	D		600	962	no 	no 	AF-A8KAM8-F1	known
+A8X6H4	C. briggsae	278	318	no		22	278	no	no	AF-A8X6H4-F1	new
+B9FKW9	O. sativa subsp. japonica	332	362	no		68	326	no	no	AF-B9FKW9-F1	new
+F1QGZ6	D. rerio	328	673	no		13	265	no	no	AF-F1QGZ6-F1	new
+O14757	H. sapiens	391	476	no		9	265	5WI2	2.50	AF-O14757-F1	new
+O15146	H. sapiens	533	566	S		575	856	no 	no 	AF-O15146-F1	known
+O15865	P. falciparum (isolate K1 / Thailand)	345	353	no		72	326	4MVF	2.00	AF-O15865-F1	new
+O35280	M. musculus	391	476	no		9	265	no	no	AF-O35280-F1	new
+O43318	H. sapiens	1	22	D		36	291	no 	no 	AF-O43318-F1	known
+O49717	A. thaliana	365	395	no		102	360	no	no	AF-O49717-F1	new
+O74536	S. pombe	305	351	S		34	285	3H4J	2.80	AF-O74536-F1	known
+O75582	H. sapiens	702	723	S		49	318	1VZO	1.80	AF-O75582-F1	known
+O75582	H. sapiens	702	723	S		426	687	3KN6	2.00	AF-O75582-F1	known
+O75676	H. sapiens	689	703	D		33	301	no 	no 	AF-O75676-F1	known
+O75676	H. sapiens	689	703	D		411	674	no 	no 	AF-O75676-F1	known
+O75914	H. sapiens	65	150	no		283	534	no	no	AF-O75914-F1	new
+O76360	C. elegans	1	170	D		469	729	no 	no 	AF-O76360-F1	known
+O77676	O. cuniculus	50	75	no		360	619	no	no	AF-O77676-F1	new
+O77708	O. cuniculus	283	292	no		14	272	no	no	AF-O77708-F1	new
+O80673	A. thaliana	390	420	no		123	385	no	no	AF-O80673-F1	new
+O88643	M. musculus	70	140	no		270	521	no	no	AF-O88643-F1	new
+O88831	R. norvegicus	471	476	no		164	445	no	no	AF-O88831-F1	new
+O95382	H. sapiens	1	637	S		648	906	no 	no 	AF-O95382-F1	known
+O96013	H. sapiens	1	130	D		321	572	5UPL	3.00	AF-O96013-F1	known
+O97143	D. melanogaster	318	380	D		14	267	no 	no 	AF-O97143-F1	known
+P00516	B. taurus	50	75	no		360	619	no	no	AF-P00516-F1	new
+P00519	H. sapiens	2	14	S		242	493	no 	no 	AF-P00519-F1	known
+P00519	H. sapiens	61	233	S		242	493	5MO4	2.17	AF-P00519-F1	known
+P00523	G. gallus	88	248	D		267	520	2PTK	2.35	AF-P00523-F1	known
+P00523	G. gallus	520	533	D		267	520	2PTK	2.35	AF-P00523-F1	known
+P00533	H. sapiens	965	998	S		712	979	5UG9	1.33	AF-P00533-F1	known
+P04049	H. sapiens	334	345	D		349	609	3OMV	4.00	AF-P04049-F1	known
+P04629	H. sapiens	287	384	S		510	781	1HE7/6D1Z	2.00/1.87	AF-P04629-F1	known
+P05129	H. sapiens	18	36	S		351	614	no 	no 	AF-P05129-F1	known
+P05771	H. sapiens	19	37	S		342	600	no 	no 	AF-P05771-F1	known
+P06213	H. sapiens	953	990	S		1023	1298	no 	no 	AF-P06213-F1	known
+P06782	S. crevisiae	392	495	D		55	306	3HYH	2.20	AF-P06782-F1	known
+P07333	H. sapiens	542	574	no		582	910	2I0Y	1.90	AF-P07333-F1	new
+P07333	H. sapiens	542	574	no		582	910	2I1M	1.80	AF-P07333-F1	new
+P08413	R. norvegicus	283	292	no		14	272	no	no	AF-P08413-F1	new
+P08414	M. musculus	297	336	no		42	296	no	no	AF-P08414-F1	new
+P09619	H. sapiens	1060	1106	D		600	962	no 	no 	AF-P09619-F1	known
+P0C605	M. musculus	50	75	no		360	619	no	no	AF-P0C605-F1	new
+P10721	H. sapiens	544	591	S		589	937	7KHG	2.15	AF-P10721-F1	known
+P11362	H. sapiens	120	149	D		478	767	6ITJ	1.99	AF-P11362-F1	known
+P11730	R. norvegicus	283	292	no		14	272	no	no	AF-P11730-F1	new
+P11799	G. gallus	654	880	S		1453	1708	no 	no 	AF-P11799-F1	known
+P13234	R. norvegicus	297	336	no		42	296	no	no	AF-P13234-F1	new
+P15056	H. sapiens	235	282	S		457	717	no 	no 	AF-P15056-F1	known
+P15791	R. norvegicus	283	292	no		14	272	no	no	AF-P15791-F1	new
+P16234	H. sapiens	999	1089	D		593	954	5K5X	2.17	AF-P16234-F1	known
+P17252	H. sapiens	19	37	S		339	597	no 	no 	AF-P17252-F1	known
+P17948	H. sapiens	1159	1338	D		827	1158	no 	no 	AF-P17948-F1	known
+P21802	H. sapiens	125	144	D		481	770	no 	no 	AF-P21802-F1	known
+P22455	H. sapiens	119	138	D		467	755	4TYG,4TYJ	2.40/2.45	AF-P22455-F1	known
+P22607	H. sapiens	126	145	D		472	761	4K33	2.34	AF-P22607-F1	known
+P23443	H. sapiens	424	525	no		91	352	3A62	2.35	AF-P23443-F1	new
+P25323	D. discoideum	264	295	no		8	265	no	no	AF-P25323-F1	new
+P28482	H. sapiens	173	196	S		25	313	6SLG	1.33	AF-P28482-F1	known
+P28582	D. carota	345	375	no		81	339	no	no	AF-P28582-F1	new
+P28583	G. max	298	328	no		34	292	no	no	AF-P28583-F1	new
+P28652	M. musculus	283	292	no		14	272	no	no	AF-P28652-F1	new
+P28829	S. cerevisiae	151	260	D		394	658	no 	no	AF-P28829-F1	known
+P29323	H. sapiens	588	621	S		621	884	no 	no 	AF-P29323-F1	known
+P31749	H. sapiens	17	149	D		150	408	7NH5	1.90	AF-P31749-F1	known
+P31751	H. sapiens	17	151	D		152	409	1O6K	1.70	AF-P31751-F1	known
+P35465	R. norvegicus	70	140	no		269	520	no	no	AF-P35465-F1	new
+P35508	B. taurus	317	342	no		9	277	no	no	AF-P35508-F1	new
+P35916	H. sapiens 	1174	1298	D		845	1173	no	no 	AF-P35916-F1	known
+P35968	H. sapiens	1163	1356	D		834	1162	no 	no 	AF-P35968-F1	known
+P36507	H. sapiens	75	102	S		72	369	1S9I	3.20	AF-P36507-F1	known
+P36888	H. sapiens	565	602	S		610	943	1RJB	2.10	AF-P36888-F1	known
+P41279	H. sapiens	395	467	D		138	388	no 	no 	AF-P41279-F1	known
+P41743	H. sapiens	123	140	S		254	522	no 	no 	AF-P41743-F1	known
+P42527	D. discoideum	500	551	no		564	808	5E9E	2.40	AF-P42527-F1	new
+P43403	H. sapiens	126	155	D		338	600	2OZO	2.60	AF-P43403-F1	known
+P43403	H. sapiens	256	337	D		338	600	2OZO	2.60	AF-P43403-F1	known
+P45985	H. sapiens	109	136	S		102	367	3ALN	2.30	AF-P45985-F1	known
+P46734	H. sapiens	71	98	S		64	325	no 	no 	AF-P46734-F1	known
+P48730	H. sapiens	317	342	no		9	277	5W4W	1.99	AF-P48730-F1	new
+P49101	Z. mays	329	359	no		65	323	no	no	AF-P49101-F1	new
+P49136	C. longicaudatus	257	293	no		1	254	no	no	AF-P49136-F1	new
+P49137	H. sapiens	339	353	D		64	325	3M2W	2.41	AF-P49137-F1	known
+P49138	M. musculus	314	350	no		50	311	no	no	AF-P49138-F1	new
+P49139	O. cuniculus	294	330	no		30	291	no	no	AF-P49139-F1	new
+P49674	H. sapiens	305	416	D		9	277	no 	no 	AF-P49674-F1	known
+P51812	H. sapiens	694	711	S		68	327	4NW6	1.74	AF-P51812-F1	known
+P51812	H. sapiens	694	711	S		422	679	4D9T	2.40	AF-P51812-F1	known
+P53355	H. sapiens	292	301	no		13	275	4B4L	1.75	AF-P53355-F1	new
+P53682	O. sativa subsp. japonica	337	367	no		73	331	no	no	AF-P53682-F1	new
+P53683	O. sativa subsp. japonica	348	378	no		85	343	no	no	AF-P53683-F1	new
+P53684	O. sativa subsp. japonica	343	373	no		79	337	no	no	AF-P53684-F1	new
+P54645	R. norvegicus	302	381	no		27	279	no	no	AF-P54645-F1	new
+P54646	H. sapiens	291	376	no		16	268	3AQV	2.00	AF-P54646-F1	new
+P54646	H. sapiens	291	376	no		16	268	2H6D	1.85	AF-P54646-F1	new
+P62343	P. falciparum (isolate K1 / Thailand)	346	353	no		56	325	no	no	AF-P62343-F1	new
+P62344	P. falciparum (isolate 3D7)	346	353	no		56	325	no	no	AF-P62344-F1	new
+P62345	P. berghei (strain Anka)	350	358	no		70	328	no	no	AF-P62345-F1	new
+P67998	O. cuniculus	424	525	no		91	352	no	no	AF-P67998-F1	new
+P67999	R. norvegicus	424	525	no		91	352	no	no	AF-P67999-F1	new
+P70336	M. musculus	1110	1388	S		92	354	no 	no 	AF-P70336-F1	known
+P83741	M. musculus	488	555	no		221	479	no	no	AF-P83741-F1	new
+P93759	A. thaliana	318	348	no		54	312	no	no	AF-P93759-F1	new
+Q00771	E. nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	278	314	no		23	278	no	no	AF-Q00771-F1	new
+Q00944	G. gallus	35	362	S		422	680	2J0J	2.80	AF-Q00944-F1	known
+Q01974	H. sapiens	633	646	S		473	746	4GT4	2.41	AF-Q01974-F1	known
+Q02750	H. sapiens	75	102	S		68	361	3EQC	1.80	AF-Q02750-F1	known
+Q06486	R. norvegicus	317	342	no		9	277	1CKI	2.30	AF-Q06486-F1	new
+Q06486	R. norvegicus	317	342	no		9	277	1CKJ	2.46	AF-Q06486-F1	new
+Q06850	A. thaliana	414	444	no		150	408	2AAO	2.00	AF-Q06850-F1	new
+Q07912	H. sapiens	803	880	D		126	385	4HZR	1.31	AF-Q07912-F1	known
+Q08E52	B. taurus	70	140	no		269	520	no	no	AF-Q08E52-F1	new
+Q09137	R. norvegicus	291	376	no		16	268	no	no	AF-Q09137-F1	new
+Q0D715	O. sativa subsp. japonica	318	348	no		52	312	no	no	AF-Q0D715-F1	new
+Q0DYK7	O. sativa subsp. japonica	356	386	no		92	350	no	no	AF-Q0DYK7-F1	new
+Q12851	H. sapiens	466	670	S		16	273	no 	no 	AF-Q12851-F1	known
+Q13043	H. sapiens	282	431	D		30	281	no 	no 	AF-Q13043-F1	known
+Q13131	H. sapiens	302	381	no		27	279	6C9H	2.65	AF-Q13131-F1	new
+Q13153	H. sapiens	83	149	D		270	521	1F3M	2.30	AF-Q13153-F1	known
+Q13164	H. sapiens	409	575	D		55	347	no 	no 	AF-Q13164-F1	known
+Q13164	H. sapiens	713	816	D		55	347	no 	no 	AF-Q13164-F1	known
+Q13177	H. sapiens	83	110	S		249	499	no 	no 	AF-Q13177-F1	known
+Q13188	H. sapiens	279	435	D		27	278	6AO5	2.96	AF-Q13188-F1	known
+Q13233	H. sapiens	1	362	D		1243	1508	no 	no 	AF-Q13233-F1	known
+Q13233	H. sapiens	554	581	S		1243	1508	6WHB	1.90	AF-Q13233-F1	known
+Q13464	H. sapiens	1115	1354	no		76	338	3O0Z	2.33	AF-Q13464-F1	new
+Q13464	H. sapiens	1115	1354	no		76	338	4L2W	2.49	AF-Q13464-F1	new
+Q13554	H. sapiens	283	292	no		14	272	3BHH	2.40	AF-Q13554-F1	new
+Q13555	H. sapiens	283	292	no		14	272	2V7O	2.25	AF-Q13555-F1	new
+Q13555	H. sapiens	283	292	no		14	272	2UX0	2.46	AF-Q13555-F1	new
+Q13557	H. sapiens	283	292	no		14	272	2WEL	1.90	AF-Q13557-F1	new
+Q13557	H. sapiens	283	292	no		14	272	2VN9	2.30	AF-Q13557-F1	new
+Q13976	H. sapiens	50	75	no		360	619	no	no	AF-Q13976-F1	new
+Q14012	H. sapiens	276	316	no		20	276	4FG8/4FG9	2.20/2.40	AF-Q14012-F1	new
+Q14680	H. sapiens	326	651	no		11	263	no	no	AF-Q14680-F1	new
+Q15349	H. sapiens	687	704	S		59	318	no 	no 	AF-Q15349-F1	known
+Q15349	H. sapiens	687	704	S		415	672	no 	no 	AF-Q15349-F1	known
+Q15418	H. sapiens	687	706	S		62	321	no 	no 	AF-Q15418-F1	known
+Q15418	H. sapiens	687	706	S		418	675	no 	no 	AF-Q15418-F1	known
+Q16566	H. sapiens	305	321	no		46	300	2W4O	2.17	AF-Q16566-F1	new
+Q16584	H. sapiens	43	103	S		117	379	5K26	1.20	AF-Q16584-F1	known
+Q16620	H. sapiens	287	377	S		538	807	1WWB/4ASZ	2.10/1.70	AF-Q16620-F1	known
+Q16644	H. sapiens	344	382	D		44	304	no 	no 	AF-Q16644-F1	known
+Q1PE17	A. thaliana	337	367	no		71	331	no	no	AF-Q1PE17-F1	new
+Q1PFH8	A. thaliana	363	393	no		98	357	no	no	AF-Q1PFH8-F1	new
+Q28948	S. scrofa	291	376	no		16	268	no	no	AF-Q28948-F1	new
+Q28GW8	X. tropicalis	328	652	no		13	265	no	no	AF-Q28GW8-F1	new
+Q29502	O. cuniculus	69	137	no		249	500	no	no	AF-Q29502-F1	new
+Q2HJF7	B. taurus	283	292	no		14	272	no	no	AF-Q2HJF7-F1	new
+Q2QQR2	O. sativa subsp. japonica	414	444	no		150	408	no	no	AF-Q2QQR2-F1	new
+Q2QVG8	O. sativa subsp. japonica	348	378	no		84	342	no	no	AF-Q2QVG8-F1	new
+Q2QX45	O. sativa subsp. japonica	313	343	no		49	307	no	no	AF-Q2QX45-F1	new
+Q2QY37	O. sativa subsp. japonica	347	377	no		83	341	no	no	AF-Q2QY37-F1	new
+Q2RAV0	O. sativa subsp. japonica	347	377	no		83	341	no	no	AF-Q2RAV0-F1	new
+Q38868	A. thaliana	355	385	no		91	349	no	no	AF-Q38868-F1	new
+Q38869	A. thaliana	289	319	no		25	283	no	no	AF-Q38869-F1	new
+Q38870	A. thaliana	450	480	no		186	444	no	no	AF-Q38870-F1	new
+Q38871	A. thaliana	361	391	no		97	355	no	no	AF-Q38871-F1	new
+Q38872	A. thaliana	349	379	no		85	343	no	no	AF-Q38872-F1	new
+Q38873	A. thaliana	323	353	no		59	317	no	no	AF-Q38873-F1	new
+Q39016	A. thaliana	290	320	no		26	284	no	no	AF-Q39016-F1	new
+Q3E9C0	A. thaliana	332	362	no		68	326	no	no	AF-Q3E9C0-F1	new
+Q3MHJ9	B. taurus	283	292	no		14	272	no	no	AF-Q3MHJ9-F1	new
+Q3SYZ2	B. taurus	309	345	no		46	306	no	no	AF-Q3SYZ2-F1	new
+Q3UMW7	M. musculus	309	345	no		46	306	no	no	AF-Q3UMW7-F1	new
+Q3Y416	C. elegans	437	442	no		130	411	no	no	AF-Q3Y416-F1	new
+Q42396	A. thaliana	286	316	no		22	280	no	no	AF-Q42396-F1	new
+Q42438	A. thaliana	321	351	no		57	315	no	no	AF-Q42438-F1	new
+Q42479	A. thaliana	342	372	no		78	336	no	no	AF-Q42479-F1	new
+Q53P85	O. sativa subsp. japonica	311	341	no		47	305	no	no	AF-Q53P85-F1	new
+Q5BP74	X. laevis	317	342	no		9	277	no	no	AF-Q5BP74-F1	new
+Q5EG47	M. musculus	302	381	no		27	279	5UFU	3.45	AF-Q5EG47-F1	new
+Q5RC72	P. abelii	317	342	no		9	277	no	no	AF-Q5RC72-F1	new
+Q5RD00	P. abelii	291	376	no		16	268	no	no	AF-Q5RD00-F1	new
+Q5RDH5	P. abelii	297	376	no		22	274	no	no	AF-Q5RDH5-F1	new
+Q5VQQ5	O. sativa subsp. japonica	325	355	no		61	319	no	no	AF-Q5VQQ5-F1	new
+Q5VT25	H. sapiens	658	930	D		77	343	no 	no 	AF-Q5VT25-F1	known
+Q61036	M. musculus	65	150	no		283	534	no	no	AF-Q61036-F1	new
+Q61846	M. musculus	326	643	no		11	263	no	no	AF-Q61846-F1	new
+Q62073	M. musculus	1	22	D		36	291	no	no	AF-Q62073-F1	known
+Q62120	M. musculus	619	670	S		545	809	no 	no 	AF-Q62120-F1	known
+Q62120	M. musculus	725	757	S		545	809	no 	no 	AF-Q62120-F1	known
+Q62120	M. musculus	619	670	S		849	1124	no 	no 	AF-Q62120-F1	known
+Q62120	M. musculus	725	757	S		849	1124	no 	no 	AF-Q62120-F1	known
+Q62829	R. norvegicus	65	135	no		268	519	no	no	AF-Q62829-F1	new
+Q63450	R. norvegicus	285	312	D		20	276	1A06	2.50	AF-Q63450-F1	known
+Q64303	R. norvegicus	69	137	no		249	500	no	no	AF-Q64303-F1	new
+Q66H84	R. norvegicus	309	345	no		46	306	no	no	AF-Q66H84-F1	new
+Q69IM9	O. sativa subsp. japonica	374	404	no		105	368	no	no	AF-Q69IM9-F1	new
+Q6AVI8	O. sativa subsp. japonica	365	395	no		101	359	no	no	AF-Q6AVI8-F1	new
+Q6DE87	X. laevis	360	474	no		9	265	no	no	AF-Q6DE87-F1	new
+Q6F3A6	O. sativa subsp. japonica	397	427	no		133	391	no	no	AF-Q6F3A6-F1	new
+Q6FI27	H. sapiens	3	54	D		56	340	no 	no 	AF-Q6FI27-F1	known
+Q6I587	O. sativa subsp. japonica	354	384	no		90	348	no	no	AF-Q6I587-F1	new
+Q6I5I8	O. sativa subsp. japonica	337	367	no		73	331	no	no	AF-Q6I5I8-F1	new
+Q6K968	O. sativa subsp. japonica	338	368	no		74	332	no	no	AF-Q6K968-F1	new
+Q6NLQ6	A. thaliana	327	357	no		63	321	no	no	AF-Q6NLQ6-F1	new
+Q6P3K7	D. rerio	317	341	no		9	277	no	no	AF-Q6P3K7-F1	new
+Q6P647	X. tropicalis	317	342	no		9	277	no	no	AF-Q6P647-F1	new
+Q6PHZ2	M. musculus	283	292	no		14	272	no	no	AF-Q6PHZ2-F1	new
+Q6R2V0	S. scrofa	486	553	no		219	477	no	no	AF-Q6R2V0-F1	new
+Q6TJY3	B. taurus	424	527	no		91	352	no	no	AF-Q6TJY3-F1	new
+Q6Z2M9	O. sativa subsp. japonica	325	355	no		59	319	no	no	AF-Q6Z2M9-F1	new
+Q6ZIU9	O. sativa subsp. japonica	364	394	no		77	358	no	no	AF-Q6ZIU9-F1	new
+Q75GE8	O. sativa subsp. japonica	328	358	no		64	322	no	no	AF-Q75GE8-F1	new
+Q7RAH3	P. yoelii yoelii	345	352	no		57	324	no	no	AF-Q7RAH3-F1	new
+Q7RAV5	P. yoelii yoelii	387	395	no		112	367	no	no	AF-Q7RAV5-F1	new
+Q7RJG2	P. yoelii yoelii	350	358	no		70	328	no	no	AF-Q7RJG2-F1	new
+Q7T2E3	D. rerio	315	340	no		9	277	no	no	AF-Q7T2E3-F1	new
+Q7TNJ7	R. norvegicus	277	317	no		23	277	no	no	AF-Q7TNJ7-F1	new
+Q7XIM0	O. sativa subsp. japonica	370	400	no		106	364	no	no	AF-Q7XIM0-F1	new
+Q7XJR9	A. thaliana	374	404	no		108	368	no	no	AF-Q7XJR9-F1	new
+Q7XSQ5	O. sativa subsp. japonica	354	384	no		91	349	no	no	AF-Q7XSQ5-F1	new
+Q7YQL3	P. pygmaeus	65	150	no		283	534	no	no	AF-Q7YQL3-F1	new
+Q7YQL4	P. troglodytes	65	150	no		283	534	no	no	AF-Q7YQL4-F1	new
+Q80YE7	M. musculus	292	301	no		13	275	no	no	AF-Q80YE7-F1	new
+Q84SL0	O. sativa subsp. japonica	339	369	no		75	333	no	no	AF-Q84SL0-F1	new
+Q852N6	O. sativa subsp. japonica	377	407	no		113	371	no	no	AF-Q852N6-F1	new
+Q8AXB4	X. laevis	65	150	no		288	539	no	no	AF-Q8AXB4-F1	new
+Q8AYC9	G. gallus	391	476	no		9	265	no	no	AF-Q8AYC9-F1	new
+Q8BRK8	M. musculus	291	376	no		16	268	no	no	AF-Q8BRK8-F1	new
+Q8BSK8	M. musculus	424	525	no		91	352	no	no	AF-Q8BSK8-F1	new
+Q8BW96	M. musculus	279	319	no		23	279	no	no	AF-Q8BW96-F1	new
+Q8C078	M. musculus	472	477	no		165	446	no	no	AF-Q8C078-F1	new
+Q8CIN4	M. musculus	69	137	no		249	499	no	no	AF-Q8CIN4-F1	new
+Q8I719	P. falciparum (isolate 3D7)	1	29	no		541	798	5DYK	2.45	AF-Q8I719-F1	new
+Q8IBS5	P. falciparum (isolate 3D7)	350	358	no		71	329	4RGJ	2.30	AF-Q8IBS5-F1	new
+Q8ICR0	P. falciparum (isolate 3D7)	345	353	no		72	326	no	no	AF-Q8ICR0-F1	new
+Q8IU85	H. sapiens	279	319	no		23	279	6T29	1.48	AF-Q8IU85-F1	new
+Q8IVH8	H. sapiens	511	735	S		16	273	no 	no 	AF-Q8IVH8-F1	known
+Q8IW41	H. sapiens	308	368	S		22	304	no 	no 	no 	known
+Q8LPZ7	O. sativa subsp. japonica	341	371	no		77	335	no	no	AF-Q8LPZ7-F1	new
+Q8N5S9	H. sapiens	435	440	no		128	409	no	no	AF-Q8N5S9-F1	new
+Q8RWL2	A. thaliana	348	378	no		85	343	no	no	AF-Q8RWL2-F1	new
+Q8VBY2	M. musculus	435	440	no		128	409	no	no	AF-Q8VBY2-F1	new
+Q8VDF3	M. musculus	292	301	no		23	285	2YAB	1.90	AF-Q8VDF3-F1	new
+Q8VDF3	M. musculus	292	301	no		23	285	2YAA	2.30	AF-Q8VDF3-F2	new
+Q8VDF3	M. musculus	292	301	no		23	285	2YA9	2.30	AF-Q8VDF3-F3	new
+Q8W4I7	A. thaliana	318	348	no		54	312	no	no	AF-Q8W4I7-F1	new
+Q91821	X. laevis	328	651	no		13	265	no	no	AF-Q91821-F1	new
+Q91VB2	M. musculus	277	317	no		23	277	no	no	AF-Q91VB2-F1	new
+Q91YS8	M. musculus	276	316	no		20	276	no	no	AF-Q91YS8-F1	new
+Q91ZN7	R. norvegicus	391	476	no		9	265	no	no	AF-Q91ZN7-F1	new
+Q923T9	M. musculus	283	292	no		14	272	no	no	AF-Q923T9-F1	new
+Q92918	H. sapiens	474	687	S		17	274	no 	no 	AF-Q92918-F1	known
+Q93107	A. castellanii	91	157	D		469	725	no 	no 	AF-Q93107-F1	known
+Q95266	S. scrofa	283	292	no		14	272	no	no	AF-Q95266-F1	new
+Q96NX5	H. sapiens	277	317	no		23	277	2JAM	1.70	AF-Q96NX5-F1	new
+Q96RG2	H. sapiens	183	200	S		999	1251	no 	no 	AF-Q96RG2-F1	known
+Q96RR4	H. sapiens	471	499	D		165	446	2ZV2	2.40	AF-Q96RR4-F1	known
+Q99558	H. sapiens	121	318	D		400	655	no 	no 	AF-Q99558-F1	known
+Q99683	H. sapiens	1	648	S		680	938	5ULM	2.10	AF-Q99683-F1	known
+Q99N57	M. musculus	139	187	S		349	609	no 	no 	AF-Q99N57-F1	known
+Q9C6P3	A. thaliana	337	367	no		73	331	no	no	AF-Q9C6P3-F1	new
+Q9DC28	M. musculus	317	342	no		9	277	no	no	AF-Q9DC28-F1	new
+Q9FIM9	A. thaliana	409	439	no		143	405	no	no	AF-Q9FIM9-F1	new
+Q9FKW4	A. thaliana	328	358	no		62	322	no	no	AF-Q9FKW4-F1	new
+Q9FMP5	A. thaliana	337	367	no		73	331	no	no	AF-Q9FMP5-F1	new
+Q9FX86	A. thaliana	418	448	no		150	412	no	no	AF-Q9FX86-F1	new
+Q9FXQ3	O. sativa subsp. japonica	352	382	no		88	346	no	no	AF-Q9FXQ3-F1	new
+Q9H2X6	H. sapiens	935	1050	D		199	527	no 	no 	AF-Q9H2X6-F1	known
+Q9H4A3	H. sapiens	488	555	no		221	479	6FBK	1.74	AF-Q9H4A3-F1	new
+Q9JIH7	R. norvegicus	488	555	no		221	479	no	no	AF-Q9JIH7-F1	new
+Q9LET1	A. thaliana	391	421	no		124	386	no	no	AF-Q9LET1-F1	new
+Q9LJL9	A. thaliana	411	441	no		144	406	no	no	AF-Q9LJL9-F1	new
+Q9M101	A. thaliana	332	362	no		69	327	no	no	AF-Q9M101-F1	new
+Q9M9V8	A. thaliana	327	357	no		63	321	no	no	AF-Q9M9V8-F1	new
+Q9NJU9	P. falciparum (isolate 3D7)	393	401	no		118	373	3K21	1.15	AF-Q9NJU9-F1	new
+Q9QZR5	M. musculus	984	1196	no		199	527	no	no	AF-Q9QZR5-F1	new
+Q9S9V0	A. thaliana	295	325	no		28	290	no	no	AF-Q9S9V0-F1	new
+Q9SCS2	A. thaliana	415	445	no		148	410	no	no	AF-Q9SCS2-F1	new
+Q9SG12	A. thaliana	408	438	no		142	404	no	no	AF-Q9SG12-F1	new
+Q9SIQ7	A. thaliana	330	360	no		66	324	no	no	AF-Q9SIQ7-F1	new
+Q9SJ61	A. thaliana	396	426	no		132	390	no	no	AF-Q9SJ61-F1	new
+Q9SSF8	A. thaliana	323	353	no		59	317	no	no	AF-Q9SSF8-F1	new
+Q9SZM3	A. thaliana	288	318	no		24	282	no	no	AF-Q9SZM3-F1	new
+Q9TXJ0	C. elegans	278	318	no		22	278	no	no	AF-Q9TXJ0-F1	new
+Q9UIK4	H. sapiens	292	301	no		23	285	2A2A	1.47	AF-Q9UIK4-F1	new
+Q9VI13	D. melanogaster	80	171	no		430	681	no	no	AF-Q9VI13-F1	new
+Q9WUM7	M. auratus	956	1168	no		199	527	no	no	AF-Q9WUM7-F1	new
+Q9Y243	H. sapiens	17	147	S		148	405	no 	no 	AF-Q9Y243-F1	known
+Q9Y6R4	H. sapiens	253	552	S		1343	1601	no 	no 	AF-Q9Y6R4-F1	known
+Q9Y898	E. nidulans	404	409	no		81	376	no	no	AF-Q9Y898-F1	new
+Q9Y899	E. nidulans	279	322	no		18	279	no	no	AF-Q9Y899-F1	new
+Q9ZSA2	A. thaliana	343	373	no		80	338	no	no	AF-Q9ZSA2-F1	new
+Q9ZSA3	A. thaliana	309	339	no		36	305	no	no	AF-Q9ZSA3-F1	new
+Q9ZSA4	A. thaliana	295	325	no		28	290	no	no	AF-Q9ZSA4-F1	new
+Q9ZUZ2	A. thaliana	409	439	no		143	405	no	no	AF-Q9ZUZ2-F1	new
+Q9ZV15	A. thaliana	398	428	no		134	392	no	no	AF-Q9ZV15-F1	new
+W0LYS5	M. nipponense	287	327	no		31	287	no	no	AF-W0LYS5-F1	new
+W7JX98	P. falciparum (isolate NF54)	1	29	no		541	798	no	no	AF-W7JX98-F1	new

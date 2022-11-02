@@ -173,6 +173,7 @@ def all_atoms_selector(atom1, atom2):
     Accepts two any atoms.
     """
     #pylint: disable=unused-argument
+    
     return True
 def side_chain_selector(atom1, atom2):
     """

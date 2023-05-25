@@ -191,6 +191,11 @@ def carbon_beta_selector(atom1, atom2):
     """
     return atom1.id == 'CB' and atom2.id == 'CB'
 
+# def atom_from_kd_cre(atom1, atom2):
+#     '''
+#     '''
+#     if atom1
+
 def _pick_pdb_model(pdb_source):
     if isinstance(pdb_source, Structure):
         struct = pdb_source
@@ -219,42 +224,65 @@ def _shorter_distance_between_residues(
                                 for item in res] + [dist]
     return min_res_data
 
+def hello():
+    return "alv"
+
 def calculate_distances(
         pdb_source,
+        chains_kd_cre,
         atom_selector=carbon_beta_selector,
         include_extra_info=False):
     """
     Compute distances between residues
         :param pdb_source: a path to a pdb file, a Bio.PDB.Structure or a
             Bio.PDB.Model
+        :param chains_kd_cre: a dict of dict where the key is the chain and the value
+        is a dict of regions residues in a pdb. Ex.: {"A": {"kd": [1,2,3,4,5], "cre":[12, 13, 14, 15]}
         :param atom_selector=all_atoms_selector: a function that allows to
             select pairs of atoms to include into the distance calculation.
         :param include_extra_info=False: If True adds residue name and atom name
             for each contacting atom to the output.
     """
-    model = _pick_pdb_model(pdb_source)
+    #print(f"pdb_source: {pdb_source}, dict: {chains_kd_cre}")
+    model = _pick_pdb_model(pdb_source) # revisar
+    #print(f"model: {model}")
     chains = model.get_chains()
+    #print(chains)
     out = []
     for chain1, chain2 in combinations_with_replacement(chains, 2):
+        #print(f"chain1: {chain1}, chain2: {chain2}")
         if chain1 is chain2:
+            
             res_iter = combinations(chain1, 2)
-        else:
-            res_iter = product(chain1, chain2)
-        for res1, res2 in res_iter:
-            if not res1 is res2:
-                min_res_data = _shorter_distance_between_residues(
-                    res1, res2, chain1, chain2, atom_selector)
-            if min_res_data:
-                if include_extra_info:
-                    out.append(min_res_data)
-                else:
-                    out.append([
-                        min_res_data[0],
-                        min_res_data[1],
-                        min_res_data[4],
-                        min_res_data[5],
-                        min_res_data[8]
-                    ])
+        # else:
+        #     res_iter = product(chain1, chain2)
+            for res1, res2 in res_iter:
+                if res1 is res2:
+                    continue
+                if (
+                    (
+                        res1.id[1] in chains_kd_cre[chain1.id]["kd"] and
+                        res2.id[1] in chains_kd_cre[chain2.id]["cre"]
+                    ) or (
+                        res1.id[1] in chains_kd_cre[chain1.id]["cre"] and
+                        res2.id[1] in chains_kd_cre[chain2.id]["kd"]
+                    )
+                ): # mi_lista son coord de KD y CRE
+                    #global min_res_data # nuevo
+                    min_res_data = _shorter_distance_between_residues(
+                        res1, res2, chain1, chain2, atom_selector
+                    )
+                    if min_res_data:
+                        if include_extra_info:
+                            out.append(min_res_data)
+                        else:
+                            out.append([
+                                min_res_data[0],
+                                min_res_data[1],
+                                min_res_data[4],
+                                min_res_data[5],
+                                min_res_data[8]
+                            ])
     return out
 
 def save_distances(dist_data, outfile):

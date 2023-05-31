@@ -1,2 +1,11 @@
+.vscode
+.venv
+__pycache__
+
+
 bibliography/
 homology_transfer/
+
+# Ignore some outpu data files
+datasets/pdb_files
+datasets/interatomic_distances_both_regions_kd_cre/

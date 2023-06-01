@@ -173,18 +173,20 @@ def all_atoms_selector(atom1, atom2):
     Accepts two any atoms.
     """
     #pylint: disable=unused-argument
-    
     return True
+
 def side_chain_selector(atom1, atom2):
     """
     Accepts two atoms that are part of the sidechain of an aminoacid.
     """
     return not is_back_bone(atom1) and not is_back_bone(atom2)
+
 def carbon_alfa_selector(atom1, atom2):
     """
     Accepts two alpha carbon atoms
     """
     return atom1.id == 'CA' and atom2.id == 'CA'
+
 def carbon_beta_selector(atom1, atom2):
     """
     Accepts two beta carbon atoms
@@ -250,12 +252,10 @@ def calculate_distances(
     #print(chains)
     out = []
     for chain1, chain2 in combinations_with_replacement(chains, 2):
-        #print(f"chain1: {chain1}, chain2: {chain2}")
         if chain1 is chain2:
-            
             res_iter = combinations(chain1, 2)
-        # else:
-        #     res_iter = product(chain1, chain2)
+            if not chain1.id in chains_kd_cre:
+                continue
             for res1, res2 in res_iter:
                 if res1 is res2:
                     continue
